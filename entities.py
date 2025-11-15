@@ -158,13 +158,13 @@ emptyDict = {'count':0,'sentiment':0,'subjectivity':0}
 indexLocations = {}
 indexOrganizations = {}
 indexPersons = {}
-indexNewPersons = {}
+indexNewLocations = {}
 indexMisc = {}
 indexMissing = {}
 
-def personInSearch(person):
+def locationInSearch(location):
     for keyword in keywordsDF['keyword']:
-        if((person in keyword) or (keyword.strip("'") in person)):
+        if((location in keyword) or (keyword.strip("'") in location)):
              return True
     return False
 
@@ -197,6 +197,16 @@ for index, column in objNewsDF.iterrows():
                 else:      
                     indexLocations[entity.text] = {'phrase':entity.text, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
                                                    'subjectivity':sentence.sentiment.subjectivity, 'language':lang,'count':1}
+
+                if(not locationInSearch(entity.text) and (column.age < 60)):
+                  if(entity.text in indexNewLocations):
+                    indexNewLocations[entity.text]['count'] += 1
+                    indexNewLocations[entity.text]['sentiment'] += sentence.sentiment.polarity
+                    indexNewLocations[entity.text]['subjectivity'] += sentence.sentiment.subjectivity
+                  else:    
+                    indexNewLocations[entity.text] = {'phrase':entity.text, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
+                                                 'subjectivity':sentence.sentiment.subjectivity, 'language':lang, 'count':1}  
+
             elif(entity.label_ in ['PER','PERSON']):
              personText = entity.text
              personText = personText.strip(" .,!?;:'…/-").strip('"')
@@ -209,14 +219,7 @@ for index, column in objNewsDF.iterrows():
                 else:    
                     indexPersons[personText] = {'phrase':personText, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
                                                  'subjectivity':sentence.sentiment.subjectivity, 'language':lang, 'count':1} 
-                if(not personInSearch(personText) and (column.age < 60)):
-                  if(personText in indexNewPersons):
-                    indexNewPersons[personText]['count'] += 1
-                    indexNewPersons[personText]['sentiment'] += sentence.sentiment.polarity
-                    indexNewPersons[personText]['subjectivity'] += sentence.sentiment.subjectivity
-                  else:    
-                    indexNewPersons[personText] = {'phrase':personText, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
-                                                 'subjectivity':sentence.sentiment.subjectivity, 'language':lang, 'count':1}   
+ 
             elif('ORG' == entity.label_):
                 if(entity.text in indexOrganizations):
                     indexOrganizations[entity.text]['count'] += 1
@@ -255,11 +258,11 @@ indexPersonsDF['subjectivity'] = indexPersonsDF['subjectivity']/indexPersonsDF['
 indexPersonsDF = indexPersonsDF.sort_values(by=['count'], ascending=False)
 indexPersonsDF.to_csv(DATA_PATH / 'csv' / "sentiments_persons.csv", index=True)
 
-indexNewPersonsDF = pd.DataFrame.from_dict(indexNewPersons, orient='index', columns=colSent)
-indexNewPersonsDF['sentiment'] = indexNewPersonsDF['sentiment']/indexNewPersonsDF['count']
-indexNewPersonsDF['subjectivity'] = indexNewPersonsDF['subjectivity']/indexNewPersonsDF['count']
-indexNewPersonsDF = indexNewPersonsDF.sort_values(by=['count'], ascending=False)
-indexNewPersonsDF.to_csv(DATA_PATH / 'csv' / "sentiments_new_persons.csv", index=True)
+indexNewLocationsDF = pd.DataFrame.from_dict(indexNewLocations, orient='index', columns=colSent)
+indexNewLocationsDF['sentiment'] = indexNewLocationsDF['sentiment']/indexNewLocationsDF['count']
+indexNewLocationsDF['subjectivity'] = indexNewLocationsDF['subjectivity']/indexNewLocationsDF['count']
+indexNewLocationsDF = indexNewLocationsDF.sort_values(by=['count'], ascending=False)
+indexNewLocationsDF.to_csv(DATA_PATH / 'csv' / "sentiments_new_locations.csv", index=True)
 
 indexOrganizationsDF = pd.DataFrame.from_dict(indexOrganizations, orient='index', columns=colSent)
 indexOrganizationsDF['sentiment'] = indexOrganizationsDF['sentiment']/indexOrganizationsDF['count']
