@@ -1,505 +1,489 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Peking',en,China,#FC5C4C,#FC5C4C,2,0.10000070832630001
-'China',en,China,#FC5C4C,#FC5C4C,2,0.10000070832630001
-'Indien',en,India,#3B0C78,#3B0C78,2,0.10000073930740004
-'Neu-Delhi',en,India,#3B0C78,#3B0C78,2,0.10000073930740004
-'Washington',en,United States,#8E1D06,#8E1D06,2,0.10000305653893414
-'Vereinigte Staaten',en,United States,#8E1D06,#8E1D06,2,0.10000305653893414
-'Jakarta',en,Indonesia,#EF6484,#EF6484,2,0.10000373603514429
-'Indonesien',en,Indonesia,#EF6484,#EF6484,2,0.10000373603514429
-'Islamabad',en,Pakistan,#D2F55A,#D2F55A,2,0.10000471220158158
-'Pakistan',en,Pakistan,#D2F55A,#D2F55A,2,0.10000471220158158
-'Brasilia',en,Brazil,#19925E,#19925E,2,0.10000477396851214
-'Brasilien',en,Brazil,#19925E,#19925E,2,0.10000477396851214
-'Nigeria',en,Nigeria,#54D20E,#54D20E,2,0.10000510530352204
-'Abuja',en,Nigeria,#54D20E,#54D20E,2,0.10000510530352204
-'Bangladesch',en,Bangladesh,#B9ABC1,#B9ABC1,2,0.10000619747488967
-'Dhaka',en,Bangladesh,#B9ABC1,#B9ABC1,2,0.10000619747488967
-'Moskau',en,Russia,#4CF745,#4CF745,2,0.10000692146661726
-'Russland',en,Russia,#4CF745,#4CF745,2,0.10000692146661726
-'Japan',en,Japan,#87C835,#87C835,2,0.10000790332026388
-'Tokio',en,Japan,#87C835,#87C835,2,0.10000790332026388
-'Mexiko',en,Mexico,#6BC224,#6BC224,2,0.10000792450872088
-'Mexiko-Stadt',en,Mexico,#6BC224,#6BC224,2,0.10000792450872088
-'Addis Abeba',en,Ethiopia,#A5A990,#A5A990,2,0.1000091554501035
-'Äthiopien',en,Ethiopia,#A5A990,#A5A990,2,0.1000091554501035
-'Philippinen',en,Philippines,#E57800,#E57800,2,0.10000937629609713
-'Manila',en,Philippines,#E57800,#E57800,2,0.10000937629609713
-'Kairo',en,Egypt,#5F6018,#5F6018,2,0.10001016016535466
-'Ägypten',en,Egypt,#5F6018,#5F6018,2,0.10001016016535466
-'Vietnam',en,Vietnam,#F49924,#F49924,2,0.10001046677690625
-'Hanoi',en,Vietnam,#F49924,#F49924,2,0.10001046677690625
-'Demokratische Republik Kongo',en,Democratic Republic of the Congo,#C2BF79,#C2BF79,2,0.10001189511963583
-'Kinshasa',en,Democratic Republic of the Congo,#C2BF79,#C2BF79,2,0.10001189511963583
-'Berlin',en,Germany,#44AD00,#44AD00,2,0.10001205866463168
-'Deutschland',en,Germany,#44AD00,#44AD00,2,0.10001205866463168
-'Ankara',en,Turkey,#F547D7,#F547D7,2,0.10001214775695799
-'Truthahn',en,Turkey,#F547D7,#F547D7,2,0.10001214775695799
-'Iran',en,Iran,#81ABB2,#81ABB2,2,0.10001222489867363
-'Teheran',en,Iran,#81ABB2,#81ABB2,2,0.10001222489867363
-'Bangkok',en,Thailand,#EEFF06,#EEFF06,2,0.10001440330202037
-'Thailand',en,Thailand,#EEFF06,#EEFF06,2,0.10001440330202037
-'Frankreich',en,France,#D4DCBD,#D4DCBD,2,0.10001492821528828
-'Paris',en,France,#D4DCBD,#D4DCBD,2,0.10001492821528828
-'London',en,United Kingdom,#5A65F3,#5A65F3,2,0.10001504008385388
-'Vereinigtes Königreich',en,United Kingdom,#5A65F3,#5A65F3,2,0.10001504008385388
-'Italien',en,Italy,#1A5251,#1A5251,2,0.10001654772082202
-'Rom',en,Italy,#1A5251,#1A5251,2,0.10001654772082202
-'Südafrika',en,South Africa,#E2D987,#E2D987,2,0.10001730713987711
-'Pretoria',en,South Africa,#E2D987,#E2D987,2,0.10001730713987711
-'Dodoma',en,Tanzania,#C3D8A5,#C3D8A5,2,0.10001775620264998
-'Tansania',en,Tanzania,#C3D8A5,#C3D8A5,2,0.10001775620264998
-"'Nein, Pyi Taw'",en,Myanmar,#00E52D,#00E52D,2,0.1000186190631837
-'Myanmar',en,Myanmar,#00E52D,#00E52D,2,0.1000186190631837
-'Südkorea',en,South Korea,#F22618,#F22618,2,0.10001936661261059
-'Seoul',en,South Korea,#F22618,#F22618,2,0.10001936661261059
-'Nairobi',en,Kenya,#2B0462,#2B0462,2,0.10001945789904114
-'Kenia',en,Kenya,#2B0462,#2B0462,2,0.10001945789904114
-'Kolumbien',en,Colombia,#0D3E50,#0D3E50,2,0.10002014152036454
-'Bogotá',en,Colombia,#0D3E50,#0D3E50,2,0.10002014152036454
-'Madrid',en,Spain,#8253E3,#8253E3,2,0.10002140239217534
-'Spanien',en,Spain,#8253E3,#8253E3,2,0.10002140239217534
-'Kiew',en,Ukraine,#0BA9A7,#0BA9A7,2,0.10002241021102441
-'Ukraine',en,Ukraine,#0BA9A7,#0BA9A7,2,0.10002241021102441
-'Buenos Aires',en,Argentina,#F9ADE8,#F9ADE8,2,0.10002247468687256
-'Argentinien',en,Argentina,#F9ADE8,#F9ADE8,2,0.10002247468687256
-'Kampala',en,Uganda,#55C78E,#55C78E,2,0.10002340651982525
-'Uganda',en,Uganda,#55C78E,#55C78E,2,0.10002340651982525
-'Algerien',en,Algeria,#2D8CDA,#2D8CDA,2,0.10002368072939678
-'Algier',en,Algeria,#2D8CDA,#2D8CDA,2,0.10002368072939678
-'Khartum',en,Sudan,#35C618,#35C618,2,0.1000239225676245
-'Sudan',en,Sudan,#35C618,#35C618,2,0.1000239225676245
-'Irak',en,Iraq,#2247E6,#2247E6,2,0.10002601890012906
-'Bagdad',en,Iraq,#2247E6,#2247E6,2,0.10002601890012906
-'Polen',en,Poland,#276EFF,#276EFF,2,0.10002633065382069
-'Warschau',en,Poland,#276EFF,#276EFF,2,0.10002633065382069
-'Afghanistan',en,Afghanistan,#BBE839,#BBE839,2,0.1000269016898727
-'Kabul',en,Afghanistan,#BBE839,#BBE839,2,0.1000269016898727
-'Ottawa',en,Canada,#8D05CE,#8D05CE,2,0.10002698410334092
-'Kanada',en,Canada,#8D05CE,#8D05CE,2,0.10002698410334092
-'Marokko',en,Morocco,#588476,#588476,2,0.10002775531293588
-'Rabat',en,Morocco,#588476,#588476,2,0.10002775531293588
-'Saudi-Arabien',en,Saudi Arabia,#976236,#976236,2,0.10002967363717219
-'Riad',en,Saudi Arabia,#976236,#976236,2,0.10002967363717219
-'Taschkent',en,Uzbekistan,#03D5DB,#03D5DB,2,0.10003034404073384
-'Usbekistan',en,Uzbekistan,#03D5DB,#03D5DB,2,0.10003034404073384
-'Lima',en,Peru,#BA0E8A,#BA0E8A,2,0.10003126049571144
-'Peru',en,Peru,#BA0E8A,#BA0E8A,2,0.10003126049571144
-'Kuala Lumpur',en,Malaysia,#241745,#241745,2,0.10003171724960065
-'Malaysia',en,Malaysia,#241745,#241745,2,0.10003171724960065
-'Luanda',en,Angola,#1F65AD,#1F65AD,2,0.1000324572452069
-'Angola',en,Angola,#1F65AD,#1F65AD,2,0.1000324572452069
-'Ghana',en,Ghana,#B84ADB,#B84ADB,2,0.10003359412677913
-'Accra',en,Ghana,#B84ADB,#B84ADB,2,0.10003359412677913
-'Mosambik',en,Mozambique,#7299D6,#7299D6,2,0.10003390294576593
-'Maputo',en,Mozambique,#7299D6,#7299D6,2,0.10003390294576593
-'Venezuela',en,Venezuela,#E81D03,#E81D03,2,0.10003463779860164
-'Caracas',en,Venezuela,#E81D03,#E81D03,2,0.10003463779860164
-'Jemen',en,Yemen,#A41E48,#A41E48,2,0.10003508933587012
-'Sanaa',en,Yemen,#A41E48,#A41E48,2,0.10003508933587012
-'Nepal',en,Nepal,#7D4D3D,#7D4D3D,2,0.10003560255599295
-'Kathmandu',en,Nepal,#7D4D3D,#7D4D3D,2,0.10003560255599295
-'Madagaskar',en,Madagascar,#E2B6C2,#E2B6C2,2,0.10003807729752322
-'Antananarivo',en,Madagascar,#E2B6C2,#E2B6C2,2,0.10003807729752322
-'Nordkorea',en,North Korea,#27348B,#27348B,2,0.10003913922051659
-'Pjöngjang',en,North Korea,#27348B,#27348B,2,0.10003913922051659
-'Kamerun',en,Cameroon,#7BB694,#7BB694,2,0.10003965698767822
-'Yaoundé',en,Cameroon,#7BB694,#7BB694,2,0.10003965698767822
-'Yamoussoukro',en,Ivory Coast,#D6BAB5,#D6BAB5,2,0.10003988953948285
-'Elfenbeinküste',en,Ivory Coast,#D6BAB5,#D6BAB5,2,0.10003988953948285
-'Canberra',en,Australia,#857C43,#857C43,2,0.100040012213328
-'Australien',en,Australia,#857C43,#857C43,2,0.100040012213328
-'Taiwan',en,Taiwan,#37742F,#37742F,2,0.10004264058291042
-'Taipeh',en,Taiwan,#37742F,#37742F,2,0.10004264058291042
-'Niamey',en,Niger,#80F493,#80F493,2,0.10004455742623473
-'Niger',en,Niger,#80F493,#80F493,2,0.10004455742623473
-'Sri Lanka',en,Sri Lanka,#0C66E3,#0C66E3,2,0.10004614674665437
-'Colombo',en,Sri Lanka,#0C66E3,#0C66E3,2,0.10004614674665437
-'Ouagadougou',en,Burkina Faso,#70EBA9,#70EBA9,2,0.10005062897643145
-'Burkina Faso',en,Burkina Faso,#70EBA9,#70EBA9,2,0.10005062897643145
-'Rumänien',en,Romania,#5F1E0F,#5F1E0F,2,0.10005135068740084
-'Bukarest',en,Romania,#5F1E0F,#5F1E0F,2,0.10005135068740084
-'Mali',en,Mali,#EB8B3D,#EB8B3D,2,0.10005241724758082
-'Bamako',en,Mali,#EB8B3D,#EB8B3D,2,0.10005241724758082
-'Chile',en,Chile,#4A799C,#4A799C,2,0.10005339267751465
-'Santiago',en,Chile,#4A799C,#4A799C,2,0.10005339267751465
-'Kasachstan',en,Kazakhstan,#3F5C29,#3F5C29,2,0.10005471507426013
-'Nur-Sultan',en,Kazakhstan,#3F5C29,#3F5C29,2,0.10005471507426013
-'Malawi',en,Malawi,#B9C253,#B9C253,2,0.10005693545267585
-'Lilongwe',en,Malawi,#B9C253,#B9C253,2,0.10005693545267585
-'Lusaka',en,Zambia,#B15F5A,#B15F5A,2,0.10005763083553992
-'Sambia',en,Zambia,#B15F5A,#B15F5A,2,0.10005763083553992
-'Guatemala',en,Guatemala,#F2E752,#F2E752,2,0.1000579783853101
-'Guatemala-Stadt',en,Guatemala,#F2E752,#F2E752,2,0.1000579783853101
-'Die Niederlande',en,The Netherlands,#6F7CEA,#6F7CEA,2,0.10005803487977524
-'Amsterdam',en,The Netherlands,#6F7CEA,#6F7CEA,2,0.10005803487977524
-'Ecuador',en,Ecuador,#200837,#200837,2,0.10005853307794962
-'Quito',en,Ecuador,#200837,#200837,2,0.10005853307794962
-'Syrien',en,Syria,#3AE75E,#3AE75E,2,0.10005914960727914
-'Damaskus',en,Syria,#3AE75E,#3AE75E,2,0.10005914960727914
-'Simbabwe',en,Zimbabwe,#A377E4,#A377E4,2,0.10005928241365265
-'Harare',en,Zimbabwe,#A377E4,#A377E4,2,0.10005928241365265
-'Kambodscha',en,Cambodia,#60C0BD,#60C0BD,2,0.10006153922651839
-'Phnom Penh',en,Cambodia,#60C0BD,#60C0BD,2,0.10006153922651839
-'Dakar',en,Senegal,#7E904D,#7E904D,2,0.10006307413228917
-'Senegal',en,Senegal,#7E904D,#7E904D,2,0.10006307413228917
-'N'Djamena',en,Chad,#75888A,#75888A,2,0.10006460886985455
-'Tschad',en,Chad,#75888A,#75888A,2,0.10006460886985455
-'Mogadischu',en,Somalia,#CDEA16,#CDEA16,2,0.10006663044635604
-'Somalia',en,Somalia,#CDEA16,#CDEA16,2,0.10006663044635604
-'Guinea',en,Guinea,#179EC9,#179EC9,2,0.10008055214954217
-'Conakry',en,Guinea,#179EC9,#179EC9,2,0.10008055214954217
-'Kigali',en,Rwanda,#A56B0C,#A56B0C,2,0.100081287998583
-'Ruanda',en,Rwanda,#A56B0C,#A56B0C,2,0.100081287998583
-'Tunis',en,Tunisia,#A8D9CE,#A8D9CE,2,0.10008646626553237
-'Tunesien',en,Tunisia,#A8D9CE,#A8D9CE,2,0.10008646626553237
-'Benin',en,Benin,#1856D0,#1856D0,2,0.10008706972752748
-'Porto-Novo',en,Benin,#1856D0,#1856D0,2,0.10008706972752748
-'Brüssel',en,Belgium,#6B92F5,#6B92F5,2,0.1000875498202252
-'Belgien',en,Belgium,#6B92F5,#6B92F5,2,0.1000875498202252
-'Erfolgreich',en,Bolivia,#17796F,#17796F,2,0.10008808134347302
-'Bolivien',en,Bolivia,#17796F,#17796F,2,0.10008808134347302
-'Kuba',en,Cuba,#A2B192,#A2B192,2,0.10008819790339472
-'Havanna',en,Cuba,#A2B192,#A2B192,2,0.10008819790339472
-'Burundi',en,Burundi,#D96AD2,#D96AD2,2,0.10008948243182468
-'Gitega',en,Burundi,#D96AD2,#D96AD2,2,0.10008948243182468
-'Port-au-Prince',en,Haiti,#D8FBB1,#D8FBB1,2,0.10008990238039928
-'Haiti',en,Haiti,#D8FBB1,#D8FBB1,2,0.10008990238039928
-'Serbien und Montenegro',en,Serbia and Montenegro,#71F6E2,#71F6E2,2,0.100092343137866
-'Belgrad',en,Serbia and Montenegro,#71F6E2,#71F6E2,2,0.100092343137866
-'Athen',en,Greece,#2E3EF7,#2E3EF7,2,0.10009321690417713
-'Griechenland',en,Greece,#2E3EF7,#2E3EF7,2,0.10009321690417713
-'Santo Domingo',en,Dominican Republic,#BEFD21,#BEFD21,2,0.10009409847311113
-'Dominikanische Republik',en,Dominican Republic,#BEFD21,#BEFD21,2,0.10009409847311113
-'Tschechien',en,Czechia,#151748,#151748,2,0.10009411149106012
-'Prag',en,Czechia,#151748,#151748,2,0.10009411149106012
-'Portugal',en,Portugal,#C50204,#C50204,2,0.1000972595942213
-'Lissabon',en,Portugal,#C50204,#C50204,2,0.1000972595942213
-'Aserbaidschan',en,Azerbaijan,#73C384,#73C384,2,0.10009780046748624
-'Baku',en,Azerbaijan,#73C384,#73C384,2,0.10009780046748624
-'Stockholm',en,Sweden,#0D5DF0,#0D5DF0,2,0.10009820119952766
-'Schweden',en,Sweden,#0D5DF0,#0D5DF0,2,0.10009820119952766
-'Amman',en,Jordan,#DE29AB,#DE29AB,2,0.10010044183358174
-'Jordanien',en,Jordan,#DE29AB,#DE29AB,2,0.10010044183358174
-'Ungarn',en,Hungary,#99D2DF,#99D2DF,2,0.1001023668757169
-'Budapest',en,Hungary,#99D2DF,#99D2DF,2,0.1001023668757169
-'Vereinigte Arabische Emirate',en,United Arab Emirates,#FA37F9,#FA37F9,2,0.10010383181986343
-'Abu Dhabi',en,United Arab Emirates,#FA37F9,#FA37F9,2,0.10010383181986343
-'Honduras',en,Honduras,#CF4354,#CF4354,2,0.10010430223784623
-'Tegucigalpa',en,Honduras,#CF4354,#CF4354,2,0.10010430223784623
-'Minsk',en,Belarus,#4F9FE5,#4F9FE5,2,0.10010542533535273
-'Weißrussland',en,Belarus,#4F9FE5,#4F9FE5,2,0.10010542533535273
-'Duschanbe',en,Tajikistan,#060057,#060057,2,0.10010988000334475
-'Tadschikistan',en,Tajikistan,#060057,#060057,2,0.10010988000334475
-'Israel',en,Israel,#842974,#842974,2,0.1001125644431437
-'Jerusalem',en,Israel,#842974,#842974,2,0.1001125644431437
-'Österreich',en,Austria,#42BE27,#42BE27,2,0.10011303219371638
-'Wien',en,Austria,#42BE27,#42BE27,2,0.10011303219371638
-'Papua-Neuguinea',en,Papua New Guinea,#707D5D,#707D5D,2,0.10011619373492678
-'Port Moresby',en,Papua New Guinea,#707D5D,#707D5D,2,0.10011619373492678
-'Schweiz',en,Switzerland,#4D483A,#4D483A,2,0.10011741853472707
-'Bern',en,Switzerland,#4D483A,#4D483A,2,0.10011741853472707
-'Juba',en,South Sudan,#63EEDB,#63EEDB,2,0.1001210581938844
-'Südsudan',en,South Sudan,#63EEDB,#63EEDB,2,0.1001210581938844
-'Lomé',en,Togo,#83094B,#83094B,2,0.10012675726769132
-'Togo',en,Togo,#83094B,#83094B,2,0.10012675726769132
-'Freetown',en,Sierra Leone,#8CF7BC,#8CF7BC,2,0.10013071632283481
-'Sierra Leone',en,Sierra Leone,#8CF7BC,#8CF7BC,2,0.10013071632283481
-'Hongkong',en,Hong Kong,#CF2A23,#CF2A23,2,0.10013520683129812
-'Hongkong',en,Hong Kong,#CF2A23,#CF2A23,2,0.10013520683129812
-'Vientiane',en,Laos,#DD0DF9,#DD0DF9,2,0.10014161283136871
-'Laos',en,Laos,#DD0DF9,#DD0DF9,2,0.10014161283136871
-'Bulgarien',en,Bulgaria,#F93066,#F93066,2,0.10014285634694321
-'Sofia',en,Bulgaria,#F93066,#F93066,2,0.10014285634694321
-'Serbien',en,Serbia,#2C7981,#2C7981,2,0.10014322371372215
-'Belgrad',en,Serbia,#2C7981,#2C7981,2,0.10014322371372215
-'Paraguay',en,Paraguay,#BAFBDC,#BAFBDC,2,0.10014375931470511
-'Asunción',en,Paraguay,#BAFBDC,#BAFBDC,2,0.10014375931470511
-'Beirut',en,Lebanon,#C60C9E,#C60C9E,2,0.10014600831517355
-'Libanon',en,Lebanon,#C60C9E,#C60C9E,2,0.10014600831517355
-'Libyen',en,Libya,#818B7E,#818B7E,2,0.10014973271960886
-'Tripolis',en,Libya,#818B7E,#818B7E,2,0.10014973271960886
-'Managua',en,Nicaragua,#41A60C,#41A60C,2,0.10015466676812808
-'Nicaragua',en,Nicaragua,#41A60C,#41A60C,2,0.10015466676812808
-'El Salvador',en,El Salvador,#05D5E9,#05D5E9,2,0.1001557451909
-'San Salvador',en,El Salvador,#05D5E9,#05D5E9,2,0.1001557451909
-'Kirgisistan',en,Kyrgyzstan,#1390B9,#1390B9,2,0.1001583330694449
-'Bischkek',en,Kyrgyzstan,#1390B9,#1390B9,2,0.1001583330694449
-'Eritrea',en,Eritrea,#CB858D,#CB858D,2,0.10016104973505709
-'Asmara',en,Eritrea,#CB858D,#CB858D,2,0.10016104973505709
-'Turkmenistan',en,Turkmenistan,#6F4B33,#6F4B33,2,0.10017091364280553
-'Aschgabat',en,Turkmenistan,#6F4B33,#6F4B33,2,0.10017091364280553
-'Kopenhagen',en,Denmark,#97B53A,#97B53A,2,0.10017248974807183
-'Dänemark',en,Denmark,#97B53A,#97B53A,2,0.10017248974807183
-'Singapur',en,Singapore,#615481,#615481,2,0.1001773465969671
-'Singapur',en,Singapore,#615481,#615481,2,0.1001773465969671
-'Finnland',en,Finland,#1EF42E,#1EF42E,2,0.10018122343943967
-'Helsinki',en,Finland,#1EF42E,#1EF42E,2,0.10018122343943967
-'Bratislava',en,Slovakia,#B42391,#B42391,2,0.10018358692501264
-'Slowakei',en,Slovakia,#B42391,#B42391,2,0.10018358692501264
-'Norwegen',en,Norway,#E2FF59,#E2FF59,2,0.10018817026247494
-'Oslo',en,Norway,#E2FF59,#E2FF59,2,0.10018817026247494
-'Republik Kongo',en,Republic of the Congo,#80C50C,#80C50C,2,0.10019068092731187
-'Brazzaville',en,Republic of the Congo,#80C50C,#80C50C,2,0.10019068092731187
-'Costa Rica',en,Costa Rica,#8A4DEA,#8A4DEA,2,0.10020002236250013
-'San José',en,Costa Rica,#8A4DEA,#8A4DEA,2,0.10020002236250013
-'Neuseeland',en,New Zealand,#12F8AE,#12F8AE,2,0.10020468734008803
-'Wellington',en,New Zealand,#12F8AE,#12F8AE,2,0.10020468734008803
-'Dublin',en,Ireland,#E1D5AE,#E1D5AE,2,0.10020603662589476
-'Irland',en,Ireland,#E1D5AE,#E1D5AE,2,0.10020603662589476
-'Oman',en,Oman,#A9C5D0,#A9C5D0,2,0.10020706150120003
-'Maskat',en,Oman,#A9C5D0,#A9C5D0,2,0.10020706150120003
-'Liberia',en,Liberia,#AA0B2C,#AA0B2C,2,0.10020751292234846
-'Monrovia',en,Liberia,#AA0B2C,#AA0B2C,2,0.10020751292234846
-'Bangui',en,Central African Republic,#8A0CFA,#8A0CFA,2,0.1002142990161318
-'Zentralafrikanische Republik',en,Central African Republic,#8A0CFA,#8A0CFA,2,0.1002142990161318
-'Ostjerusalem',en,Palestinian Territory,#BC87DE,#BC87DE,2,0.10021886210527399
-'Palästinensisches Gebiet',en,Palestinian Territory,#BC87DE,#BC87DE,2,0.10021886210527399
-'Mauretanien',en,Mauritania,#7A5076,#7A5076,2,0.1002271014205421
-'Nouakchott',en,Mauritania,#7A5076,#7A5076,2,0.1002271014205421
-'Panama',en,Panama,#5D4E6F,#5D4E6F,2,0.10023941355171681
-'Panama-Stadt',en,Panama,#5D4E6F,#5D4E6F,2,0.10023941355171681
-'Kuwait',en,Kuwait,#5B54D0,#5B54D0,2,0.10024170300067024
-'Kuwait-Stadt',en,Kuwait,#5B54D0,#5B54D0,2,0.10024170300067024
-'Kroatien',en,Croatia,#0EA18E,#0EA18E,2,0.10025827560227935
-'Zagreb',en,Croatia,#0EA18E,#0EA18E,2,0.10025827560227935
-'Tiflis',en,Georgia,#BAF433,#BAF433,2,0.10026994196247807
-'Georgia',en,Georgia,#BAF433,#BAF433,2,0.10026994196247807
-'Moldawien',en,Moldova,#2AC9F1,#2AC9F1,2,0.10028201720135718
-'Chișinău',en,Moldova,#2AC9F1,#2AC9F1,2,0.10028201720135718
-'Montevideo',en,Uruguay,#41BC88,#41BC88,2,0.10028991397962311
-'Uruguay',en,Uruguay,#41BC88,#41BC88,2,0.10028991397962311
-'Sarajevo',en,Bosnia and Herzegovina,#4B4606,#4B4606,2,0.10030084878467621
-'Bosnien und Herzegowina',en,Bosnia and Herzegovina,#4B4606,#4B4606,2,0.10030084878467621
-'Puerto Rico',en,Puerto Rico,#90862A,#90862A,2,0.10031297405789331
-'San Juan',en,Puerto Rico,#90862A,#90862A,2,0.10031297405789331
-'Mongolei',en,Mongolia,#A7D11F,#A7D11F,2,0.10031543671582432
-'Ulaanbaatar',en,Mongolia,#A7D11F,#A7D11F,2,0.10031543671582432
-'Armenien',en,Armenia,#8AC860,#8AC860,2,0.10032421216444042
-'Eriwan',en,Armenia,#8AC860,#8AC860,2,0.10032421216444042
-'Kingston',en,Jamaica,#B78954,#B78954,2,0.10034073233600979
-'Jamaika',en,Jamaica,#B78954,#B78954,2,0.10034073233600979
-'Tirana',en,Albania,#C60FFA,#C60FFA,2,0.10034887258335962
-'Albanien',en,Albania,#C60FFA,#C60FFA,2,0.10034887258335962
-'Litauen',en,Lithuania,#2B01B5,#2B01B5,2,0.10035848294320232
-'Vilnius',en,Lithuania,#2B01B5,#2B01B5,2,0.10035848294320232
-'Doha',en,Qatar,#A08B0A,#A08B0A,2,0.1003594953691604
-'Katar',en,Qatar,#A08B0A,#A08B0A,2,0.1003594953691604
-'Namibia',en,Namibia,#EAE393,#EAE393,2,0.10040845418471524
-'Windhoek',en,Namibia,#EAE393,#EAE393,2,0.10040845418471524
-'Gambia',en,Gambia,#A82B11,#A82B11,2,0.10043857687068386
-'Banjul',en,Gambia,#A82B11,#A82B11,2,0.10043857687068386
-'Botswana',en,Botswana,#F9CB83,#F9CB83,2,0.10044363092391465
-'Gaborone',en,Botswana,#F9CB83,#F9CB83,2,0.10044363092391465
-'Gabun',en,Gabon,#667B4E,#667B4E,2,0.10047185948024678
-'Libreville',en,Gabon,#667B4E,#667B4E,2,0.10047185948024678
-'Maseru',en,Lesotho,#FB5F0F,#FB5F0F,2,0.10047435359835154
-'Lesotho',en,Lesotho,#FB5F0F,#FB5F0F,2,0.10047435359835154
-'Nordmazedonien',en,North Macedonia,#220407,#220407,2,0.10048008649238248
-'Skopje',en,North Macedonia,#220407,#220407,2,0.10048008649238248
-'Slowenien',en,Slovenia,#641DEA,#641DEA,2,0.10048370588360489
-'Ljubljana',en,Slovenia,#641DEA,#641DEA,2,0.10048370588360489
-'Riga',en,Latvia,#263A5C,#263A5C,2,0.10051906472840977
-'Lettland',en,Latvia,#263A5C,#263A5C,2,0.10051906472840977
-'Bissau',en,Guinea-Bissau,#824AD8,#824AD8,2,0.10053352995690679
-'Guinea-Bissau',en,Guinea-Bissau,#824AD8,#824AD8,2,0.10053352995690679
-'Kosovo',en,Kosovo,#D48961,#D48961,2,0.1005419173034195
-'Pristina',en,Kosovo,#D48961,#D48961,2,0.1005419173034195
-'Manama',en,Bahrain,#782C45,#782C45,2,0.1006371703519538
-'Bahrain',en,Bahrain,#782C45,#782C45,2,0.1006371703519538
-'Hafen von Spanien',en,Trinidad and Tobago,#95B5F4,#95B5F4,2,0.10071949796310127
-'Trinidad und Tobago',en,Trinidad and Tobago,#95B5F4,#95B5F4,2,0.10071949796310127
-'Estland',en,Estonia,#BC8338,#BC8338,2,0.10075706875092741
-'Tallinn',en,Estonia,#BC8338,#BC8338,2,0.10075706875092741
-'Äquatorialguinea',en,Equatorial Guinea,#45F0B2,#45F0B2,2,0.10076395711450342
-'Malabo',en,Equatorial Guinea,#45F0B2,#45F0B2,2,0.10076395711450342
-'Dili',en,Timor Leste,#83A1EF,#83A1EF,2,0.10078866094834903
-'Timor-Leste',en,Timor Leste,#83A1EF,#83A1EF,2,0.10078866094834903
-'Port Louis',en,Mauritius,#4DE635,#4DE635,2,0.10079032453096215
-'Mauritius',en,Mauritius,#4DE635,#4DE635,2,0.10079032453096215
-'Nikosia',en,Cyprus,#AAA4D2,#AAA4D2,2,0.10084085548637184
-'Zypern',en,Cyprus,#AAA4D2,#AAA4D2,2,0.10084085548637184
-'Mbabane',en,Eswatini,#88B411,#88B411,2,0.10088013370991322
-'Eswatini',en,Eswatini,#88B411,#88B411,2,0.10088013370991322
-'Dschibuti',en,Djibouti,#8E7725,#8E7725,2,0.10104283986151087
-'Dschibuti',en,Djibouti,#8E7725,#8E7725,2,0.10104283986151087
-'Fidschi',en,Fiji,#C1AE4E,#C1AE4E,2,0.10113188369215934
-'Suva',en,Fiji,#C1AE4E,#C1AE4E,2,0.10113188369215934
-'Komoren',en,Comoros,#3F9C71,#3F9C71,2,0.10120145808953747
-'Moroni',en,Comoros,#3F9C71,#3F9C71,2,0.10120145808953747
-'Georgetown',en,Guyana,#0C7627,#0C7627,2,0.1012836904560182
-'Guyana',en,Guyana,#0C7627,#0C7627,2,0.1012836904560182
-'Wiedervereinigung',en,Reunion,#A9621E,#A9621E,2,0.1012870874241262
-'Saint-Denis',en,Reunion,#A9621E,#A9621E,2,0.1012870874241262
-'Thimphu',en,Bhutan,#93EF8D,#93EF8D,2,0.101325567276516
-'Bhutan',en,Bhutan,#93EF8D,#93EF8D,2,0.101325567276516
-'Salomonen',en,Solomon Islands,#1DE221,#1DE221,2,0.1015317266541882
-'Honiara',en,Solomon Islands,#1DE221,#1DE221,2,0.1015317266541882
-'Macau',en,Macao,#6CAD4F,#6CAD4F,2,0.10158319031847457
-'Macau',en,Macao,#6CAD4F,#6CAD4F,2,0.10158319031847457
-'Podgorica',en,Montenegro,#A88D15,#A88D15,2,0.10160682579598133
-'Montenegro',en,Montenegro,#A88D15,#A88D15,2,0.10160682579598133
-'Luxemburg',en,Luxembourg,#22889F,#22889F,2,0.10164547297475186
-'Luxemburg',en,Luxembourg,#22889F,#22889F,2,0.10164547297475186
-'Surinam',en,Suriname,#43F495,#43F495,2,0.10173613823827109
-'Paramaribo',en,Suriname,#43F495,#43F495,2,0.10173613823827109
-'Kap Verde',en,Cabo Verde,#5935CD,#5935CD,2,0.10183902296387976
-'Praia',en,Cabo Verde,#5935CD,#5935CD,2,0.10183902296387976
-'Männlich',en,Maldives,#B2DAB1,#B2DAB1,2,0.10193912692749217
-'Malediven',en,Maldives,#B2DAB1,#B2DAB1,2,0.10193912692749217
-'Malta',en,Malta,#F9090F,#F9090F,2,0.10206812400471532
-'Valletta',en,Malta,#F9090F,#F9090F,2,0.10206812400471532
-'Guadeloupe',en,Guadeloupe,#FA2099,#FA2099,2,0.10225733634311512
-'Basse-Terre',en,Guadeloupe,#FA2099,#FA2099,2,0.10225733634311512
-'Martinique',en,Martinique,#A61A42,#A61A42,2,0.10231000231000231
-'Fort-de-France',en,Martinique,#A61A42,#A61A42,2,0.10231000231000231
-'Brunei',en,Brunei,#42CCC4,#42CCC4,2,0.10233120882502414
-'Bandar Seri Begawan',en,Brunei,#42CCC4,#42CCC4,2,0.10233120882502414
-'Bahamas',en,Bahamas,#453A09,#453A09,2,0.10259309200290427
-'Nassau',en,Bahamas,#453A09,#453A09,2,0.10259309200290427
-'Belmopan',en,Belize,#4F3161,#4F3161,2,0.10261048212994459
-'Belize',en,Belize,#4F3161,#4F3161,2,0.10261048212994459
-'Island',en,Iceland,#55E357,#55E357,2,0.10282826225910277
-'Reykjavik',en,Iceland,#55E357,#55E357,2,0.10282826225910277
-'Niederländische Antillen',en,Netherlands Antilles,#5B0070,#5B0070,2,0.10333333333333333
-'Willemstad',en,Netherlands Antilles,#5B0070,#5B0070,2,0.10333333333333333
-'Vanuatu',en,Vanuatu,#7A3050,#7A3050,2,0.103416700833675
-'Port Vila',en,Vanuatu,#7A3050,#7A3050,2,0.103416700833675
-'Bridgetown',en,Barbados,#DA0251,#DA0251,2,0.10348868445198
-'Barbados',en,Barbados,#DA0251,#DA0251,2,0.10348868445198
-'Nouméa',en,New Caledonia,#BCC499,#BCC499,2,0.10352038301767233
-'Neukaledonien',en,New Caledonia,#BCC499,#BCC499,2,0.10352038301767233
-'Mayotte',en,Mayotte,#FA09B7,#FA09B7,2,0.10357818879239707
-'Mamoudzou',en,Mayotte,#FA09B7,#FA09B7,2,0.10357818879239707
-'Papeete',en,French Polynesia,#DAB57D,#DAB57D,2,0.10360128061538684
-'Französisch-Polynesien',en,French Polynesia,#DAB57D,#DAB57D,2,0.10360128061538684
-'El-Aaiun',en,Western Sahara,#44F0E9,#44F0E9,2,0.1036628963253824
-'Westsahara',en,Western Sahara,#44F0E9,#44F0E9,2,0.1036628963253824
-'Sao Tome',en,Sao Tome and Principe,#7D3DB2,#7D3DB2,2,0.1050581689428427
-'São Tomé und Príncipe',en,Sao Tome and Principe,#7D3DB2,#7D3DB2,2,0.1050581689428427
-'Apia',en,Samoa,#8FC7EF,#8FC7EF,2,0.10509865905266916
-'Samoa',en,Samoa,#8FC7EF,#8FC7EF,2,0.10509865905266916
-'Cayenne',en,French Guiana,#353814,#353814,2,0.10511493253403988
-'Französisch-Guayana',en,French Guiana,#353814,#353814,2,0.10511493253403988
-'St. Lucia',en,Saint Lucia,#EA5E59,#EA5E59,2,0.1054978585840815
-'Castries',en,Saint Lucia,#EA5E59,#EA5E59,2,0.1054978585840815
-'Guam',en,Guam,#2C0E18,#2C0E18,2,0.10603252738767435
-'Hagatna',en,Guam,#2C0E18,#2C0E18,2,0.10603252738767435
-'Curaçao',en,Curacao,#534AB0,#534AB0,2,0.10625590400940889
-'Willemstad',en,Curacao,#534AB0,#534AB0,2,0.10625590400940889
-'Kiribati',en,Kiribati,#EC261F,#EC261F,2,0.10863207506452477
-'Tarawa',en,Kiribati,#EC261F,#EC261F,2,0.10863207506452477
-'Mikronesien',en,Micronesia,#B96237,#B96237,2,0.10887784090909092
-'Palikir',en,Micronesia,#B96237,#B96237,2,0.10887784090909092
-'Grenada',en,Grenada,#6B75CC,#6B75CC,2,0.10897231144687494
-'St. George's',en,Grenada,#6B75CC,#6B75CC,2,0.10897231144687494
-'Kingstown',en,Saint Vincent and the Grenadines,#3DECE6,#3DECE6,2,0.10907350445962745
-'St. Vincent und die Grenadinen',en,Saint Vincent and the Grenadines,#3DECE6,#3DECE6,2,0.10907350445962745
-'Amerikanische Jungferninseln',en,U.S. Virgin Islands,#EAA7DE,#EAA7DE,2,0.10934780373351281
-'Charlotte Amalie',en,U.S. Virgin Islands,#EAA7DE,#EAA7DE,2,0.10934780373351281
-'Aruba',en,Aruba,#1D1323,#1D1323,2,0.10944777741036421
-'Oranjestad',en,Aruba,#1D1323,#1D1323,2,0.10944777741036421
-'Nuku'alofa',en,Tonga,#4BD651,#4BD651,2,0.10969020417260192
-'Tonga',en,Tonga,#4BD651,#4BD651,2,0.10969020417260192
-'Victoria',en,Seychelles,#FC090F,#FC090F,2,0.11033463549740602
-'Seychellen',en,Seychelles,#FC090F,#FC090F,2,0.11033463549740602
-'St. John's',en,Antigua and Barbuda,#E576D1,#E576D1,2,0.11038572585838025
-'Antigua und Barbuda',en,Antigua and Barbuda,#E576D1,#E576D1,2,0.11038572585838025
-'Jersey',en,Jersey,#634FB9,#634FB9,2,0.11101176056027838
-'Saint Helier',en,Jersey,#634FB9,#634FB9,2,0.11101176056027838
-'Douglas',en,Isle of Man,#36DB51,#36DB51,2,0.11189385920049479
-'Insel Man',en,Isle of Man,#36DB51,#36DB51,2,0.11189385920049479
-'Andorra',en,Andorra,#EAAA98,#EAAA98,2,0.1129860010908241
-'Andorra la Vella',en,Andorra,#EAAA98,#EAAA98,2,0.1129860010908241
-'Roseau',en,Dominica,#2B20A5,#2B20A5,2,0.11396160558464224
-'Dominica',en,Dominica,#2B20A5,#2B20A5,2,0.11396160558464224
-'St. Peter Port',en,Guernsey,#52EF49,#52EF49,2,0.11533083951677195
-'Guernsey',en,Guernsey,#52EF49,#52EF49,2,0.11533083951677195
-'George Town',en,Cayman Islands,#F62059,#F62059,2,0.11558263471187709
-'Kaimaninseln',en,Cayman Islands,#F62059,#F62059,2,0.11558263471187709
-'Bermuda',en,Bermuda,#2DA37B,#2DA37B,2,0.11563281640820411
-'Hamilton',en,Bermuda,#2DA37B,#2DA37B,2,0.11563281640820411
-'Majuro',en,Marshall Islands,#92D831,#92D831,2,0.11711947682878812
-'Marshallinseln',en,Marshall Islands,#92D831,#92D831,2,0.11711947682878812
-'Saipan',en,Northern Mariana Islands,#E878DA,#E878DA,2,0.11758025385886572
-'Nördliche Marianen',en,Northern Mariana Islands,#E878DA,#E878DA,2,0.11758025385886572
-'Grönland',en,Greenland,#4AD3E8,#4AD3E8,2,0.11784917447568051
-'Nuuk',en,Greenland,#4AD3E8,#4AD3E8,2,0.11784917447568051
-'Pago Pago',en,American Samoa,#CBFEB5,#CBFEB5,2,0.11802938790228072
-'Amerikanisch-Samoa',en,American Samoa,#CBFEB5,#CBFEB5,2,0.11802938790228072
-'Basseterre',en,Saint Kitts and Nevis,#509FB6,#509FB6,2,0.11906904902652506
-'St. Kitts und Nevis',en,Saint Kitts and Nevis,#509FB6,#509FB6,2,0.11906904902652506
-'Färöer-Inseln',en,Faroe Islands,#F0CBB2,#F0CBB2,2,0.12061983215456626
-'Tórshavn',en,Faroe Islands,#F0CBB2,#F0CBB2,2,0.12061983215456626
-'Sint Maarten',en,Sint Maarten,#EF274B,#EF274B,2,0.12459782555222118
-'Philipsburg',en,Sint Maarten,#EF274B,#EF274B,2,0.12459782555222118
-'Monaco',en,Monaco,#13D63E,#13D63E,2,0.12585181738276202
-'Monaco',en,Monaco,#13D63E,#13D63E,2,0.12585181738276202
-'Liechtenstein',en,Liechtenstein,#BE3C31,#BE3C31,2,0.1263782643102084
-'Vaduz',en,Liechtenstein,#BE3C31,#BE3C31,2,0.1263782643102084
-'Turks- und Caicosinseln',en,Turks and Caicos Islands,#3F5B7D,#3F5B7D,2,0.12654984733837782
-'Cockburn Town',en,Turks and Caicos Islands,#3F5B7D,#3F5B7D,2,0.12654984733837782
-'Sankt Martin',en,Saint Martin,#DAF831,#DAF831,2,0.12683555173894376
-'Marigot',en,Saint Martin,#DAF831,#DAF831,2,0.12683555173894376
-'San Marino',en,San Marino,#E9AB1F,#E9AB1F,2,0.12959893443836024
-'San Marino',en,San Marino,#E9AB1F,#E9AB1F,2,0.12959893443836024
-'Gibraltar',en,Gibraltar,#9C32E1,#9C32E1,2,0.12965774956996262
-'Gibraltar',en,Gibraltar,#9C32E1,#9C32E1,2,0.12965774956996262
-'Britische Jungferninseln',en,British Virgin Islands,#59BF10,#59BF10,2,0.13355479498020267
-'Straßenstadt',en,British Virgin Islands,#59BF10,#59BF10,2,0.13355479498020267
-'Aland-Inseln',en,Aland Islands,#212738,#212738,2,0.1374377597244581
-'Mariehamn',en,Aland Islands,#212738,#212738,2,0.1374377597244581
-'Cookinseln',en,Cook Islands,#B3988E,#B3988E,2,0.1467551898260707
-'Avarua',en,Cook Islands,#B3988E,#B3988E,2,0.1467551898260707
-'Bonaire; Heiliger Eustatius und Saba',en,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,2,0.15551854319342662
-'Nan',en,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,2,0.15551854319342662
-'Melekeok',en,Palau,#DD2408,#DD2408,2,0.15584408331937233
-'Palau',en,Palau,#DD2408,#DD2408,2,0.15584408331937233
-'Wallis und Futuna',en,Wallis and Futuna,#1B053D,#1B053D,2,0.162402496099844
-'Mata Utu',en,Wallis and Futuna,#1B053D,#1B053D,2,0.162402496099844
-'Das Tal',en,Anguilla,#3F043B,#3F043B,2,0.17544892108042856
-'Anguilla',en,Anguilla,#3F043B,#3F043B,2,0.17544892108042856
-'Nauru',en,Nauru,#D5DDD7,#D5DDD7,2,0.1787153652392947
-'Yaren',en,Nauru,#D5DDD7,#D5DDD7,2,0.1787153652392947
-'Funafuti',en,Tuvalu,#142424,#142424,2,0.18689607229753216
-'Tuvalu',en,Tuvalu,#142424,#142424,2,0.18689607229753216
-'Plymouth',en,Montserrat,#53A9C4,#53A9C4,2,0.20705491917353602
-'Montserrat',en,Montserrat,#53A9C4,#53A9C4,2,0.20705491917353602
-'Gustavia',en,Saint Barthelemy,#87CFF7,#87CFF7,2,0.2183431952662722
-'Sankt Barthélemy',en,Saint Barthelemy,#87CFF7,#87CFF7,2,0.2183431952662722
-'St. Helena',en,Saint Helena,#791663,#791663,2,0.23404825737265417
-'Jamestown',en,Saint Helena,#791663,#791663,2,0.23404825737265417
-'Saint-Pierre',en,Saint Pierre and Miquelon,#8CEFAD,#8CEFAD,2,0.2426126640045636
-'Saint-Pierre und Miquelon',en,Saint Pierre and Miquelon,#8CEFAD,#8CEFAD,2,0.2426126640045636
-'Diego Garcia',en,British Indian Ocean Territory,#2E2606,#2E2606,2,0.35
-'Britisches Territorium im Indischen Ozean',en,British Indian Ocean Territory,#2E2606,#2E2606,2,0.35
-'Falklandinseln',en,Falkland Islands,#28B172,#28B172,2,0.4790750568612585
-'Stanley',en,Falkland Islands,#28B172,#28B172,2,0.4790750568612585
-'Spitzbergen und Jan Mayen',en,Svalbard and Jan Mayen,#A75F37,#A75F37,2,0.49215686274509807
-'Longyearbyen',en,Svalbard and Jan Mayen,#A75F37,#A75F37,2,0.49215686274509807
-'Alofi',en,Niue,#69CA68,#69CA68,2,0.5616805170821791
-'Niue',en,Niue,#69CA68,#69CA68,2,0.5616805170821791
-'Norfolkinsel',en,Norfolk Island,#C129F3,#C129F3,2,0.6470459518599562
-'Kingston',en,Norfolk Island,#C129F3,#C129F3,2,0.6470459518599562
-'Flying Fish Cove',en,Christmas Island,#C101AA,#C101AA,2,0.7666666666666666
-'Weihnachtsinsel',en,Christmas Island,#C101AA,#C101AA,2,0.7666666666666666
-'Nan',en,Tokelau,#87FBB0,#87FBB0,2,0.7821282401091405
-'Tokelau',en,Tokelau,#87FBB0,#87FBB0,2,0.7821282401091405
-'Heard-Insel und McDonald-Inseln',en,Heard Island and McDonald Islands,#A67724,#A67724,2,1.0
-'Bouvetinsel',en,Bouvet Island,#8FDE3D,#8FDE3D,2,1.0
-'Kleinere vorgelagerte Inseln der Vereinigten Staaten',en,United States Minor Outlying Islands,#7A7B38,#7A7B38,2,1.0
-'Nan',en,United States Minor Outlying Islands,#7A7B38,#7A7B38,2,1.0
-'Antarktis',en,Antarctica,#1413FD,#1413FD,2,1.0
-'Nan',en,Heard Island and McDonald Islands,#A67724,#A67724,2,1.0
-'Nan',en,Bouvet Island,#8FDE3D,#8FDE3D,2,1.0
-'Nan',en,Antarctica,#1413FD,#1413FD,2,1.0
-'Vatikanstadt',en,Vatican,#AB6740,#AB6740,2,1.1857763300760045
-'Vatikan',en,Vatican,#AB6740,#AB6740,2,1.1857763300760045
-'Westinsel',en,Cocos Islands,#C0DB46,#C0DB46,2,1.6923566878980894
-'Kokosinseln',en,Cocos Islands,#C0DB46,#C0DB46,2,1.6923566878980894
-'Französische Südgebiete',en,French Southern Territories,#377C29,#377C29,2,7.242857142857143
-'Port-aux-Francais',en,French Southern Territories,#377C29,#377C29,2,7.242857142857143
-'Pitcairn',en,Pitcairn,#0DE149,#0DE149,2,21.83913043478261
-'Adamstown',en,Pitcairn,#0DE149,#0DE149,2,21.83913043478261
-'Südgeorgien und die Südlichen Sandwichinseln',en,South Georgia and the South Sandwich Islands,#ABC03E,#ABC03E,2,33.43333333333334
-'Grytviken',en,South Georgia and the South Sandwich Islands,#ABC03E,#ABC03E,2,33.43333333333334
+'Südgeorgien und die Südlichen Sandwichinseln',en,South Georgia and the South Sandwich Islands,#ABC03E,#ABC03E,2,33.433333333333
+'Grytviken',en,South Georgia and the South Sandwich Islands,#ABC03E,#ABC03E,2,28.568483348333
+'Adamstown',en,Pitcairn,#0DE149,#0DE149,2,21.839130434783
+'Pitcairn',en,Pitcairn,#0DE149,#0DE149,2,21.839130434783
+'Port-aux-Francais',en,French Southern Territories,#377C29,#377C29,2,7.242857142857
+'Französische Südgebiete',en,French Southern Territories,#377C29,#377C29,2,7.242857142857
+'Kokosinseln',en,Cocos Islands,#C0DB46,#C0DB46,2,1.692356687898
+'Westinsel',en,Cocos Islands,#C0DB46,#C0DB46,2,1.692356687898
+'Vatikan',en,Vatican,#AB6740,#AB6740,2,1.185776330076
+'Vatikanstadt',en,Vatican,#AB6740,#AB6740,2,1.185776330076
+'Kleinere vorgelagerte Inseln der Vereinigten Staaten',en,United States Minor Outlying Islands,#7A7B38,#7A7B38,2,1.000000000000
+'Bouvetinsel',en,Bouvet Island,#8FDE3D,#8FDE3D,2,1.000000000000
+'Heard-Insel und McDonald-Inseln',en,Heard Island and McDonald Islands,#A67724,#A67724,2,1.000000000000
+'Antarktis',en,Antarctica,#1413FD,#1413FD,2,1.000000000000
+'Tokelau',en,Tokelau,#87FBB0,#87FBB0,2,0.782128240109
+'Flying Fish Cove',en,Christmas Island,#C101AA,#C101AA,2,0.766666666667
+'Weihnachtsinsel',en,Christmas Island,#C101AA,#C101AA,2,0.766666666667
+'Norfolkinsel',en,Norfolk Island,#C129F3,#C129F3,2,0.647045951860
+'Niue',en,Niue,#69CA68,#69CA68,2,0.561680517082
+'Alofi',en,Niue,#69CA68,#69CA68,2,0.561680517082
+'Longyearbyen',en,Svalbard and Jan Mayen,#A75F37,#A75F37,2,0.492156862745
+'Spitzbergen und Jan Mayen',en,Svalbard and Jan Mayen,#A75F37,#A75F37,2,0.492156862745
+'Stanley',en,Falkland Islands,#28B172,#28B172,2,0.479075056861
+'Falklandinseln',en,Falkland Islands,#28B172,#28B172,2,0.479075056861
+'Britisches Territorium im Indischen Ozean',en,British Indian Ocean Territory,#2E2606,#2E2606,2,0.350000000000
+'Diego Garcia',en,British Indian Ocean Territory,#2E2606,#2E2606,2,0.350000000000
+'Saint-Pierre und Miquelon',en,Saint Pierre and Miquelon,#8CEFAD,#8CEFAD,2,0.242612664005
+'Saint-Pierre',en,Saint Pierre and Miquelon,#8CEFAD,#8CEFAD,2,0.242612664005
+'St. Helena',en,Saint Helena,#791663,#791663,2,0.234048257373
+'Jamestown',en,Saint Helena,#791663,#791663,2,0.234048257373
+'Gustavia',en,Saint Barthelemy,#87CFF7,#87CFF7,2,0.218343195266
+'Sankt Barthélemy',en,Saint Barthelemy,#87CFF7,#87CFF7,2,0.218343195266
+'Montserrat',en,Montserrat,#53A9C4,#53A9C4,2,0.207054919174
+'Plymouth',en,Montserrat,#53A9C4,#53A9C4,2,0.207054919174
+'Tuvalu',en,Tuvalu,#142424,#142424,2,0.186896072298
+'Funafuti',en,Tuvalu,#142424,#142424,2,0.186896072298
+'Yaren',en,Nauru,#D5DDD7,#D5DDD7,2,0.178715365239
+'Nauru',en,Nauru,#D5DDD7,#D5DDD7,2,0.178715365239
+'Anguilla',en,Anguilla,#3F043B,#3F043B,2,0.175448921080
+'Das Tal',en,Anguilla,#3F043B,#3F043B,2,0.175448921080
+'Mata Utu',en,Wallis and Futuna,#1B053D,#1B053D,2,0.162402496100
+'Wallis und Futuna',en,Wallis and Futuna,#1B053D,#1B053D,2,0.162402496100
+'Melekeok',en,Palau,#DD2408,#DD2408,2,0.155844083319
+'Palau',en,Palau,#DD2408,#DD2408,2,0.155844083319
+'Nan',en,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,2,0.155518543193
+'Bonaire; Heiliger Eustatius und Saba',en,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,2,0.155518543193
+'Cookinseln',en,Cook Islands,#B3988E,#B3988E,2,0.146755189826
+'Avarua',en,Cook Islands,#B3988E,#B3988E,2,0.146755189826
+'Mariehamn',en,Aland Islands,#212738,#212738,2,0.137437759724
+'Aland-Inseln',en,Aland Islands,#212738,#212738,2,0.137437759724
+'Straßenstadt',en,British Virgin Islands,#59BF10,#59BF10,2,0.133554794980
+'Britische Jungferninseln',en,British Virgin Islands,#59BF10,#59BF10,2,0.133554794980
+'Gibraltar',en,Gibraltar,#9C32E1,#9C32E1,2,0.129657749570
+'San Marino',en,San Marino,#E9AB1F,#E9AB1F,2,0.129598934438
+'Marigot',en,Saint Martin,#DAF831,#DAF831,2,0.126835551739
+'Sankt Martin',en,Saint Martin,#DAF831,#DAF831,2,0.126835551739
+'Cockburn Town',en,Turks and Caicos Islands,#3F5B7D,#3F5B7D,2,0.126549847338
+'Turks- und Caicosinseln',en,Turks and Caicos Islands,#3F5B7D,#3F5B7D,2,0.126549847338
+'Vaduz',en,Liechtenstein,#BE3C31,#BE3C31,2,0.126378264310
+'Liechtenstein',en,Liechtenstein,#BE3C31,#BE3C31,2,0.126378264310
+'Monaco',en,Monaco,#13D63E,#13D63E,2,0.125851817383
+'Philipsburg',en,Sint Maarten,#EF274B,#EF274B,2,0.124597825552
+'Sint Maarten',en,Sint Maarten,#EF274B,#EF274B,2,0.124597825552
+'Tórshavn',en,Faroe Islands,#F0CBB2,#F0CBB2,2,0.120619832155
+'Färöer-Inseln',en,Faroe Islands,#F0CBB2,#F0CBB2,2,0.120619832155
+'St. Kitts und Nevis',en,Saint Kitts and Nevis,#509FB6,#509FB6,2,0.119069049027
+'Basseterre',en,Saint Kitts and Nevis,#509FB6,#509FB6,2,0.119069049027
+'Amerikanisch-Samoa',en,American Samoa,#CBFEB5,#CBFEB5,2,0.118029387902
+'Pago Pago',en,American Samoa,#CBFEB5,#CBFEB5,2,0.118029387902
+'Nuuk',en,Greenland,#4AD3E8,#4AD3E8,2,0.117849174476
+'Grönland',en,Greenland,#4AD3E8,#4AD3E8,2,0.117849174476
+'Nördliche Marianen',en,Northern Mariana Islands,#E878DA,#E878DA,2,0.117580253859
+'Saipan',en,Northern Mariana Islands,#E878DA,#E878DA,2,0.117580253859
+'Majuro',en,Marshall Islands,#92D831,#92D831,2,0.117119476829
+'Marshallinseln',en,Marshall Islands,#92D831,#92D831,2,0.117119476829
+'Bermuda',en,Bermuda,#2DA37B,#2DA37B,2,0.115632816408
+'Hamilton',en,Bermuda,#2DA37B,#2DA37B,2,0.115632816408
+'Kaimaninseln',en,Cayman Islands,#F62059,#F62059,2,0.115582634712
+'George Town',en,Cayman Islands,#F62059,#F62059,2,0.115582634712
+'Guernsey',en,Guernsey,#52EF49,#52EF49,2,0.115330839517
+'St. Peter Port',en,Guernsey,#52EF49,#52EF49,2,0.115330839517
+'Dominica',en,Dominica,#2B20A5,#2B20A5,2,0.113961605585
+'Roseau',en,Dominica,#2B20A5,#2B20A5,2,0.113961605585
+'Andorra la Vella',en,Andorra,#EAAA98,#EAAA98,2,0.112986001091
+'Andorra',en,Andorra,#EAAA98,#EAAA98,2,0.112986001091
+'Insel Man',en,Isle of Man,#36DB51,#36DB51,2,0.111893859200
+'Douglas',en,Isle of Man,#36DB51,#36DB51,2,0.111893859200
+'Saint Helier',en,Jersey,#634FB9,#634FB9,2,0.111011760560
+'Jersey',en,Jersey,#634FB9,#634FB9,2,0.111011760560
+'Antigua und Barbuda',en,Antigua and Barbuda,#E576D1,#E576D1,2,0.110385725858
+'St. John's',en,Antigua and Barbuda,#E576D1,#E576D1,2,0.110385725858
+'Victoria',en,Seychelles,#FC090F,#FC090F,2,0.110334635497
+'Seychellen',en,Seychelles,#FC090F,#FC090F,2,0.110334635497
+'Tonga',en,Tonga,#4BD651,#4BD651,2,0.109690204173
+'Nuku'alofa',en,Tonga,#4BD651,#4BD651,2,0.109690204173
+'Oranjestad',en,Aruba,#1D1323,#1D1323,2,0.109447777410
+'Aruba',en,Aruba,#1D1323,#1D1323,2,0.109447777410
+'Charlotte Amalie',en,U.S. Virgin Islands,#EAA7DE,#EAA7DE,2,0.109347803734
+'Amerikanische Jungferninseln',en,U.S. Virgin Islands,#EAA7DE,#EAA7DE,2,0.109347803734
+'St. Vincent und die Grenadinen',en,Saint Vincent and the Grenadines,#3DECE6,#3DECE6,2,0.109073504460
+'Kingstown',en,Saint Vincent and the Grenadines,#3DECE6,#3DECE6,2,0.109073504460
+'St. George's',en,Grenada,#6B75CC,#6B75CC,2,0.108972311447
+'Grenada',en,Grenada,#6B75CC,#6B75CC,2,0.108972311447
+'Mikronesien',en,Micronesia,#B96237,#B96237,2,0.108877840909
+'Palikir',en,Micronesia,#B96237,#B96237,2,0.108877840909
+'Kiribati',en,Kiribati,#EC261F,#EC261F,2,0.108632075065
+'Tarawa',en,Kiribati,#EC261F,#EC261F,2,0.108632075065
+'Curaçao',en,Curacao,#534AB0,#534AB0,2,0.106255904009
+'Hagatna',en,Guam,#2C0E18,#2C0E18,2,0.106032527388
+'Guam',en,Guam,#2C0E18,#2C0E18,2,0.106032527388
+'Castries',en,Saint Lucia,#EA5E59,#EA5E59,2,0.105497858584
+'St. Lucia',en,Saint Lucia,#EA5E59,#EA5E59,2,0.105497858584
+'Französisch-Guayana',en,French Guiana,#353814,#353814,2,0.105114932534
+'Cayenne',en,French Guiana,#353814,#353814,2,0.105114932534
+'Samoa',en,Samoa,#8FC7EF,#8FC7EF,2,0.105098659053
+'Apia',en,Samoa,#8FC7EF,#8FC7EF,2,0.105098659053
+'São Tomé und Príncipe',en,Sao Tome and Principe,#7D3DB2,#7D3DB2,2,0.105058168943
+'Sao Tome',en,Sao Tome and Principe,#7D3DB2,#7D3DB2,2,0.105058168943
+'Westsahara',en,Western Sahara,#44F0E9,#44F0E9,2,0.103662896325
+'El-Aaiun',en,Western Sahara,#44F0E9,#44F0E9,2,0.103662896325
+'Französisch-Polynesien',en,French Polynesia,#DAB57D,#DAB57D,2,0.103601280615
+'Papeete',en,French Polynesia,#DAB57D,#DAB57D,2,0.103601280615
+'Mamoudzou',en,Mayotte,#FA09B7,#FA09B7,2,0.103578188792
+'Mayotte',en,Mayotte,#FA09B7,#FA09B7,2,0.103578188792
+'Neukaledonien',en,New Caledonia,#BCC499,#BCC499,2,0.103520383018
+'Nouméa',en,New Caledonia,#BCC499,#BCC499,2,0.103520383018
+'Barbados',en,Barbados,#DA0251,#DA0251,2,0.103488684452
+'Bridgetown',en,Barbados,#DA0251,#DA0251,2,0.103488684452
+'Port Vila',en,Vanuatu,#7A3050,#7A3050,2,0.103416700834
+'Vanuatu',en,Vanuatu,#7A3050,#7A3050,2,0.103416700834
+'Willemstad',en,Netherlands Antilles,#5B0070,#5B0070,2,0.103333333333
+'Niederländische Antillen',en,Netherlands Antilles,#5B0070,#5B0070,2,0.103333333333
+'Reykjavik',en,Iceland,#55E357,#55E357,2,0.102828262259
+'Island',en,Iceland,#55E357,#55E357,2,0.102828262259
+'Belize',en,Belize,#4F3161,#4F3161,2,0.102610482130
+'Belmopan',en,Belize,#4F3161,#4F3161,2,0.102610482130
+'Nassau',en,Bahamas,#453A09,#453A09,2,0.102593092003
+'Bahamas',en,Bahamas,#453A09,#453A09,2,0.102593092003
+'Bandar Seri Begawan',en,Brunei,#42CCC4,#42CCC4,2,0.102331208825
+'Brunei',en,Brunei,#42CCC4,#42CCC4,2,0.102331208825
+'Fort-de-France',en,Martinique,#A61A42,#A61A42,2,0.102310002310
+'Martinique',en,Martinique,#A61A42,#A61A42,2,0.102310002310
+'Basse-Terre',en,Guadeloupe,#FA2099,#FA2099,2,0.102257336343
+'Guadeloupe',en,Guadeloupe,#FA2099,#FA2099,2,0.102257336343
+'Valletta',en,Malta,#F9090F,#F9090F,2,0.102068124005
+'Malta',en,Malta,#F9090F,#F9090F,2,0.102068124005
+'Malediven',en,Maldives,#B2DAB1,#B2DAB1,2,0.101939126927
+'Männlich',en,Maldives,#B2DAB1,#B2DAB1,2,0.101939126927
+'Praia',en,Cabo Verde,#5935CD,#5935CD,2,0.101839022964
+'Kap Verde',en,Cabo Verde,#5935CD,#5935CD,2,0.101839022964
+'Paramaribo',en,Suriname,#43F495,#43F495,2,0.101736138238
+'Surinam',en,Suriname,#43F495,#43F495,2,0.101736138238
+'Luxemburg',en,Luxembourg,#22889F,#22889F,2,0.101645472975
+'Montenegro',en,Montenegro,#A88D15,#A88D15,2,0.101606825796
+'Podgorica',en,Montenegro,#A88D15,#A88D15,2,0.101606825796
+'Macau',en,Macao,#6CAD4F,#6CAD4F,2,0.101583190318
+'Honiara',en,Solomon Islands,#1DE221,#1DE221,2,0.101531726654
+'Salomonen',en,Solomon Islands,#1DE221,#1DE221,2,0.101531726654
+'Bhutan',en,Bhutan,#93EF8D,#93EF8D,2,0.101325567277
+'Thimphu',en,Bhutan,#93EF8D,#93EF8D,2,0.101325567277
+'Saint-Denis',en,Reunion,#A9621E,#A9621E,2,0.101287087424
+'Wiedervereinigung',en,Reunion,#A9621E,#A9621E,2,0.101287087424
+'Guyana',en,Guyana,#0C7627,#0C7627,2,0.101283690456
+'Georgetown',en,Guyana,#0C7627,#0C7627,2,0.101283690456
+'Komoren',en,Comoros,#3F9C71,#3F9C71,2,0.101201458090
+'Moroni',en,Comoros,#3F9C71,#3F9C71,2,0.101201458090
+'Fidschi',en,Fiji,#C1AE4E,#C1AE4E,2,0.101131883692
+'Suva',en,Fiji,#C1AE4E,#C1AE4E,2,0.101131883692
+'Dschibuti',en,Djibouti,#8E7725,#8E7725,2,0.101042839862
+'Eswatini',en,Eswatini,#88B411,#88B411,2,0.100880133710
+'Mbabane',en,Eswatini,#88B411,#88B411,2,0.100880133710
+'Zypern',en,Cyprus,#AAA4D2,#AAA4D2,2,0.100840855486
+'Nikosia',en,Cyprus,#AAA4D2,#AAA4D2,2,0.100840855486
+'Mauritius',en,Mauritius,#4DE635,#4DE635,2,0.100790324531
+'Port Louis',en,Mauritius,#4DE635,#4DE635,2,0.100790324531
+'Timor-Leste',en,Timor Leste,#83A1EF,#83A1EF,2,0.100788660948
+'Dili',en,Timor Leste,#83A1EF,#83A1EF,2,0.100788660948
+'Malabo',en,Equatorial Guinea,#45F0B2,#45F0B2,2,0.100763957115
+'Äquatorialguinea',en,Equatorial Guinea,#45F0B2,#45F0B2,2,0.100763957115
+'Tallinn',en,Estonia,#BC8338,#BC8338,2,0.100757068751
+'Estland',en,Estonia,#BC8338,#BC8338,2,0.100757068751
+'Trinidad und Tobago',en,Trinidad and Tobago,#95B5F4,#95B5F4,2,0.100719497963
+'Hafen von Spanien',en,Trinidad and Tobago,#95B5F4,#95B5F4,2,0.100719497963
+'Bahrain',en,Bahrain,#782C45,#782C45,2,0.100637170352
+'Manama',en,Bahrain,#782C45,#782C45,2,0.100637170352
+'Pristina',en,Kosovo,#D48961,#D48961,2,0.100541917303
+'Kosovo',en,Kosovo,#D48961,#D48961,2,0.100541917303
+'Guinea-Bissau',en,Guinea-Bissau,#824AD8,#824AD8,2,0.100533529957
+'Bissau',en,Guinea-Bissau,#824AD8,#824AD8,2,0.100533529957
+'Lettland',en,Latvia,#263A5C,#263A5C,2,0.100519064728
+'Riga',en,Latvia,#263A5C,#263A5C,2,0.100519064728
+'Ljubljana',en,Slovenia,#641DEA,#641DEA,2,0.100483705884
+'Slowenien',en,Slovenia,#641DEA,#641DEA,2,0.100483705884
+'Skopje',en,North Macedonia,#220407,#220407,2,0.100480086492
+'Nordmazedonien',en,North Macedonia,#220407,#220407,2,0.100480086492
+'Lesotho',en,Lesotho,#FB5F0F,#FB5F0F,2,0.100474353598
+'Maseru',en,Lesotho,#FB5F0F,#FB5F0F,2,0.100474353598
+'Libreville',en,Gabon,#667B4E,#667B4E,2,0.100471859480
+'Gabun',en,Gabon,#667B4E,#667B4E,2,0.100471859480
+'Gaborone',en,Botswana,#F9CB83,#F9CB83,2,0.100443630924
+'Botswana',en,Botswana,#F9CB83,#F9CB83,2,0.100443630924
+'Banjul',en,Gambia,#A82B11,#A82B11,2,0.100438576871
+'Gambia',en,Gambia,#A82B11,#A82B11,2,0.100438576871
+'Windhoek',en,Namibia,#EAE393,#EAE393,2,0.100408454185
+'Namibia',en,Namibia,#EAE393,#EAE393,2,0.100408454185
+'Katar',en,Qatar,#A08B0A,#A08B0A,2,0.100359495369
+'Doha',en,Qatar,#A08B0A,#A08B0A,2,0.100359495369
+'Vilnius',en,Lithuania,#2B01B5,#2B01B5,2,0.100358482943
+'Litauen',en,Lithuania,#2B01B5,#2B01B5,2,0.100358482943
+'Albanien',en,Albania,#C60FFA,#C60FFA,2,0.100348872583
+'Tirana',en,Albania,#C60FFA,#C60FFA,2,0.100348872583
+'Jamaika',en,Jamaica,#B78954,#B78954,2,0.100340732336
+'Kingston',en,Jamaica,#B78954,#B78954,2,0.100340732336
+'Armenien',en,Armenia,#8AC860,#8AC860,2,0.100324212164
+'Eriwan',en,Armenia,#8AC860,#8AC860,2,0.100324212164
+'Ulaanbaatar',en,Mongolia,#A7D11F,#A7D11F,2,0.100315436716
+'Mongolei',en,Mongolia,#A7D11F,#A7D11F,2,0.100315436716
+'San Juan',en,Puerto Rico,#90862A,#90862A,2,0.100312974058
+'Puerto Rico',en,Puerto Rico,#90862A,#90862A,2,0.100312974058
+'Bosnien und Herzegowina',en,Bosnia and Herzegovina,#4B4606,#4B4606,2,0.100300848785
+'Sarajevo',en,Bosnia and Herzegovina,#4B4606,#4B4606,2,0.100300848785
+'Uruguay',en,Uruguay,#41BC88,#41BC88,2,0.100289913980
+'Montevideo',en,Uruguay,#41BC88,#41BC88,2,0.100289913980
+'Moldawien',en,Moldova,#2AC9F1,#2AC9F1,2,0.100282017201
+'Chișinău',en,Moldova,#2AC9F1,#2AC9F1,2,0.100282017201
+'Tiflis',en,Georgia,#BAF433,#BAF433,2,0.100269941962
+'Georgia',en,Georgia,#BAF433,#BAF433,2,0.100269941962
+'Kroatien',en,Croatia,#0EA18E,#0EA18E,2,0.100258275602
+'Zagreb',en,Croatia,#0EA18E,#0EA18E,2,0.100258275602
+'Kuwait-Stadt',en,Kuwait,#5B54D0,#5B54D0,2,0.100241703001
+'Kuwait',en,Kuwait,#5B54D0,#5B54D0,2,0.100241703001
+'Panama-Stadt',en,Panama,#5D4E6F,#5D4E6F,2,0.100239413552
+'Panama',en,Panama,#5D4E6F,#5D4E6F,2,0.100239413552
+'Nouakchott',en,Mauritania,#7A5076,#7A5076,2,0.100227101421
+'Mauretanien',en,Mauritania,#7A5076,#7A5076,2,0.100227101421
+'Ostjerusalem',en,Palestinian Territory,#BC87DE,#BC87DE,2,0.100218862105
+'Palästinensisches Gebiet',en,Palestinian Territory,#BC87DE,#BC87DE,2,0.100218862105
+'Bangui',en,Central African Republic,#8A0CFA,#8A0CFA,2,0.100214299016
+'Zentralafrikanische Republik',en,Central African Republic,#8A0CFA,#8A0CFA,2,0.100214299016
+'Liberia',en,Liberia,#AA0B2C,#AA0B2C,2,0.100207512922
+'Monrovia',en,Liberia,#AA0B2C,#AA0B2C,2,0.100207512922
+'Oman',en,Oman,#A9C5D0,#A9C5D0,2,0.100207061501
+'Maskat',en,Oman,#A9C5D0,#A9C5D0,2,0.100207061501
+'Dublin',en,Ireland,#E1D5AE,#E1D5AE,2,0.100206036626
+'Irland',en,Ireland,#E1D5AE,#E1D5AE,2,0.100206036626
+'Neuseeland',en,New Zealand,#12F8AE,#12F8AE,2,0.100204687340
+'Wellington',en,New Zealand,#12F8AE,#12F8AE,2,0.100204687340
+'San José',en,Costa Rica,#8A4DEA,#8A4DEA,2,0.100200022363
+'Costa Rica',en,Costa Rica,#8A4DEA,#8A4DEA,2,0.100200022363
+'Brazzaville',en,Republic of the Congo,#80C50C,#80C50C,2,0.100190680927
+'Republik Kongo',en,Republic of the Congo,#80C50C,#80C50C,2,0.100190680927
+'Oslo',en,Norway,#E2FF59,#E2FF59,2,0.100188170262
+'Norwegen',en,Norway,#E2FF59,#E2FF59,2,0.100188170262
+'Slowakei',en,Slovakia,#B42391,#B42391,2,0.100183586925
+'Bratislava',en,Slovakia,#B42391,#B42391,2,0.100183586925
+'Finnland',en,Finland,#1EF42E,#1EF42E,2,0.100181223439
+'Helsinki',en,Finland,#1EF42E,#1EF42E,2,0.100181223439
+'Singapur',en,Singapore,#615481,#615481,2,0.100177346597
+'Dänemark',en,Denmark,#97B53A,#97B53A,2,0.100172489748
+'Kopenhagen',en,Denmark,#97B53A,#97B53A,2,0.100172489748
+'Turkmenistan',en,Turkmenistan,#6F4B33,#6F4B33,2,0.100170913643
+'Aschgabat',en,Turkmenistan,#6F4B33,#6F4B33,2,0.100170913643
+'Asmara',en,Eritrea,#CB858D,#CB858D,2,0.100161049735
+'Eritrea',en,Eritrea,#CB858D,#CB858D,2,0.100161049735
+'Bischkek',en,Kyrgyzstan,#1390B9,#1390B9,2,0.100158333069
+'Kirgisistan',en,Kyrgyzstan,#1390B9,#1390B9,2,0.100158333069
+'San Salvador',en,El Salvador,#05D5E9,#05D5E9,2,0.100155745191
+'El Salvador',en,El Salvador,#05D5E9,#05D5E9,2,0.100155745191
+'Nicaragua',en,Nicaragua,#41A60C,#41A60C,2,0.100154666768
+'Managua',en,Nicaragua,#41A60C,#41A60C,2,0.100154666768
+'Tripolis',en,Libya,#818B7E,#818B7E,2,0.100149732720
+'Libyen',en,Libya,#818B7E,#818B7E,2,0.100149732720
+'Beirut',en,Lebanon,#C60C9E,#C60C9E,2,0.100146008315
+'Libanon',en,Lebanon,#C60C9E,#C60C9E,2,0.100146008315
+'Paraguay',en,Paraguay,#BAFBDC,#BAFBDC,2,0.100143759315
+'Asunción',en,Paraguay,#BAFBDC,#BAFBDC,2,0.100143759315
+'Serbien',en,Serbia,#2C7981,#2C7981,2,0.100143223714
+'Sofia',en,Bulgaria,#F93066,#F93066,2,0.100142856347
+'Bulgarien',en,Bulgaria,#F93066,#F93066,2,0.100142856347
+'Laos',en,Laos,#DD0DF9,#DD0DF9,2,0.100141612831
+'Vientiane',en,Laos,#DD0DF9,#DD0DF9,2,0.100141612831
+'Hongkong',en,Hong Kong,#CF2A23,#CF2A23,2,0.100135206831
+'Sierra Leone',en,Sierra Leone,#8CF7BC,#8CF7BC,2,0.100130716323
+'Freetown',en,Sierra Leone,#8CF7BC,#8CF7BC,2,0.100130716323
+'Lomé',en,Togo,#83094B,#83094B,2,0.100126757268
+'Togo',en,Togo,#83094B,#83094B,2,0.100126757268
+'Juba',en,South Sudan,#63EEDB,#63EEDB,2,0.100121058194
+'Südsudan',en,South Sudan,#63EEDB,#63EEDB,2,0.100121058194
+'Schweiz',en,Switzerland,#4D483A,#4D483A,2,0.100117418535
+'Bern',en,Switzerland,#4D483A,#4D483A,2,0.100117418535
+'Port Moresby',en,Papua New Guinea,#707D5D,#707D5D,2,0.100116193735
+'Papua-Neuguinea',en,Papua New Guinea,#707D5D,#707D5D,2,0.100116193735
+'Wien',en,Austria,#42BE27,#42BE27,2,0.100113032194
+'Österreich',en,Austria,#42BE27,#42BE27,2,0.100113032194
+'Jerusalem',en,Israel,#842974,#842974,2,0.100112564443
+'Israel',en,Israel,#842974,#842974,2,0.100112564443
+'Tadschikistan',en,Tajikistan,#060057,#060057,2,0.100109880003
+'Duschanbe',en,Tajikistan,#060057,#060057,2,0.100109880003
+'Weißrussland',en,Belarus,#4F9FE5,#4F9FE5,2,0.100105425335
+'Minsk',en,Belarus,#4F9FE5,#4F9FE5,2,0.100105425335
+'Tegucigalpa',en,Honduras,#CF4354,#CF4354,2,0.100104302238
+'Honduras',en,Honduras,#CF4354,#CF4354,2,0.100104302238
+'Vereinigte Arabische Emirate',en,United Arab Emirates,#FA37F9,#FA37F9,2,0.100103831820
+'Abu Dhabi',en,United Arab Emirates,#FA37F9,#FA37F9,2,0.100103831820
+'Ungarn',en,Hungary,#99D2DF,#99D2DF,2,0.100102366876
+'Budapest',en,Hungary,#99D2DF,#99D2DF,2,0.100102366876
+'Amman',en,Jordan,#DE29AB,#DE29AB,2,0.100100441834
+'Jordanien',en,Jordan,#DE29AB,#DE29AB,2,0.100100441834
+'Schweden',en,Sweden,#0D5DF0,#0D5DF0,2,0.100098201200
+'Stockholm',en,Sweden,#0D5DF0,#0D5DF0,2,0.100098201200
+'Baku',en,Azerbaijan,#73C384,#73C384,2,0.100097800467
+'Aserbaidschan',en,Azerbaijan,#73C384,#73C384,2,0.100097800467
+'Lissabon',en,Portugal,#C50204,#C50204,2,0.100097259594
+'Portugal',en,Portugal,#C50204,#C50204,2,0.100097259594
+'Prag',en,Czechia,#151748,#151748,2,0.100094111491
+'Tschechien',en,Czechia,#151748,#151748,2,0.100094111491
+'Santo Domingo',en,Dominican Republic,#BEFD21,#BEFD21,2,0.100094098473
+'Dominikanische Republik',en,Dominican Republic,#BEFD21,#BEFD21,2,0.100094098473
+'Griechenland',en,Greece,#2E3EF7,#2E3EF7,2,0.100093216904
+'Athen',en,Greece,#2E3EF7,#2E3EF7,2,0.100093216904
+'Serbien und Montenegro',en,Serbia and Montenegro,#71F6E2,#71F6E2,2,0.100092343138
+'Belgrad',en,Serbia and Montenegro,#71F6E2,#71F6E2,2,0.100092343138
+'Port-au-Prince',en,Haiti,#D8FBB1,#D8FBB1,2,0.100089902380
+'Haiti',en,Haiti,#D8FBB1,#D8FBB1,2,0.100089902380
+'Gitega',en,Burundi,#D96AD2,#D96AD2,2,0.100089482432
+'Burundi',en,Burundi,#D96AD2,#D96AD2,2,0.100089482432
+'Havanna',en,Cuba,#A2B192,#A2B192,2,0.100088197903
+'Kuba',en,Cuba,#A2B192,#A2B192,2,0.100088197903
+'Bolivien',en,Bolivia,#17796F,#17796F,2,0.100088081343
+'Erfolgreich',en,Bolivia,#17796F,#17796F,2,0.100088081343
+'Belgien',en,Belgium,#6B92F5,#6B92F5,2,0.100087549820
+'Brüssel',en,Belgium,#6B92F5,#6B92F5,2,0.100087549820
+'Benin',en,Benin,#1856D0,#1856D0,2,0.100087069728
+'Porto-Novo',en,Benin,#1856D0,#1856D0,2,0.100087069728
+'Tunesien',en,Tunisia,#A8D9CE,#A8D9CE,2,0.100086466266
+'Tunis',en,Tunisia,#A8D9CE,#A8D9CE,2,0.100086466266
+'Kigali',en,Rwanda,#A56B0C,#A56B0C,2,0.100081287999
+'Ruanda',en,Rwanda,#A56B0C,#A56B0C,2,0.100081287999
+'Conakry',en,Guinea,#179EC9,#179EC9,2,0.100080552150
+'Guinea',en,Guinea,#179EC9,#179EC9,2,0.100080552150
+'Somalia',en,Somalia,#CDEA16,#CDEA16,2,0.100066630446
+'Mogadischu',en,Somalia,#CDEA16,#CDEA16,2,0.100066630446
+'Tschad',en,Chad,#75888A,#75888A,2,0.100064608870
+'N'Djamena',en,Chad,#75888A,#75888A,2,0.100064608870
+'Dakar',en,Senegal,#7E904D,#7E904D,2,0.100063074132
+'Senegal',en,Senegal,#7E904D,#7E904D,2,0.100063074132
+'Kambodscha',en,Cambodia,#60C0BD,#60C0BD,2,0.100061539227
+'Phnom Penh',en,Cambodia,#60C0BD,#60C0BD,2,0.100061539227
+'Harare',en,Zimbabwe,#A377E4,#A377E4,2,0.100059282414
+'Simbabwe',en,Zimbabwe,#A377E4,#A377E4,2,0.100059282414
+'Damaskus',en,Syria,#3AE75E,#3AE75E,2,0.100059149607
+'Syrien',en,Syria,#3AE75E,#3AE75E,2,0.100059149607
+'Ecuador',en,Ecuador,#200837,#200837,2,0.100058533078
+'Quito',en,Ecuador,#200837,#200837,2,0.100058533078
+'Amsterdam',en,The Netherlands,#6F7CEA,#6F7CEA,2,0.100058034880
+'Die Niederlande',en,The Netherlands,#6F7CEA,#6F7CEA,2,0.100058034880
+'Guatemala-Stadt',en,Guatemala,#F2E752,#F2E752,2,0.100057978385
+'Guatemala',en,Guatemala,#F2E752,#F2E752,2,0.100057978385
+'Sambia',en,Zambia,#B15F5A,#B15F5A,2,0.100057630836
+'Lusaka',en,Zambia,#B15F5A,#B15F5A,2,0.100057630836
+'Lilongwe',en,Malawi,#B9C253,#B9C253,2,0.100056935453
+'Malawi',en,Malawi,#B9C253,#B9C253,2,0.100056935453
+'Nur-Sultan',en,Kazakhstan,#3F5C29,#3F5C29,2,0.100054715074
+'Kasachstan',en,Kazakhstan,#3F5C29,#3F5C29,2,0.100054715074
+'Chile',en,Chile,#4A799C,#4A799C,2,0.100053392678
+'Santiago',en,Chile,#4A799C,#4A799C,2,0.100053392678
+'Mali',en,Mali,#EB8B3D,#EB8B3D,2,0.100052417248
+'Bamako',en,Mali,#EB8B3D,#EB8B3D,2,0.100052417248
+'Bukarest',en,Romania,#5F1E0F,#5F1E0F,2,0.100051350687
+'Rumänien',en,Romania,#5F1E0F,#5F1E0F,2,0.100051350687
+'Burkina Faso',en,Burkina Faso,#70EBA9,#70EBA9,2,0.100050628976
+'Ouagadougou',en,Burkina Faso,#70EBA9,#70EBA9,2,0.100050628976
+'Colombo',en,Sri Lanka,#0C66E3,#0C66E3,2,0.100046146747
+'Sri Lanka',en,Sri Lanka,#0C66E3,#0C66E3,2,0.100046146747
+'Niger',en,Niger,#80F493,#80F493,2,0.100044557426
+'Niamey',en,Niger,#80F493,#80F493,2,0.100044557426
+'Taipeh',en,Taiwan,#37742F,#37742F,2,0.100042640583
+'Taiwan',en,Taiwan,#37742F,#37742F,2,0.100042640583
+'Canberra',en,Australia,#857C43,#857C43,2,0.100040012213
+'Australien',en,Australia,#857C43,#857C43,2,0.100040012213
+'Elfenbeinküste',en,Ivory Coast,#D6BAB5,#D6BAB5,2,0.100039889539
+'Yamoussoukro',en,Ivory Coast,#D6BAB5,#D6BAB5,2,0.100039889539
+'Yaoundé',en,Cameroon,#7BB694,#7BB694,2,0.100039656988
+'Kamerun',en,Cameroon,#7BB694,#7BB694,2,0.100039656988
+'Nordkorea',en,North Korea,#27348B,#27348B,2,0.100039139221
+'Pjöngjang',en,North Korea,#27348B,#27348B,2,0.100039139221
+'Antananarivo',en,Madagascar,#E2B6C2,#E2B6C2,2,0.100038077298
+'Madagaskar',en,Madagascar,#E2B6C2,#E2B6C2,2,0.100038077298
+'Kathmandu',en,Nepal,#7D4D3D,#7D4D3D,2,0.100035602556
+'Nepal',en,Nepal,#7D4D3D,#7D4D3D,2,0.100035602556
+'Sanaa',en,Yemen,#A41E48,#A41E48,2,0.100035089336
+'Jemen',en,Yemen,#A41E48,#A41E48,2,0.100035089336
+'Caracas',en,Venezuela,#E81D03,#E81D03,2,0.100034637799
+'Venezuela',en,Venezuela,#E81D03,#E81D03,2,0.100034637799
+'Mosambik',en,Mozambique,#7299D6,#7299D6,2,0.100033902946
+'Maputo',en,Mozambique,#7299D6,#7299D6,2,0.100033902946
+'Accra',en,Ghana,#B84ADB,#B84ADB,2,0.100033594127
+'Ghana',en,Ghana,#B84ADB,#B84ADB,2,0.100033594127
+'Luanda',en,Angola,#1F65AD,#1F65AD,2,0.100032457245
+'Angola',en,Angola,#1F65AD,#1F65AD,2,0.100032457245
+'Kuala Lumpur',en,Malaysia,#241745,#241745,2,0.100031717250
+'Malaysia',en,Malaysia,#241745,#241745,2,0.100031717250
+'Peru',en,Peru,#BA0E8A,#BA0E8A,2,0.100031260496
+'Lima',en,Peru,#BA0E8A,#BA0E8A,2,0.100031260496
+'Usbekistan',en,Uzbekistan,#03D5DB,#03D5DB,2,0.100030344041
+'Taschkent',en,Uzbekistan,#03D5DB,#03D5DB,2,0.100030344041
+'Saudi-Arabien',en,Saudi Arabia,#976236,#976236,2,0.100029673637
+'Riad',en,Saudi Arabia,#976236,#976236,2,0.100029673637
+'Marokko',en,Morocco,#588476,#588476,2,0.100027755313
+'Rabat',en,Morocco,#588476,#588476,2,0.100027755313
+'Kanada',en,Canada,#8D05CE,#8D05CE,2,0.100026984103
+'Ottawa',en,Canada,#8D05CE,#8D05CE,2,0.100026984103
+'Kabul',en,Afghanistan,#BBE839,#BBE839,2,0.100026901690
+'Afghanistan',en,Afghanistan,#BBE839,#BBE839,2,0.100026901690
+'Polen',en,Poland,#276EFF,#276EFF,2,0.100026330654
+'Warschau',en,Poland,#276EFF,#276EFF,2,0.100026330654
+'Bagdad',en,Iraq,#2247E6,#2247E6,2,0.100026018900
+'Irak',en,Iraq,#2247E6,#2247E6,2,0.100026018900
+'Sudan',en,Sudan,#35C618,#35C618,2,0.100023922568
+'Khartum',en,Sudan,#35C618,#35C618,2,0.100023922568
+'Algier',en,Algeria,#2D8CDA,#2D8CDA,2,0.100023680729
+'Algerien',en,Algeria,#2D8CDA,#2D8CDA,2,0.100023680729
+'Uganda',en,Uganda,#55C78E,#55C78E,2,0.100023406520
+'Kampala',en,Uganda,#55C78E,#55C78E,2,0.100023406520
+'Buenos Aires',en,Argentina,#F9ADE8,#F9ADE8,2,0.100022474687
+'Argentinien',en,Argentina,#F9ADE8,#F9ADE8,2,0.100022474687
+'Ukraine',en,Ukraine,#0BA9A7,#0BA9A7,2,0.100022410211
+'Kiew',en,Ukraine,#0BA9A7,#0BA9A7,2,0.100022410211
+'Madrid',en,Spain,#8253E3,#8253E3,2,0.100021402392
+'Spanien',en,Spain,#8253E3,#8253E3,2,0.100021402392
+'Bogotá',en,Colombia,#0D3E50,#0D3E50,2,0.100020141520
+'Kolumbien',en,Colombia,#0D3E50,#0D3E50,2,0.100020141520
+'Kenia',en,Kenya,#2B0462,#2B0462,2,0.100019457899
+'Nairobi',en,Kenya,#2B0462,#2B0462,2,0.100019457899
+'Seoul',en,South Korea,#F22618,#F22618,2,0.100019366613
+'Südkorea',en,South Korea,#F22618,#F22618,2,0.100019366613
+'Myanmar',en,Myanmar,#00E52D,#00E52D,2,0.100018619063
+"'Nein, Pyi Taw'",en,Myanmar,#00E52D,#00E52D,2,0.100018619063
+'Dodoma',en,Tanzania,#C3D8A5,#C3D8A5,2,0.100017756203
+'Tansania',en,Tanzania,#C3D8A5,#C3D8A5,2,0.100017756203
+'Pretoria',en,South Africa,#E2D987,#E2D987,2,0.100017307140
+'Südafrika',en,South Africa,#E2D987,#E2D987,2,0.100017307140
+'Rom',en,Italy,#1A5251,#1A5251,2,0.100016547721
+'Italien',en,Italy,#1A5251,#1A5251,2,0.100016547721
+'London',en,United Kingdom,#5A65F3,#5A65F3,2,0.100015040084
+'Vereinigtes Königreich',en,United Kingdom,#5A65F3,#5A65F3,2,0.100015040084
+'Paris',en,France,#D4DCBD,#D4DCBD,2,0.100014928215
+'Frankreich',en,France,#D4DCBD,#D4DCBD,2,0.100014928215
+'Thailand',en,Thailand,#EEFF06,#EEFF06,2,0.100014403302
+'Bangkok',en,Thailand,#EEFF06,#EEFF06,2,0.100014403302
+'Teheran',en,Iran,#81ABB2,#81ABB2,2,0.100012224899
+'Iran',en,Iran,#81ABB2,#81ABB2,2,0.100012224899
+'Truthahn',en,Turkey,#F547D7,#F547D7,2,0.100012147757
+'Ankara',en,Turkey,#F547D7,#F547D7,2,0.100012147757
+'Berlin',en,Germany,#44AD00,#44AD00,2,0.100012058665
+'Deutschland',en,Germany,#44AD00,#44AD00,2,0.100012058665
+'Kinshasa',en,Democratic Republic of the Congo,#C2BF79,#C2BF79,2,0.100011895120
+'Demokratische Republik Kongo',en,Democratic Republic of the Congo,#C2BF79,#C2BF79,2,0.100011895120
+'Vietnam',en,Vietnam,#F49924,#F49924,2,0.100010466777
+'Hanoi',en,Vietnam,#F49924,#F49924,2,0.100010466777
+'Ägypten',en,Egypt,#5F6018,#5F6018,2,0.100010160165
+'Kairo',en,Egypt,#5F6018,#5F6018,2,0.100010160165
+'Manila',en,Philippines,#E57800,#E57800,2,0.100009376296
+'Philippinen',en,Philippines,#E57800,#E57800,2,0.100009376296
+'Äthiopien',en,Ethiopia,#A5A990,#A5A990,2,0.100009155450
+'Addis Abeba',en,Ethiopia,#A5A990,#A5A990,2,0.100009155450
+'Mexiko',en,Mexico,#6BC224,#6BC224,2,0.100007924509
+'Mexiko-Stadt',en,Mexico,#6BC224,#6BC224,2,0.100007924509
+'Japan',en,Japan,#87C835,#87C835,2,0.100007903320
+'Tokio',en,Japan,#87C835,#87C835,2,0.100007903320
+'Russland',en,Russia,#4CF745,#4CF745,2,0.100006921467
+'Moskau',en,Russia,#4CF745,#4CF745,2,0.100006921467
+'Bangladesch',en,Bangladesh,#B9ABC1,#B9ABC1,2,0.100006197475
+'Dhaka',en,Bangladesh,#B9ABC1,#B9ABC1,2,0.100006197475
+'Abuja',en,Nigeria,#54D20E,#54D20E,2,0.100005105304
+'Nigeria',en,Nigeria,#54D20E,#54D20E,2,0.100005105304
+'Brasilien',en,Brazil,#19925E,#19925E,2,0.100004773969
+'Brasilia',en,Brazil,#19925E,#19925E,2,0.100004773969
+'Islamabad',en,Pakistan,#D2F55A,#D2F55A,2,0.100004712202
+'Pakistan',en,Pakistan,#D2F55A,#D2F55A,2,0.100004712202
+'Jakarta',en,Indonesia,#EF6484,#EF6484,2,0.100003736035
+'Indonesien',en,Indonesia,#EF6484,#EF6484,2,0.100003736035
+'Washington',en,United States,#8E1D06,#8E1D06,2,0.100003056539
+'Vereinigte Staaten',en,United States,#8E1D06,#8E1D06,2,0.100003056539
+'Indien',en,India,#3B0C78,#3B0C78,2,0.100000739307
+'Neu-Delhi',en,India,#3B0C78,#3B0C78,2,0.100000739307
+'China',en,China,#FC5C4C,#FC5C4C,2,0.100000708326
+'Peking',en,China,#FC5C4C,#FC5C4C,2,0.100000708326
