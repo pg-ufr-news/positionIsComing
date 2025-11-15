@@ -193,7 +193,7 @@ def incrementLocationsInKeywords(data):
                   oldRatio = float(keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew'].iloc[0])
                   newRatio = math.atan(math.tan(oldRatio*math.pi/2) + 1/500)*2/math.pi
                   print(['incrementLocationsInKeywords ratio',locationText,oldRatio,newRatio])
-                  keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew'] = newRatio  
+                  ##keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew'] = newRatio    ##TODO: add
                   locationsDone.append(locationText) 
     return True
 
@@ -206,7 +206,7 @@ def addNewsToCollection(data):
     fileDate = 'news_'+pubDate.strftime('%Y_%m')+'.csv'
     if(fileDate in collectedNews):
       if(not data['url'] in collectedNews[fileDate]):
-        ##incrementLocationsInKeywords(data)  ##TODO: add
+        incrementLocationsInKeywords(data)
         if(not 'archive' in data):
            data = archiveUrl(data)
         collectedNews[fileDate][data['url']] = data
