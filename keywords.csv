@@ -1,9 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Vatikanstadt',de,Vatican,#AB6740,#AB6740,2,1.000000000000
 'Antarktis',de,Antarctica,#1413FD,#1413FD,3,0.954951635000
 'Vatikan',de,Vatican,#AB6740,#AB6740,3,0.950407275455
+'Vatikanstadt',de,Vatican,#AB6740,#AB6740,2,0.908113937895
 'Adamstown',de,Pitcairn,#0DE149,#0DE149,1,0.850000000000
-'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.850000000000
 'Heard-Insel und McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.850000000000
 'Südgeorgien und die Südlichen Sandwichinseln',de,South Georgia and the South Sandwich Islands,#ABC03E,#ABC03E,1,0.850000000000
 'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.850000000000
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grytviken',de,South Georgia and the South Sandwich Islands,#ABC03E,#ABC03E,1,0.850000000000
 'Pitcairn',de,Pitcairn,#0DE149,#0DE149,1,0.850000000000
 'Westinsel',de,Cocos Islands,#C0DB46,#C0DB46,1,0.850000000000
+'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.850000000000
 'Tokelau',de,Tokelau,#87FBB0,#87FBB0,2,0.782128240109
 'Flying Fish Cove',de,Christmas Island,#C101AA,#C101AA,2,0.766666666667
 'Weihnachtsinsel',de,Christmas Island,#C101AA,#C101AA,2,0.766666666667
