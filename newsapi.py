@@ -72,7 +72,7 @@ def addNewNames(urlNames, keyDF, newRatio=0.5,language='de', limitCount=9):
      newDF = newDF[(newDF['count'] > limitCount)]
      if(not newDF.empty):
       for index, column in newDF.iterrows():
-        newPhrase = "'" + column['phrase'] + "'"  
+        newPhrase = "'" + column['phrase'] + "'" 
         if(not newPhrase in keyDF['keyword'].unique()):
           newData = {'keyword':newPhrase,'language':language,'topic':'unknown','topicColor':'#111111','keywordColor':'#111111','limitPages':2,'ratioNew':(newRatio+random.random()/100)}
           ##print(newData)  
@@ -170,31 +170,31 @@ def strangeCharacters(testString, testCharacters):
           count += testString.count(oneCharacter)
      return count
 
-def incrementPersonsInKeywords(data):
+def incrementLocationsInKeywords(data):
     #global keywordsDF
-    #print(['incrementPersonsInKeywords data',data]) 
+    #print(['incrementLocationsInKeywords data',data]) 
     quote = str(data['title'])+'. ' +str(data['description'])+' '+str(data['content'])
     #lang = data['language'] 
-    blob = TextBlobDE(quote)
-    namesDone = []
+    blob = TextBlob(quote)
+    locationsDone = []
     for sentence in blob.sentences:
         #sentence.sentiment.polarity
         doc = nlp(str(sentence))
         for entity in doc.ents:
-            #print(entity) 
-            if(entity.label_ in ['PER','PERSON']):
-             personText = entity.text
-             personText = personText.strip(" .,!?;:'…/-").strip('"')
-             if(strangeCharacters(personText,".,!?;:'…<>/\n\r")==0):
-              if(personText.count(' ')>0):
-               if(not personText in namesDone):
-                crc = personInSearchCrc(personText)
+          #print(entity) 
+          if(entity.label_ in ['LOC','GPE']):
+           locationText = entity.text
+           locationText = locationText.strip(" .,!?;:'…/-").strip('"')
+           if(strangeCharacters(locationText,".,!?;:'…<>/\n\r")==0):
+               #if(personText.count(' ')>0):
+               if(not locationText in locationsDone):
+                crc = personInSearchCrc(locationText)
                 if(crc):
                   oldRatio = float(keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew'].iloc[0])
                   newRatio = math.atan(math.tan(oldRatio*math.pi/2) + 1/500)*2/math.pi
-                  print(['incrementPersonsInKeywords ratio',personText,oldRatio,newRatio])
+                  print(['incrementLocationsInKeywords ratio',locationText,oldRatio,newRatio])
                   keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew'] = newRatio  
-                  namesDone.append(personText) 
+                  locationsDone.append(locationText) 
     return True
 
 
@@ -206,7 +206,7 @@ def addNewsToCollection(data):
     fileDate = 'news_'+pubDate.strftime('%Y_%m')+'.csv'
     if(fileDate in collectedNews):
       if(not data['url'] in collectedNews[fileDate]):
-        incrementPersonsInKeywords(data)   
+        ##incrementLocationsInKeywords(data)  ##TODO: add
         if(not 'archive' in data):
            data = archiveUrl(data)
         collectedNews[fileDate][data['url']] = data
@@ -667,9 +667,12 @@ if(age>60*60*5*0):
 '''
 inqRandomNews()
 
+'''
+##TODO decomment
 keywordsDF = addNewNames('https://raw.githubusercontent.com/pg-ufr-news/gensChuchoter/main/csv/sentiments_new_persons.csv', keywordsDF, 0.5, 'de', 9)
 keywordsDF = addNewNames('https://raw.githubusercontent.com/pg-ufr-news/winterIsComing/main/csv/sentiments_new_persons.csv', keywordsDF, 0.6, 'de', 9)
 keywordsDF = addNewNames('https://raw.githubusercontent.com/pg-ufr-news/personWhisperer/main/csv/sentiments_new_persons.csv', keywordsDF, 0.5, 'de', 9)
+'''
 
 #keywordsDF = keywordsDF.sort_values(by=['topic','keyword'])
 keywordsDF = keywordsDF[(keywordsDF.ratioNew > 0.05)]
