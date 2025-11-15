@@ -1,0 +1,63 @@
+,phrase,label,sentiment,subjectivity,language,count
+Südpol,Südpol,LOC,0.0,0.4,de,5
+Synodenteams,Synodenteams,LOC,0.0,0.25,de,4
+Mitwirkungsgremien,Mitwirkungsgremien,LOC,0.0,0.25,de,4
+Erde,Erde,LOC,0.0,0.0,de,3
+Hektoria-Gletscher,Hektoria-Gletscher,LOC,-0.11666666666666665,0.16666666666666666,de,3
+Krill,Krill,LOC,-0.6666666666666666,0.0,de,3
+USA,USA,LOC,-0.2333333333333333,0.0,de,3
+Türkei,Türkei,LOC,-0.2333333333333333,0.0,de,3
+Reykjavík,Reykjavík,LOC,0.0,0.0,de,3
+Europa,Europa,LOC,1.0,0.0,de,2
+Nichtitaliener,Nichtitaliener,LOC,0.175,0.25,de,2
+den Niederlanden,den Niederlanden,LOC,0.0,0.0,de,2
+Wirbelsturm,Wirbelsturm,LOC,-0.35,0.0,de,2
+Dozulé,Dozulé,LOC,-0.7125,0.0,de,2
+Friedens,Friedens,LOC,0.0,0.9,de,2
+Kurs,Kurs,LOC,-0.35,0.0,de,2
+Appenzeller,Appenzeller,LOC,-0.7,0.0,de,2
+Lösungen,Lösungen,LOC,0.0,0.0,de,2
+Weddellmeer,Weddellmeer,LOC,-0.175,0.75,de,2
+Cádiz,Cádiz,LOC,-0.15000000000000002,0.0,de,2
+Südlichen Ozean,Südlichen Ozean,LOC,-1.0,0.0,de,1
+Sixtinischer,Sixtinischer,LOC,0.0,0.0,de,1
+Südpolarmeeres,Südpolarmeeres,LOC,0.0,0.0,de,1
+Schneckentempo,Schneckentempo,LOC,-0.7,0.0,de,1
+Meer in Gefahr,Meer in Gefahr,LOC,0.0,0.0,de,1
+Zombie-Würmer,Zombie-Würmer,LOC,-1.0,0.0,de,1
+Gletscher schmilzt,Gletscher schmilzt,LOC,0.0,0.0,de,1
+Hohenschönhausens,Hohenschönhausens,LOC,0.0,0.0,de,1
+Hohenschönhausen,Hohenschönhausen,LOC,0.0,0.0,de,1
+Ho…,Ho…,LOC,0.0,0.0,de,1
+Steckmücken,Steckmücken,LOC,0.0,0.0,de,1
+Rekordtempo,Rekordtempo,LOC,0.0,0.0,de,1
+Meeresspiegels,Meeresspiegels,LOC,0.7,0.0,de,1
+Ceuta,Ceuta,LOC,0.7,0.0,de,1
+Aurora Australis,Aurora Australis,LOC,0.7,0.0,de,1
+Neus…,Neus…,LOC,0.3333333333333333,0.0,de,1
+See-Elefanten,See-Elefanten,LOC,0.0,0.0,de,1
+Chancen,Chancen,LOC,0.0,1.0,de,1
+Synodenbüro,Synodenbüro,LOC,0.0,0.0,de,1
+Ringelmücken-Alarm,Ringelmücken-Alarm,LOC,0.0,0.0,de,1
+Glaubwürdigkeit,Glaubwürdigkeit,LOC,0.0,0.0,de,1
+Everest,Everest,LOC,0.7,0.0,de,1
+Mount Vinson im Jahr 1986,Mount Vinson im Jahr 1986,LOC,0.0,0.0,de,1
+Atemluft,Atemluft,LOC,0.0,0.0,de,1
+Mikroplastik,Mikroplastik,LOC,0.0,0.0,de,1
+Rätsel,Rätsel,LOC,0.0,0.0,de,1
+Hudson Mountains,Hudson Mountains,LOC,0.0,0.0,de,1
+Westantarktis ,Westantarktis ,LOC,0.0,0.0,de,1
+Springschwänze,Springschwänze,LOC,0.0,0.0,de,1
+Stadtstaat,Stadtstaat,LOC,0.0,0.0,de,1
+Turm Nikolaus V.,Turm Nikolaus V.,LOC,0.0,0.0,de,1
+Ostantarktis,Ostantarktis,LOC,0.0,0.0,de,1
+Sixtus-Palast,Sixtus-Palast,LOC,0.0,0.0,de,1
+Mainzer Bischof,Mainzer Bischof,LOC,0.0,1.0,de,1
+Karibik,Karibik,LOC,0.0,0.0,de,1
+Wirbelsturm Melissa,Wirbelsturm Melissa,LOC,0.0,0.0,de,1
+Kloster Wonnenstein,Kloster Wonnenstein,LOC,-0.7,0.0,de,1
+Schwester Scolastica,Schwester Scolastica,LOC,-0.7,0.0,de,1
+New York,New York,LOC,0.0,0.0,de,1
+Newyork,Newyork,LOC,0.7,0.0,de,1
+US-Hurrikanzentrum,US-Hurrikanzentrum,LOC,-0.7,0.0,de,1
+subantarktische Insel,subantarktische Insel,LOC,0.0,0.0,de,1
