@@ -193,7 +193,7 @@ def incrementLocationsInKeywords(data):
                   oldRatio = float(keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew'].iloc[0])
                   newRatio = math.atan(math.tan(oldRatio*math.pi/2) + 1/500)*2/math.pi
                   print(['incrementLocationsInKeywords ratio',locationText,oldRatio,newRatio])
-                  ##keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew'] = newRatio    ##TODO: add
+                  keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew'] = newRatio
                   locationsDone.append(locationText) 
     return True
 
