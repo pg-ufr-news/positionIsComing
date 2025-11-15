@@ -1,24 +1,24 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,2,1.000000000000
+'Antarktis',de,Antarctica,#1413FD,#1413FD,2,1.000000000000
+'Port-aux-Francais',de,French Southern Territories,#377C29,#377C29,2,1.000000000000
+'Adamstown',de,Pitcairn,#0DE149,#0DE149,2,1.000000000000
+'Pitcairn',de,Pitcairn,#0DE149,#0DE149,2,1.000000000000
 'Vatikanstadt',de,Vatican,#AB6740,#AB6740,2,1.000000000000
+'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,2,1.000000000000
 'Heard-Insel und McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,2,1.000000000000
 'Bouvetinsel',de,Bouvet Island,#8FDE3D,#8FDE3D,2,1.000000000000
-'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,2,1.000000000000
-'Antarktis',de,Antarctica,#1413FD,#1413FD,2,1.000000000000
-'Pitcairn',de,Pitcairn,#0DE149,#0DE149,2,1.000000000000
-'Adamstown',de,Pitcairn,#0DE149,#0DE149,2,1.000000000000
-'Port-aux-Francais',de,French Southern Territories,#377C29,#377C29,2,1.000000000000
 'Vatikan',de,Vatican,#AB6740,#AB6740,3,0.950407275455
-'Kokosinseln',de,Cocos Islands,#C0DB46,#C0DB46,1,0.850000000000
-'Grytviken',de,South Georgia and the South Sandwich Islands,#ABC03E,#ABC03E,1,0.850000000000
 'Westinsel',de,Cocos Islands,#C0DB46,#C0DB46,1,0.850000000000
 'Südgeorgien und die Südlichen Sandwichinseln',de,South Georgia and the South Sandwich Islands,#ABC03E,#ABC03E,1,0.850000000000
+'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.850000000000
+'Grytviken',de,South Georgia and the South Sandwich Islands,#ABC03E,#ABC03E,1,0.850000000000
+'Kokosinseln',de,Cocos Islands,#C0DB46,#C0DB46,1,0.850000000000
 'Tokelau',de,Tokelau,#87FBB0,#87FBB0,2,0.782128240109
 'Flying Fish Cove',de,Christmas Island,#C101AA,#C101AA,2,0.766666666667
 'Weihnachtsinsel',de,Christmas Island,#C101AA,#C101AA,2,0.766666666667
 'Norfolkinsel',de,Norfolk Island,#C129F3,#C129F3,2,0.647045951860
-'Alofi',de,Niue,#69CA68,#69CA68,2,0.561680517082
 'Niue',de,Niue,#69CA68,#69CA68,2,0.561680517082
+'Alofi',de,Niue,#69CA68,#69CA68,2,0.561680517082
 'Longyearbyen',de,Svalbard and Jan Mayen,#A75F37,#A75F37,2,0.492156862745
 'Spitzbergen und Jan Mayen',de,Svalbard and Jan Mayen,#A75F37,#A75F37,2,0.492156862745
 'Falklandinseln',de,Falkland Islands,#28B172,#28B172,2,0.479075056861
