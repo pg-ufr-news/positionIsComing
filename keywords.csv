@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Vatikanstadt',de,Vatican,#AB6740,#AB6740,3,0.869484469316
 'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.850069355915
 'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.850000000000
 'Adamstown',de,Pitcairn,#0DE149,#0DE149,1,0.850000000000
@@ -16,9 +15,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tokelau',de,Tokelau,#87FBB0,#87FBB0,2,0.782128240109
 'Flying Fish Cove',de,Christmas Island,#C101AA,#C101AA,2,0.766666666667
 'Weihnachtsinsel',de,Christmas Island,#C101AA,#C101AA,2,0.766666666667
+'Vatikanstadt',de,Vatican,#AB6740,#AB6740,2,0.739062533919
 'Norfolkinsel',de,Norfolk Island,#C129F3,#C129F3,2,0.647045951860
-'Niue',de,Niue,#69CA68,#69CA68,2,0.561680517082
 'Alofi',de,Niue,#69CA68,#69CA68,2,0.561680517082
+'Niue',de,Niue,#69CA68,#69CA68,2,0.561680517082
 'Spitzbergen und Jan Mayen',de,Svalbard and Jan Mayen,#A75F37,#A75F37,2,0.492156862745
 'Longyearbyen',de,Svalbard and Jan Mayen,#A75F37,#A75F37,2,0.492156862745
 'Falklandinseln',de,Falkland Islands,#28B172,#28B172,2,0.479075056861
@@ -31,8 +31,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamestown',de,Saint Helena,#791663,#791663,2,0.234048257373
 'Sankt Barthélemy',de,Saint Barthelemy,#87CFF7,#87CFF7,2,0.218343195266
 'Gustavia',de,Saint Barthelemy,#87CFF7,#87CFF7,2,0.218343195266
-'Plymouth',de,Montserrat,#53A9C4,#53A9C4,2,0.207054919174
 'Montserrat',de,Montserrat,#53A9C4,#53A9C4,2,0.207054919174
+'Plymouth',de,Montserrat,#53A9C4,#53A9C4,2,0.207054919174
 'Tuvalu',de,Tuvalu,#142424,#142424,2,0.186896072298
 'Funafuti',de,Tuvalu,#142424,#142424,2,0.186896072298
 'Nauru',de,Nauru,#D5DDD7,#D5DDD7,2,0.178715365239
@@ -41,12 +41,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anguilla',de,Anguilla,#3F043B,#3F043B,2,0.175448921080
 'Mata Utu',de,Wallis and Futuna,#1B053D,#1B053D,2,0.162402496100
 'Wallis und Futuna',de,Wallis and Futuna,#1B053D,#1B053D,2,0.162402496100
-'Melekeok',de,Palau,#DD2408,#DD2408,2,0.155844083319
 'Palau',de,Palau,#DD2408,#DD2408,2,0.155844083319
-'Nan',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,2,0.155518543193
+'Melekeok',de,Palau,#DD2408,#DD2408,2,0.155844083319
 'Bonaire; Heiliger Eustatius und Saba',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,2,0.155518543193
-'Avarua',de,Cook Islands,#B3988E,#B3988E,2,0.146755189826
+'Nan',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,2,0.155518543193
 'Cookinseln',de,Cook Islands,#B3988E,#B3988E,2,0.146755189826
+'Avarua',de,Cook Islands,#B3988E,#B3988E,2,0.146755189826
 'Aland-Inseln',de,Aland Islands,#212738,#212738,2,0.137437759724
 'Mariehamn',de,Aland Islands,#212738,#212738,2,0.137437759724
 'Britische Jungferninseln',de,British Virgin Islands,#59BF10,#59BF10,2,0.133554794980
@@ -55,48 +55,48 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'San Marino',de,San Marino,#E9AB1F,#E9AB1F,2,0.129598934438
 'Sankt Martin',de,Saint Martin,#DAF831,#DAF831,2,0.126835551739
 'Marigot',de,Saint Martin,#DAF831,#DAF831,2,0.126835551739
-'Cockburn Town',de,Turks and Caicos Islands,#3F5B7D,#3F5B7D,2,0.126549847338
 'Turks- und Caicosinseln',de,Turks and Caicos Islands,#3F5B7D,#3F5B7D,2,0.126549847338
+'Cockburn Town',de,Turks and Caicos Islands,#3F5B7D,#3F5B7D,2,0.126549847338
 'Vaduz',de,Liechtenstein,#BE3C31,#BE3C31,2,0.126378264310
 'Liechtenstein',de,Liechtenstein,#BE3C31,#BE3C31,2,0.126378264310
 'Monaco',de,Monaco,#13D63E,#13D63E,2,0.125851817383
-'Sint Maarten',de,Sint Maarten,#EF274B,#EF274B,2,0.124597825552
 'Philipsburg',de,Sint Maarten,#EF274B,#EF274B,2,0.124597825552
-'Tórshavn',de,Faroe Islands,#F0CBB2,#F0CBB2,2,0.120619832155
+'Sint Maarten',de,Sint Maarten,#EF274B,#EF274B,2,0.124597825552
 'Färöer-Inseln',de,Faroe Islands,#F0CBB2,#F0CBB2,2,0.120619832155
+'Tórshavn',de,Faroe Islands,#F0CBB2,#F0CBB2,2,0.120619832155
 'St. Kitts und Nevis',de,Saint Kitts and Nevis,#509FB6,#509FB6,2,0.119069049027
 'Basseterre',de,Saint Kitts and Nevis,#509FB6,#509FB6,2,0.119069049027
 'Amerikanisch-Samoa',de,American Samoa,#CBFEB5,#CBFEB5,2,0.118029387902
 'Pago Pago',de,American Samoa,#CBFEB5,#CBFEB5,2,0.118029387902
-'Grönland',de,Greenland,#4AD3E8,#4AD3E8,2,0.117849174476
 'Nuuk',de,Greenland,#4AD3E8,#4AD3E8,2,0.117849174476
+'Grönland',de,Greenland,#4AD3E8,#4AD3E8,2,0.117849174476
 'Nördliche Marianen',de,Northern Mariana Islands,#E878DA,#E878DA,2,0.117580253859
 'Saipan',de,Northern Mariana Islands,#E878DA,#E878DA,2,0.117580253859
 'Majuro',de,Marshall Islands,#92D831,#92D831,2,0.117119476829
 'Marshallinseln',de,Marshall Islands,#92D831,#92D831,2,0.117119476829
 'Bermuda',de,Bermuda,#2DA37B,#2DA37B,2,0.116864070758
 'Hamilton',de,Bermuda,#2DA37B,#2DA37B,2,0.115632816408
-'George Town',de,Cayman Islands,#F62059,#F62059,2,0.115582634712
 'Kaimaninseln',de,Cayman Islands,#F62059,#F62059,2,0.115582634712
-'Guernsey',de,Guernsey,#52EF49,#52EF49,2,0.115330839517
+'George Town',de,Cayman Islands,#F62059,#F62059,2,0.115582634712
 'St. Peter Port',de,Guernsey,#52EF49,#52EF49,2,0.115330839517
+'Guernsey',de,Guernsey,#52EF49,#52EF49,2,0.115330839517
 'Dominica',de,Dominica,#2B20A5,#2B20A5,2,0.113961605585
 'Roseau',de,Dominica,#2B20A5,#2B20A5,2,0.113961605585
-'Andorra',de,Andorra,#EAAA98,#EAAA98,2,0.112986001091
 'Andorra la Vella',de,Andorra,#EAAA98,#EAAA98,2,0.112986001091
-'Insel Man',de,Isle of Man,#36DB51,#36DB51,2,0.111893859200
+'Andorra',de,Andorra,#EAAA98,#EAAA98,2,0.112986001091
 'Douglas',de,Isle of Man,#36DB51,#36DB51,2,0.111893859200
+'Insel Man',de,Isle of Man,#36DB51,#36DB51,2,0.111893859200
 'Rom',de,Italy,#1A5251,#1A5251,2,0.111163038679
 'Saint Helier',de,Jersey,#634FB9,#634FB9,2,0.111011760560
 'Jersey',de,Jersey,#634FB9,#634FB9,2,0.111011760560
 'Antigua und Barbuda',de,Antigua and Barbuda,#E576D1,#E576D1,2,0.110385725858
 'St. John's',de,Antigua and Barbuda,#E576D1,#E576D1,2,0.110385725858
-'Seychellen',de,Seychelles,#FC090F,#FC090F,2,0.110334635497
 'Victoria',de,Seychelles,#FC090F,#FC090F,2,0.110334635497
+'Seychellen',de,Seychelles,#FC090F,#FC090F,2,0.110334635497
 'Nuku'alofa',de,Tonga,#4BD651,#4BD651,2,0.109690204173
 'Tonga',de,Tonga,#4BD651,#4BD651,2,0.109690204173
-'Oranjestad',de,Aruba,#1D1323,#1D1323,2,0.109447777410
 'Aruba',de,Aruba,#1D1323,#1D1323,2,0.109447777410
+'Oranjestad',de,Aruba,#1D1323,#1D1323,2,0.109447777410
 'Charlotte Amalie',de,U.S. Virgin Islands,#EAA7DE,#EAA7DE,2,0.109347803734
 'Amerikanische Jungferninseln',de,U.S. Virgin Islands,#EAA7DE,#EAA7DE,2,0.109347803734
 'St. Vincent und die Grenadinen',de,Saint Vincent and the Grenadines,#3DECE6,#3DECE6,2,0.109073504460
@@ -109,8 +109,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tarawa',de,Kiribati,#EC261F,#EC261F,2,0.108632075065
 'Kuba',de,Cuba,#A2B192,#A2B192,2,0.106288546422
 'Curaçao',de,Curacao,#534AB0,#534AB0,2,0.106255904009
-'Guam',de,Guam,#2C0E18,#2C0E18,2,0.106032527388
 'Hagatna',de,Guam,#2C0E18,#2C0E18,2,0.106032527388
+'Guam',de,Guam,#2C0E18,#2C0E18,2,0.106032527388
 'St. Lucia',de,Saint Lucia,#EA5E59,#EA5E59,2,0.105497858584
 'Castries',de,Saint Lucia,#EA5E59,#EA5E59,2,0.105497858584
 'Island',de,Iceland,#55E357,#55E357,2,0.105307294391
@@ -130,35 +130,35 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mamoudzou',de,Mayotte,#FA09B7,#FA09B7,2,0.103578188792
 'Neukaledonien',de,New Caledonia,#BCC499,#BCC499,2,0.103520383018
 'Nouméa',de,New Caledonia,#BCC499,#BCC499,2,0.103520383018
-'Barbados',de,Barbados,#DA0251,#DA0251,2,0.103488684452
 'Bridgetown',de,Barbados,#DA0251,#DA0251,2,0.103488684452
+'Barbados',de,Barbados,#DA0251,#DA0251,2,0.103488684452
 'Vanuatu',de,Vanuatu,#7A3050,#7A3050,2,0.103416700834
 'Port Vila',de,Vanuatu,#7A3050,#7A3050,2,0.103416700834
 'Willemstad',de,Netherlands Antilles,#5B0070,#5B0070,2,0.103333333333
 'Niederländische Antillen',de,Netherlands Antilles,#5B0070,#5B0070,2,0.103333333333
 'Reykjavik',de,Iceland,#55E357,#55E357,2,0.102828262259
 'Honiara',de,Solomon Islands,#1DE221,#1DE221,2,0.102772463490
-'Belmopan',de,Belize,#4F3161,#4F3161,2,0.102610482130
 'Belize',de,Belize,#4F3161,#4F3161,2,0.102610482130
+'Belmopan',de,Belize,#4F3161,#4F3161,2,0.102610482130
 'Nassau',de,Bahamas,#453A09,#453A09,2,0.102593092003
 'Italien',de,Italy,#1A5251,#1A5251,2,0.102499142410
 'Brunei',de,Brunei,#42CCC4,#42CCC4,2,0.102331208825
 'Bandar Seri Begawan',de,Brunei,#42CCC4,#42CCC4,2,0.102331208825
-'Martinique',de,Martinique,#A61A42,#A61A42,2,0.102310002310
 'Fort-de-France',de,Martinique,#A61A42,#A61A42,2,0.102310002310
-'Guadeloupe',de,Guadeloupe,#FA2099,#FA2099,2,0.102257336343
+'Martinique',de,Martinique,#A61A42,#A61A42,2,0.102310002310
 'Basse-Terre',de,Guadeloupe,#FA2099,#FA2099,2,0.102257336343
+'Guadeloupe',de,Guadeloupe,#FA2099,#FA2099,2,0.102257336343
 'Valletta',de,Malta,#F9090F,#F9090F,2,0.102068124005
 'Malta',de,Malta,#F9090F,#F9090F,2,0.102068124005
 'Männlich',de,Maldives,#B2DAB1,#B2DAB1,2,0.101939126927
 'Malediven',de,Maldives,#B2DAB1,#B2DAB1,2,0.101939126927
-'Kap Verde',de,Cabo Verde,#5935CD,#5935CD,2,0.101839022964
 'Praia',de,Cabo Verde,#5935CD,#5935CD,2,0.101839022964
+'Kap Verde',de,Cabo Verde,#5935CD,#5935CD,2,0.101839022964
 'Surinam',de,Suriname,#43F495,#43F495,2,0.101736138238
 'Paramaribo',de,Suriname,#43F495,#43F495,2,0.101736138238
 'Luxemburg',de,Luxembourg,#22889F,#22889F,2,0.101645472975
-'Podgorica',de,Montenegro,#A88D15,#A88D15,2,0.101606825796
 'Montenegro',de,Montenegro,#A88D15,#A88D15,2,0.101606825796
+'Podgorica',de,Montenegro,#A88D15,#A88D15,2,0.101606825796
 'Macau',de,Macao,#6CAD4F,#6CAD4F,2,0.101583190318
 'Salomonen',de,Solomon Islands,#1DE221,#1DE221,2,0.101531726654
 'Neuseeland',de,New Zealand,#12F8AE,#12F8AE,2,0.101446255867
@@ -168,8 +168,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thimphu',de,Bhutan,#93EF8D,#93EF8D,2,0.101325567277
 'Saint-Denis',de,Reunion,#A9621E,#A9621E,2,0.101287087424
 'Wiedervereinigung',de,Reunion,#A9621E,#A9621E,2,0.101287087424
-'Georgetown',de,Guyana,#0C7627,#0C7627,2,0.101283690456
 'Guyana',de,Guyana,#0C7627,#0C7627,2,0.101283690456
+'Georgetown',de,Guyana,#0C7627,#0C7627,2,0.101283690456
 'Australien',de,Australia,#857C43,#857C43,2,0.101281683214
 'Ukraine',de,Ukraine,#0BA9A7,#0BA9A7,2,0.101264092156
 'Berlin',de,Germany,#44AD00,#44AD00,2,0.101253747045
