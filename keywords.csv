@@ -1,14 +1,18 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geonames,latitude,longitude,geotype,country,ipcc
 'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.900000000000,,-1,,,,,
 "'Nein, Pyi Taw'",en,Myanmar,#00E52D,#00E52D,2,0.900000000000,,-1,,,,,
-'Truthahn',de,Turkey,#F547D7,#F547D7,2,0.900000000000,,-1,,,,,
-'Wiedervereinigung',de,Reunion,#A9621E,#A9621E,2,0.900000000000,,-1,,,,,
-'Männlich',de,Maldives,#B2DAB1,#B2DAB1,2,0.900000000000,,-1,,,,,
+'Türkei',de,Turkey,#F547D7,#F547D7,2,0.900000000000,,-1,,,,,
+'Reunion',de,Reunion,#A9621E,#A9621E,2,0.900000000000,,-1,,,,,
+'Maldives',de,Maldives,#B2DAB1,#B2DAB1,2,0.900000000000,,-1,,,,,
 'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.900000000000,,-1,,,,,
 'Heard-Insel und McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.900000000000,,-1,,,,,
-'Erfolgreich',de,Bolivia,#17796F,#17796F,2,0.900000000000,,-1,,,,,
+'Heard-Insel',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.89,,-1,,,,,
+'McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.89,,-1,,,,,
 'Straßenstadt',de,British Virgin Islands,#59BF10,#59BF10,2,0.900000000000,,-1,,,,,
 'Bonaire; Heiliger Eustatius und Saba',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,2,0.900000000000,,-1,,,,,
+'Bonaire',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,2,0.900000000000,,-1,,,,,
+'Heiliger Eustatius',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,2,0.900000000000,,-1,,,,,
+'Saba',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,2,0.900000000000,,-1,,,,,
 'Antarktis',de,Antarctica,#073546,#073546,3,0.839387797477,POLAR,6255152,-78.158560000000,16.406260000000,L,,EAN
 'Palästinensisches Gebiet',de,Palestinian Territory,#BC87DE,#BC87DE,2,0.816350135000,,-1,,,,,
 'Vatikan',de,Vatican,#6ed4ee,#6ed4ee,2,0.811513592948,EUROPE-AFRICA,3164670,41.902250000000,12.453300000000,A,Vatikanstadt,MED
@@ -21,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geo
 'Bouvetinsel',de,Bouvet Island,#0d7076,#0d7076,1,0.722500000000,SOUTHERN,3371123,-54.433330000000,3.400000000000,A,Bouvetinsel,SOO
 'Grytviken',de,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.722500000000,SOUTHERN,3426466,-54.281110000000,-36.509200000000,P,Südgeorgien und die Südlichen Sandwichinseln,SOO
 'Adamstown',de,Pitcairn,#b29713,#b29713,1,0.722500000000,PACIFIC,4030723,-25.065970000000,-130.101470000000,P,Pitcairninseln,SPO
-'Port-aux-Francais',de,French Southern Territories,#210e80,#210e80,1,0.722500000000,SOUTHERN,1546102,-49.349160000000,70.219370000000,P,Französische Süd- und Antarktisgebiete,SOO
+'Port-aux-Francais',de,French Southern Territories,#210e80,#210e80,1,0.89,SOUTHERN,1546102,-49.349160000000,70.219370000000,P,Französische Süd- und Antarktisgebiete,SOO
 'Westinsel',de,Cocos Islands,#bae7f7,#bae7f7,1,0.722500000000,ARCTIC,2728573,78.750000000000,16.000000000000,T,Spitzbergen und Jan Mayen,ARO
 'Kokosinseln',de,Cocos Islands,#8616cc,#8616cc,1,0.722500000000,INDIAN,1547376,-12.164200000000,96.873320000000,A,Kokosinseln,SIO
 'Norfolkinsel',de,Norfolk Island,#aa1231,#aa1231,2,0.647045951860,PACIFIC,2155115,-29.033330000000,167.950000000000,A,Norfolkinsel,SPO
@@ -56,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geo
 'Avarua',de,Cook Islands,#ba4c14,#ba4c14,2,0.146755189826,PACIFIC,4035715,-21.207500000000,-159.775460000000,P,Cookinseln,SPO
 'Aland-Inseln',de,Aland Islands,#94d3f3,#94d3f3,2,0.137437759724,EUROPE,661883,60.250000000000,20.000000000000,T,Ålandinseln,NEU
 'Mariehamn',de,Aland Islands,#94d3f3,#94d3f3,2,0.137437759724,EUROPE,3041732,60.097260000000,19.934810000000,P,Ålandinseln,NEU
-'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,2,0.133554794980,CENTRAL-AMERICA,3577718,18.500000000000,-64.500000000000,A,Britische Jungferninseln,CAR
+'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,2,0.890,CENTRAL-AMERICA,3577718,18.500000000000,-64.500000000000,A,Britische Jungferninseln,CAR
 'Gibraltar',de,Gibraltar,#63ede1,#63ede1,2,0.129657749570,EUROPE-AFRICA,2411585,36.144740000000,-5.352570000000,P,Gibraltar,MED
 'San Marino',de,San Marino,#73d5ef,#73d5ef,2,0.129598934438,EUROPE-AFRICA,3168068,43.936700000000,12.446300000000,A,San Marino,MED
 'Sankt Martin',de,Saint Martin,#7dccf0,#7dccf0,2,0.126835551739,EUROPE,3058780,49.066510000000,18.923990000000,P,Slowakei,WCE
@@ -252,7 +256,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geo
 'Panama',de,Panama,#6ae72b,#6ae72b,2,0.100239413552,CENTRAL-AMERICA,3703430,9.000000000000,-80.000000000000,A,Panama,SCA
 'Nouakchott',de,Mauritania,#3ee9bc,#3ee9bc,2,0.100227101421,AFRICA,2377450,18.085810000000,-15.978500000000,P,Mauretanien,SAH
 'Mauretanien',de,Mauritania,#42eacc,#42eacc,2,0.100227101421,AFRICA,2378080,20.250000000000,-10.500000000000,A,Mauretanien,SAH
-'Ostjerusalem',de,Palestinian Territory,#5a96ec,#5a96ec,2,0.100218862105,EUROPE-AFRICA,7303419,31.783360000000,35.233880000000,P,Palästina,MED
+'Ostjerusalem',de,Palestinian Territory,#5a96ec,#5a96ec,2,0.89,EUROPE-AFRICA,7303419,31.783360000000,35.233880000000,P,Palästina,MED
 'Bangui',de,Central African Republic,#22a9e6,#22a9e6,2,0.100214299016,AFRICA,2389853,4.361220000000,18.554960000000,P,Zentralafrikanische Republik,CAF
 'Zentralafrikanische Republik',de,Central African Republic,#27a4e7,#27a4e7,2,0.100214299016,AFRICA,239880,7.000000000000,21.000000000000,A,Zentralafrikanische Republik,CAF
 'Liberia',de,Liberia,#26e6c8,#26e6c8,2,0.100207512922,AFRICA,2275384,6.500000000000,-9.500000000000,A,Liberia,WAF
@@ -337,7 +341,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geo
 'Gitega',de,Burundi,#187bde,#187bde,2,0.100089482432,AFRICA,426272,-3.427080000000,29.924630000000,P,Burundi,SEAF
 'Burundi',de,Burundi,#187bde,#187bde,2,0.100089482432,AFRICA,433561,-3.500000000000,30.000000000000,A,Burundi,SEAF
 'Havanna',de,Cuba,#85ea48,#85ea48,2,0.100088197903,CENTRAL-AMERICA,3553478,23.133020000000,-82.383040000000,P,Kuba,CAR
-'Bolivien',de,Bolivia,#24c215,#24c215,2,0.100088081343,SOUTH-AMERICA,3923057,-17.000000000000,-65.000000000000,A,Bolivien,SAM
+'Bolivien',de,Bolivia,#24c215,#24c215,2,0.89,SOUTH-AMERICA,3923057,-17.000000000000,-65.000000000000,A,Bolivien,SAM
 'Belgien',de,Belgium,#81e8f1,#81e8f1,2,0.100087549820,EUROPE,2802361,50.750000000000,4.500000000000,A,Belgien,WCE
 'Brüssel',de,Belgium,#81e8f1,#81e8f1,2,0.100087549820,EUROPE,2800866,50.850450000000,4.348780000000,P,Belgien,WCE
 'Porto-Novo',de,Benin,#26dee6,#26dee6,2,0.100087069728,AFRICA,2392087,6.496460000000,2.603590000000,P,Benin,WAF
@@ -442,7 +446,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geo
 'Kenia',de,Kenya,#1b65e5,#1b65e5,2,0.100019457899,AFRICA,192950,1.000000000000,38.000000000000,A,Kenia,SEAF
 'Seoul',de,South Korea,#ee66de,#ee66de,2,0.100019366613,ASIA,1835848,37.566000000000,126.978400000000,P,Südkorea,EAS
 'Südkorea',de,South Korea,#ed63db,#ed63db,2,0.100019366613,ASIA,1835841,36.500000000000,127.750000000000,A,Südkorea,EAS
-'Myanmar',de,Myanmar,#a744ea,#a744ea,2,0.100018619063,ASIA,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
+'Myanmar',de,Myanmar,#a744ea,#a744ea,2,0.89,ASIA,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
 'Dodoma',de,Tanzania,#1866d8,#1866d8,2,0.100017756203,AFRICA,160196,-6.172210000000,35.739470000000,P,Tansania,SEAF
 'Tansania',de,Tanzania,#1868d9,#1868d9,2,0.100017756203,AFRICA,149590,-6.000000000000,35.000000000000,A,Tansania,SEAF
 'Pretoria',de,South Africa,#1367b0,#1367b0,2,0.100017307140,AFRICA,964137,-25.744860000000,28.187830000000,P,Südafrika,ESAF
@@ -455,7 +459,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geo
 'Bangkok',de,Thailand,#ae35e8,#ae35e8,2,0.100014403302,ASIA,1609350,13.753980000000,100.501440000000,P,Thailand,SEA
 'Teheran',de,Iran,#6276ed,#6276ed,2,0.100012224899,ASIA,112931,35.694390000000,51.421510000000,P,Iran,WCA
 'Iran',de,Iran,#5a6bec,#5a6bec,2,0.100012224899,ASIA,130758,32.000000000000,53.000000000000,A,Iran,WCA
-'Ankara',de,Turkey,#6aa6ee,#6aa6ee,2,0.100012147757,EUROPE-AFRICA,323786,39.919870000000,32.854270000000,P,Türkei,MED
+'Ankara',de,Turkey,#6aa6ee,#6aa6ee,2,0.89,EUROPE-AFRICA,323786,39.919870000000,32.854270000000,P,Türkei,MED
 'Kinshasa',de,Democratic Republic of the Congo,#18aadc,#18aadc,2,0.100011895120,AFRICA,2314302,-4.327580000000,15.313570000000,P,Kongo,CAF
 'Demokratische Republik Kongo',de,Democratic Republic of the Congo,#1892e0,#1892e0,2,0.100011895120,AFRICA,203312,-2.500000000000,23.500000000000,A,Kongo,CAF
 'Hanoi',de,Vietnam,#c344ea,#c344ea,2,0.100010466777,ASIA,1581130,21.024500000000,105.841170000000,P,Vietnam,EAS
