@@ -1,489 +1,489 @@
-keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Südgeorgien und die Südlichen Sandwichinseln',de,South Georgia and the South Sandwich Islands,#ABC03E,#ABC03E,1,0.850000000000
-'Pitcairn',de,Pitcairn,#0DE149,#0DE149,1,0.850000000000
-'Port-aux-Francais',de,French Southern Territories,#377C29,#377C29,1,0.850000000000
-'Heard-Insel und McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.850000000000
-'Grytviken',de,South Georgia and the South Sandwich Islands,#ABC03E,#ABC03E,1,0.850000000000
-'Adamstown',de,Pitcairn,#0DE149,#0DE149,1,0.850000000000
-'Antarktis',de,Antarctica,#1413FD,#1413FD,3,0.839387797477
-'Vatikan',de,Vatican,#AB6740,#AB6740,2,0.811513592948
-'Tokelau',de,Tokelau,#87FBB0,#87FBB0,2,0.782128240109
-'Flying Fish Cove',de,Christmas Island,#C101AA,#C101AA,2,0.766666666667
-'Weihnachtsinsel',de,Christmas Island,#C101AA,#C101AA,2,0.766666666667
-'Vatikanstadt',de,Vatican,#AB6740,#AB6740,2,0.739062533919
-'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.722558952528
-'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.722500000000
-'Bouvetinsel',de,Bouvet Island,#8FDE3D,#8FDE3D,1,0.722500000000
-'Kokosinseln',de,Cocos Islands,#C0DB46,#C0DB46,1,0.722500000000
-'Westinsel',de,Cocos Islands,#C0DB46,#C0DB46,1,0.722500000000
-'Norfolkinsel',de,Norfolk Island,#C129F3,#C129F3,2,0.647045951860
-'Niue',de,Niue,#69CA68,#69CA68,2,0.561680517082
-'Alofi',de,Niue,#69CA68,#69CA68,2,0.561680517082
-'Longyearbyen',de,Svalbard and Jan Mayen,#A75F37,#A75F37,2,0.492156862745
-'Spitzbergen und Jan Mayen',de,Svalbard and Jan Mayen,#A75F37,#A75F37,2,0.492156862745
-'Stanley',de,Falkland Islands,#28B172,#28B172,2,0.479075056861
-'Falklandinseln',de,Falkland Islands,#28B172,#28B172,2,0.479075056861
-'Diego Garcia',de,British Indian Ocean Territory,#2E2606,#2E2606,2,0.350000000000
-'Britisches Territorium im Indischen Ozean',de,British Indian Ocean Territory,#2E2606,#2E2606,2,0.350000000000
-'Saint-Pierre und Miquelon',de,Saint Pierre and Miquelon,#8CEFAD,#8CEFAD,2,0.242612664005
-'Saint-Pierre',de,Saint Pierre and Miquelon,#8CEFAD,#8CEFAD,2,0.242612664005
-'St. Helena',de,Saint Helena,#791663,#791663,2,0.234048257373
-'Jamestown',de,Saint Helena,#791663,#791663,2,0.234048257373
-'Gustavia',de,Saint Barthelemy,#87CFF7,#87CFF7,2,0.218343195266
-'Sankt Barthélemy',de,Saint Barthelemy,#87CFF7,#87CFF7,2,0.218343195266
-'Montserrat',de,Montserrat,#53A9C4,#53A9C4,2,0.207054919174
-'Plymouth',de,Montserrat,#53A9C4,#53A9C4,2,0.207054919174
-'Funafuti',de,Tuvalu,#142424,#142424,2,0.186896072298
-'Tuvalu',de,Tuvalu,#142424,#142424,2,0.186896072298
-'Nauru',de,Nauru,#D5DDD7,#D5DDD7,2,0.178715365239
-'Yaren',de,Nauru,#D5DDD7,#D5DDD7,2,0.178715365239
-'Das Tal',de,Anguilla,#3F043B,#3F043B,2,0.175448921080
-'Anguilla',de,Anguilla,#3F043B,#3F043B,2,0.175448921080
-'Mata Utu',de,Wallis and Futuna,#1B053D,#1B053D,2,0.162402496100
-'Wallis und Futuna',de,Wallis and Futuna,#1B053D,#1B053D,2,0.162402496100
-'Melekeok',de,Palau,#DD2408,#DD2408,2,0.155844083319
-'Palau',de,Palau,#DD2408,#DD2408,2,0.155844083319
-'Nan',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,2,0.155518543193
-'Bonaire; Heiliger Eustatius und Saba',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,2,0.155518543193
-'Cookinseln',de,Cook Islands,#B3988E,#B3988E,2,0.146755189826
-'Avarua',de,Cook Islands,#B3988E,#B3988E,2,0.146755189826
-'Aland-Inseln',de,Aland Islands,#212738,#212738,2,0.137437759724
-'Mariehamn',de,Aland Islands,#212738,#212738,2,0.137437759724
-'Straßenstadt',de,British Virgin Islands,#59BF10,#59BF10,2,0.133554794980
-'Britische Jungferninseln',de,British Virgin Islands,#59BF10,#59BF10,2,0.133554794980
-'Gibraltar',de,Gibraltar,#9C32E1,#9C32E1,2,0.129657749570
-'San Marino',de,San Marino,#E9AB1F,#E9AB1F,2,0.129598934438
-'Sankt Martin',de,Saint Martin,#DAF831,#DAF831,2,0.126835551739
-'Marigot',de,Saint Martin,#DAF831,#DAF831,2,0.126835551739
-'Cockburn Town',de,Turks and Caicos Islands,#3F5B7D,#3F5B7D,2,0.126549847338
-'Turks- und Caicosinseln',de,Turks and Caicos Islands,#3F5B7D,#3F5B7D,2,0.126549847338
-'Vaduz',de,Liechtenstein,#BE3C31,#BE3C31,2,0.126378264310
-'Liechtenstein',de,Liechtenstein,#BE3C31,#BE3C31,2,0.126378264310
-'Monaco',de,Monaco,#13D63E,#13D63E,2,0.125851817383
-'Philipsburg',de,Sint Maarten,#EF274B,#EF274B,2,0.124597825552
-'Sint Maarten',de,Sint Maarten,#EF274B,#EF274B,2,0.124597825552
-'Tórshavn',de,Faroe Islands,#F0CBB2,#F0CBB2,2,0.120619832155
-'Färöer-Inseln',de,Faroe Islands,#F0CBB2,#F0CBB2,2,0.120619832155
-'St. Kitts und Nevis',de,Saint Kitts and Nevis,#509FB6,#509FB6,2,0.119069049027
-'Basseterre',de,Saint Kitts and Nevis,#509FB6,#509FB6,2,0.119069049027
-'Amerikanisch-Samoa',de,American Samoa,#CBFEB5,#CBFEB5,2,0.118029387902
-'Pago Pago',de,American Samoa,#CBFEB5,#CBFEB5,2,0.118029387902
-'Grönland',de,Greenland,#4AD3E8,#4AD3E8,2,0.117849174476
-'Nuuk',de,Greenland,#4AD3E8,#4AD3E8,2,0.117849174476
-'Nördliche Marianen',de,Northern Mariana Islands,#E878DA,#E878DA,2,0.117580253859
-'Saipan',de,Northern Mariana Islands,#E878DA,#E878DA,2,0.117580253859
-'Majuro',de,Marshall Islands,#92D831,#92D831,2,0.117119476829
-'Marshallinseln',de,Marshall Islands,#92D831,#92D831,2,0.117119476829
-'Bermuda',de,Bermuda,#2DA37B,#2DA37B,2,0.116864070758
-'Hamilton',de,Bermuda,#2DA37B,#2DA37B,2,0.115632816408
-'George Town',de,Cayman Islands,#F62059,#F62059,2,0.115582634712
-'Kaimaninseln',de,Cayman Islands,#F62059,#F62059,2,0.115582634712
-'St. Peter Port',de,Guernsey,#52EF49,#52EF49,2,0.115330839517
-'Guernsey',de,Guernsey,#52EF49,#52EF49,2,0.115330839517
-'Dominica',de,Dominica,#2B20A5,#2B20A5,2,0.113961605585
-'Roseau',de,Dominica,#2B20A5,#2B20A5,2,0.113961605585
-'Andorra',de,Andorra,#EAAA98,#EAAA98,2,0.112986001091
-'Andorra la Vella',de,Andorra,#EAAA98,#EAAA98,2,0.112986001091
-'Insel Man',de,Isle of Man,#36DB51,#36DB51,2,0.111893859200
-'Douglas',de,Isle of Man,#36DB51,#36DB51,2,0.111893859200
-'Rom',de,Italy,#1A5251,#1A5251,2,0.111163038679
-'Saint Helier',de,Jersey,#634FB9,#634FB9,2,0.111011760560
-'Jersey',de,Jersey,#634FB9,#634FB9,2,0.111011760560
-'Antigua und Barbuda',de,Antigua and Barbuda,#E576D1,#E576D1,2,0.110385725858
-'St. John's',de,Antigua and Barbuda,#E576D1,#E576D1,2,0.110385725858
-'Seychellen',de,Seychelles,#FC090F,#FC090F,2,0.110334635497
-'Victoria',de,Seychelles,#FC090F,#FC090F,2,0.110334635497
-'Nuku'alofa',de,Tonga,#4BD651,#4BD651,2,0.109690204173
-'Tonga',de,Tonga,#4BD651,#4BD651,2,0.109690204173
-'Oranjestad',de,Aruba,#1D1323,#1D1323,2,0.109447777410
-'Aruba',de,Aruba,#1D1323,#1D1323,2,0.109447777410
-'Charlotte Amalie',de,U.S. Virgin Islands,#EAA7DE,#EAA7DE,2,0.109347803734
-'Amerikanische Jungferninseln',de,U.S. Virgin Islands,#EAA7DE,#EAA7DE,2,0.109347803734
-'St. Vincent und die Grenadinen',de,Saint Vincent and the Grenadines,#3DECE6,#3DECE6,2,0.109073504460
-'Kingstown',de,Saint Vincent and the Grenadines,#3DECE6,#3DECE6,2,0.109073504460
-'St. George's',de,Grenada,#6B75CC,#6B75CC,2,0.108972311447
-'Grenada',de,Grenada,#6B75CC,#6B75CC,2,0.108972311447
-'Mikronesien',de,Micronesia,#B96237,#B96237,2,0.108877840909
-'Palikir',de,Micronesia,#B96237,#B96237,2,0.108877840909
-'Tarawa',de,Kiribati,#EC261F,#EC261F,2,0.108632075065
-'Kiribati',de,Kiribati,#EC261F,#EC261F,2,0.108632075065
-'Kuba',de,Cuba,#A2B192,#A2B192,2,0.106288546422
-'Curaçao',de,Curacao,#534AB0,#534AB0,2,0.106255904009
-'Guam',de,Guam,#2C0E18,#2C0E18,2,0.106032527388
-'Hagatna',de,Guam,#2C0E18,#2C0E18,2,0.106032527388
-'St. Lucia',de,Saint Lucia,#EA5E59,#EA5E59,2,0.105497858584
-'Castries',de,Saint Lucia,#EA5E59,#EA5E59,2,0.105497858584
-'Island',de,Iceland,#55E357,#55E357,2,0.105307294391
-'Französisch-Guayana',de,French Guiana,#353814,#353814,2,0.105114932534
-'Cayenne',de,French Guiana,#353814,#353814,2,0.105114932534
-'Samoa',de,Samoa,#8FC7EF,#8FC7EF,2,0.105098659053
-'Apia',de,Samoa,#8FC7EF,#8FC7EF,2,0.105098659053
-'Bahamas',de,Bahamas,#453A09,#453A09,2,0.105072425708
-'Sao Tome',de,Sao Tome and Principe,#7D3DB2,#7D3DB2,2,0.105058168943
-'São Tomé und Príncipe',de,Sao Tome and Principe,#7D3DB2,#7D3DB2,2,0.105058168943
-'Jamaika',de,Jamaica,#B78954,#B78954,2,0.104062838609
-'El-Aaiun',de,Western Sahara,#44F0E9,#44F0E9,2,0.103662896325
-'Westsahara',de,Western Sahara,#44F0E9,#44F0E9,2,0.103662896325
-'Papeete',de,French Polynesia,#DAB57D,#DAB57D,2,0.103601280615
-'Französisch-Polynesien',de,French Polynesia,#DAB57D,#DAB57D,2,0.103601280615
-'Mayotte',de,Mayotte,#FA09B7,#FA09B7,2,0.103578188792
-'Mamoudzou',de,Mayotte,#FA09B7,#FA09B7,2,0.103578188792
-'Neukaledonien',de,New Caledonia,#BCC499,#BCC499,2,0.103520383018
-'Nouméa',de,New Caledonia,#BCC499,#BCC499,2,0.103520383018
-'Barbados',de,Barbados,#DA0251,#DA0251,2,0.103488684452
-'Bridgetown',de,Barbados,#DA0251,#DA0251,2,0.103488684452
-'Vanuatu',de,Vanuatu,#7A3050,#7A3050,2,0.103416700834
-'Port Vila',de,Vanuatu,#7A3050,#7A3050,2,0.103416700834
-'Willemstad',de,Netherlands Antilles,#5B0070,#5B0070,2,0.103333333333
-'Niederländische Antillen',de,Netherlands Antilles,#5B0070,#5B0070,2,0.103333333333
-'Reykjavik',de,Iceland,#55E357,#55E357,2,0.102828262259
-'Honiara',de,Solomon Islands,#1DE221,#1DE221,2,0.102772463490
-'Belmopan',de,Belize,#4F3161,#4F3161,2,0.102610482130
-'Belize',de,Belize,#4F3161,#4F3161,2,0.102610482130
-'Nassau',de,Bahamas,#453A09,#453A09,2,0.102593092003
-'Italien',de,Italy,#1A5251,#1A5251,2,0.102499142410
-'Brunei',de,Brunei,#42CCC4,#42CCC4,2,0.102331208825
-'Bandar Seri Begawan',de,Brunei,#42CCC4,#42CCC4,2,0.102331208825
-'Martinique',de,Martinique,#A61A42,#A61A42,2,0.102310002310
-'Fort-de-France',de,Martinique,#A61A42,#A61A42,2,0.102310002310
-'Guadeloupe',de,Guadeloupe,#FA2099,#FA2099,2,0.102257336343
-'Basse-Terre',de,Guadeloupe,#FA2099,#FA2099,2,0.102257336343
-'Valletta',de,Malta,#F9090F,#F9090F,2,0.102068124005
-'Malta',de,Malta,#F9090F,#F9090F,2,0.102068124005
-'Männlich',de,Maldives,#B2DAB1,#B2DAB1,2,0.101939126927
-'Malediven',de,Maldives,#B2DAB1,#B2DAB1,2,0.101939126927
-'Praia',de,Cabo Verde,#5935CD,#5935CD,2,0.101839022964
-'Kap Verde',de,Cabo Verde,#5935CD,#5935CD,2,0.101839022964
-'Paramaribo',de,Suriname,#43F495,#43F495,2,0.101736138238
-'Surinam',de,Suriname,#43F495,#43F495,2,0.101736138238
-'Luxemburg',de,Luxembourg,#22889F,#22889F,2,0.101645472975
-'Podgorica',de,Montenegro,#A88D15,#A88D15,2,0.101606825796
-'Montenegro',de,Montenegro,#A88D15,#A88D15,2,0.101606825796
-'Macau',de,Macao,#6CAD4F,#6CAD4F,2,0.101583190318
-'Salomonen',de,Solomon Islands,#1DE221,#1DE221,2,0.101531726654
-'Neuseeland',de,New Zealand,#12F8AE,#12F8AE,2,0.101446255867
-'Jordanien',de,Jordan,#DE29AB,#DE29AB,2,0.101342075249
-'Haiti',de,Haiti,#D8FBB1,#D8FBB1,2,0.101331542352
-'Bhutan',de,Bhutan,#93EF8D,#93EF8D,2,0.101325567277
-'Thimphu',de,Bhutan,#93EF8D,#93EF8D,2,0.101325567277
-'Saint-Denis',de,Reunion,#A9621E,#A9621E,2,0.101287087424
-'Wiedervereinigung',de,Reunion,#A9621E,#A9621E,2,0.101287087424
-'Guyana',de,Guyana,#0C7627,#0C7627,2,0.101283690456
-'Georgetown',de,Guyana,#0C7627,#0C7627,2,0.101283690456
-'Australien',de,Australia,#857C43,#857C43,2,0.101281683214
-'Ukraine',de,Ukraine,#0BA9A7,#0BA9A7,2,0.101264092156
-'Berlin',de,Germany,#44AD00,#44AD00,2,0.101253747045
-'Deutschland',de,Germany,#44AD00,#44AD00,2,0.101253747045
-'Russland',de,Russia,#4CF745,#4CF745,2,0.101248613040
-'Moroni',de,Comoros,#3F9C71,#3F9C71,2,0.101201458090
-'Komoren',de,Comoros,#3F9C71,#3F9C71,2,0.101201458090
-'Suva',de,Fiji,#C1AE4E,#C1AE4E,2,0.101131883692
-'Fidschi',de,Fiji,#C1AE4E,#C1AE4E,2,0.101131883692
-'Dschibuti',de,Djibouti,#8E7725,#8E7725,2,0.101042839862
-'Eswatini',de,Eswatini,#88B411,#88B411,2,0.100880133710
-'Mbabane',de,Eswatini,#88B411,#88B411,2,0.100880133710
-'Zypern',de,Cyprus,#AAA4D2,#AAA4D2,2,0.100840855486
-'Nikosia',de,Cyprus,#AAA4D2,#AAA4D2,2,0.100840855486
-'Mauritius',de,Mauritius,#4DE635,#4DE635,2,0.100790324531
-'Port Louis',de,Mauritius,#4DE635,#4DE635,2,0.100790324531
-'Timor-Leste',de,Timor Leste,#83A1EF,#83A1EF,2,0.100788660948
-'Dili',de,Timor Leste,#83A1EF,#83A1EF,2,0.100788660948
-'Äquatorialguinea',de,Equatorial Guinea,#45F0B2,#45F0B2,2,0.100763957115
-'Malabo',de,Equatorial Guinea,#45F0B2,#45F0B2,2,0.100763957115
-'Tallinn',de,Estonia,#BC8338,#BC8338,2,0.100757068751
-'Estland',de,Estonia,#BC8338,#BC8338,2,0.100757068751
-'Hafen von Spanien',de,Trinidad and Tobago,#95B5F4,#95B5F4,2,0.100719497963
-'Trinidad und Tobago',de,Trinidad and Tobago,#95B5F4,#95B5F4,2,0.100719497963
-'Manama',de,Bahrain,#782C45,#782C45,2,0.100637170352
-'Bahrain',de,Bahrain,#782C45,#782C45,2,0.100637170352
-'Pristina',de,Kosovo,#D48961,#D48961,2,0.100541917303
-'Kosovo',de,Kosovo,#D48961,#D48961,2,0.100541917303
-'Bissau',de,Guinea-Bissau,#824AD8,#824AD8,2,0.100533529957
-'Guinea-Bissau',de,Guinea-Bissau,#824AD8,#824AD8,2,0.100533529957
-'Lettland',de,Latvia,#263A5C,#263A5C,2,0.100519064728
-'Riga',de,Latvia,#263A5C,#263A5C,2,0.100519064728
-'Slowenien',de,Slovenia,#641DEA,#641DEA,2,0.100483705884
-'Ljubljana',de,Slovenia,#641DEA,#641DEA,2,0.100483705884
-'Skopje',de,North Macedonia,#220407,#220407,2,0.100480086492
-'Nordmazedonien',de,North Macedonia,#220407,#220407,2,0.100480086492
-'Maseru',de,Lesotho,#FB5F0F,#FB5F0F,2,0.100474353598
-'Lesotho',de,Lesotho,#FB5F0F,#FB5F0F,2,0.100474353598
-'Libreville',de,Gabon,#667B4E,#667B4E,2,0.100471859480
-'Gabun',de,Gabon,#667B4E,#667B4E,2,0.100471859480
-'Botswana',de,Botswana,#F9CB83,#F9CB83,2,0.100443630924
-'Gaborone',de,Botswana,#F9CB83,#F9CB83,2,0.100443630924
-'Gambia',de,Gambia,#A82B11,#A82B11,2,0.100438576871
-'Banjul',de,Gambia,#A82B11,#A82B11,2,0.100438576871
-'Namibia',de,Namibia,#EAE393,#EAE393,2,0.100408454185
-'Windhoek',de,Namibia,#EAE393,#EAE393,2,0.100408454185
-'Doha',de,Qatar,#A08B0A,#A08B0A,2,0.100359495369
-'Katar',de,Qatar,#A08B0A,#A08B0A,2,0.100359495369
-'Vilnius',de,Lithuania,#2B01B5,#2B01B5,2,0.100358482943
-'Litauen',de,Lithuania,#2B01B5,#2B01B5,2,0.100358482943
-'Albanien',de,Albania,#C60FFA,#C60FFA,2,0.100348872583
-'Tirana',de,Albania,#C60FFA,#C60FFA,2,0.100348872583
-'Kingston',de,Jamaica,#B78954,#B78954,2,0.100340732336
-'Eriwan',de,Armenia,#8AC860,#8AC860,2,0.100324212164
-'Armenien',de,Armenia,#8AC860,#8AC860,2,0.100324212164
-'Mongolei',de,Mongolia,#A7D11F,#A7D11F,2,0.100315436716
-'Ulaanbaatar',de,Mongolia,#A7D11F,#A7D11F,2,0.100315436716
-'Puerto Rico',de,Puerto Rico,#90862A,#90862A,2,0.100312974058
-'San Juan',de,Puerto Rico,#90862A,#90862A,2,0.100312974058
-'Bosnien und Herzegowina',de,Bosnia and Herzegovina,#4B4606,#4B4606,2,0.100300848785
-'Sarajevo',de,Bosnia and Herzegovina,#4B4606,#4B4606,2,0.100300848785
-'Uruguay',de,Uruguay,#41BC88,#41BC88,2,0.100289913980
-'Montevideo',de,Uruguay,#41BC88,#41BC88,2,0.100289913980
-'Moldawien',de,Moldova,#2AC9F1,#2AC9F1,2,0.100282017201
-'Chișinău',de,Moldova,#2AC9F1,#2AC9F1,2,0.100282017201
-'Georgia',de,Georgia,#BAF433,#BAF433,2,0.100269941962
-'Tiflis',de,Georgia,#BAF433,#BAF433,2,0.100269941962
-'Zagreb',de,Croatia,#0EA18E,#0EA18E,2,0.100258275602
-'Kroatien',de,Croatia,#0EA18E,#0EA18E,2,0.100258275602
-'Kuwait-Stadt',de,Kuwait,#5B54D0,#5B54D0,2,0.100241703001
-'Kuwait',de,Kuwait,#5B54D0,#5B54D0,2,0.100241703001
-'Panama-Stadt',de,Panama,#5D4E6F,#5D4E6F,2,0.100239413552
-'Panama',de,Panama,#5D4E6F,#5D4E6F,2,0.100239413552
-'Mauretanien',de,Mauritania,#7A5076,#7A5076,2,0.100227101421
-'Nouakchott',de,Mauritania,#7A5076,#7A5076,2,0.100227101421
-'Ostjerusalem',de,Palestinian Territory,#BC87DE,#BC87DE,2,0.100218862105
-'Palästinensisches Gebiet',de,Palestinian Territory,#BC87DE,#BC87DE,2,0.100218862105
-'Zentralafrikanische Republik',de,Central African Republic,#8A0CFA,#8A0CFA,2,0.100214299016
-'Bangui',de,Central African Republic,#8A0CFA,#8A0CFA,2,0.100214299016
-'Monrovia',de,Liberia,#AA0B2C,#AA0B2C,2,0.100207512922
-'Liberia',de,Liberia,#AA0B2C,#AA0B2C,2,0.100207512922
-'Oman',de,Oman,#A9C5D0,#A9C5D0,2,0.100207061501
-'Maskat',de,Oman,#A9C5D0,#A9C5D0,2,0.100207061501
-'Irland',de,Ireland,#E1D5AE,#E1D5AE,2,0.100206036626
-'Dublin',de,Ireland,#E1D5AE,#E1D5AE,2,0.100206036626
-'Wellington',de,New Zealand,#12F8AE,#12F8AE,2,0.100204687340
-'San José',de,Costa Rica,#8A4DEA,#8A4DEA,2,0.100200022363
-'Costa Rica',de,Costa Rica,#8A4DEA,#8A4DEA,2,0.100200022363
-'Brazzaville',de,Republic of the Congo,#80C50C,#80C50C,2,0.100190680927
-'Republik Kongo',de,Republic of the Congo,#80C50C,#80C50C,2,0.100190680927
-'Oslo',de,Norway,#E2FF59,#E2FF59,2,0.100188170262
-'Norwegen',de,Norway,#E2FF59,#E2FF59,2,0.100188170262
-'Slowakei',de,Slovakia,#B42391,#B42391,2,0.100183586925
-'Bratislava',de,Slovakia,#B42391,#B42391,2,0.100183586925
-'Finnland',de,Finland,#1EF42E,#1EF42E,2,0.100181223439
-'Helsinki',de,Finland,#1EF42E,#1EF42E,2,0.100181223439
-'Singapur',de,Singapore,#615481,#615481,2,0.100177346597
-'Kopenhagen',de,Denmark,#97B53A,#97B53A,2,0.100172489748
-'Dänemark',de,Denmark,#97B53A,#97B53A,2,0.100172489748
-'Aschgabat',de,Turkmenistan,#6F4B33,#6F4B33,2,0.100170913643
-'Turkmenistan',de,Turkmenistan,#6F4B33,#6F4B33,2,0.100170913643
-'Eritrea',de,Eritrea,#CB858D,#CB858D,2,0.100161049735
-'Asmara',de,Eritrea,#CB858D,#CB858D,2,0.100161049735
-'Kirgisistan',de,Kyrgyzstan,#1390B9,#1390B9,2,0.100158333069
-'Bischkek',de,Kyrgyzstan,#1390B9,#1390B9,2,0.100158333069
-'El Salvador',de,El Salvador,#05D5E9,#05D5E9,2,0.100155745191
-'San Salvador',de,El Salvador,#05D5E9,#05D5E9,2,0.100155745191
-'Nicaragua',de,Nicaragua,#41A60C,#41A60C,2,0.100154666768
-'Managua',de,Nicaragua,#41A60C,#41A60C,2,0.100154666768
-'Libyen',de,Libya,#818B7E,#818B7E,2,0.100149732720
-'Tripolis',de,Libya,#818B7E,#818B7E,2,0.100149732720
-'Libanon',de,Lebanon,#C60C9E,#C60C9E,2,0.100146008315
-'Beirut',de,Lebanon,#C60C9E,#C60C9E,2,0.100146008315
-'Paraguay',de,Paraguay,#BAFBDC,#BAFBDC,2,0.100143759315
-'Asunción',de,Paraguay,#BAFBDC,#BAFBDC,2,0.100143759315
-'Serbien',de,Serbia,#2C7981,#2C7981,2,0.100143223714
-'Sofia',de,Bulgaria,#F93066,#F93066,2,0.100142856347
-'Bulgarien',de,Bulgaria,#F93066,#F93066,2,0.100142856347
-'Laos',de,Laos,#DD0DF9,#DD0DF9,2,0.100141612831
-'Vientiane',de,Laos,#DD0DF9,#DD0DF9,2,0.100141612831
-'Hongkong',de,Hong Kong,#CF2A23,#CF2A23,2,0.100135206831
-'Sierra Leone',de,Sierra Leone,#8CF7BC,#8CF7BC,2,0.100130716323
-'Freetown',de,Sierra Leone,#8CF7BC,#8CF7BC,2,0.100130716323
-'Togo',de,Togo,#83094B,#83094B,2,0.100126757268
-'Lomé',de,Togo,#83094B,#83094B,2,0.100126757268
-'Südsudan',de,South Sudan,#63EEDB,#63EEDB,2,0.100121058194
-'Juba',de,South Sudan,#63EEDB,#63EEDB,2,0.100121058194
-'Schweiz',de,Switzerland,#4D483A,#4D483A,2,0.100117418535
-'Bern',de,Switzerland,#4D483A,#4D483A,2,0.100117418535
-'Papua-Neuguinea',de,Papua New Guinea,#707D5D,#707D5D,2,0.100116193735
-'Port Moresby',de,Papua New Guinea,#707D5D,#707D5D,2,0.100116193735
-'Österreich',de,Austria,#42BE27,#42BE27,2,0.100113032194
-'Wien',de,Austria,#42BE27,#42BE27,2,0.100113032194
-'Jerusalem',de,Israel,#842974,#842974,2,0.100112564443
-'Israel',de,Israel,#842974,#842974,2,0.100112564443
-'Duschanbe',de,Tajikistan,#060057,#060057,2,0.100109880003
-'Tadschikistan',de,Tajikistan,#060057,#060057,2,0.100109880003
-'Weißrussland',de,Belarus,#4F9FE5,#4F9FE5,2,0.100105425335
-'Minsk',de,Belarus,#4F9FE5,#4F9FE5,2,0.100105425335
-'Tegucigalpa',de,Honduras,#CF4354,#CF4354,2,0.100104302238
-'Honduras',de,Honduras,#CF4354,#CF4354,2,0.100104302238
-'Abu Dhabi',de,United Arab Emirates,#FA37F9,#FA37F9,2,0.100103831820
-'Vereinigte Arabische Emirate',de,United Arab Emirates,#FA37F9,#FA37F9,2,0.100103831820
-'Budapest',de,Hungary,#99D2DF,#99D2DF,2,0.100102366876
-'Ungarn',de,Hungary,#99D2DF,#99D2DF,2,0.100102366876
-'Amman',de,Jordan,#DE29AB,#DE29AB,2,0.100100441834
-'Stockholm',de,Sweden,#0D5DF0,#0D5DF0,2,0.100098201200
-'Schweden',de,Sweden,#0D5DF0,#0D5DF0,2,0.100098201200
-'Aserbaidschan',de,Azerbaijan,#73C384,#73C384,2,0.100097800467
-'Baku',de,Azerbaijan,#73C384,#73C384,2,0.100097800467
-'Lissabon',de,Portugal,#C50204,#C50204,2,0.100097259594
-'Portugal',de,Portugal,#C50204,#C50204,2,0.100097259594
-'Tschechien',de,Czechia,#151748,#151748,2,0.100094111491
-'Prag',de,Czechia,#151748,#151748,2,0.100094111491
-'Dominikanische Republik',de,Dominican Republic,#BEFD21,#BEFD21,2,0.100094098473
-'Santo Domingo',de,Dominican Republic,#BEFD21,#BEFD21,2,0.100094098473
-'Athen',de,Greece,#2E3EF7,#2E3EF7,2,0.100093216904
-'Griechenland',de,Greece,#2E3EF7,#2E3EF7,2,0.100093216904
-'Belgrad',de,Serbia and Montenegro,#71F6E2,#71F6E2,2,0.100092343138
-'Serbien und Montenegro',de,Serbia and Montenegro,#71F6E2,#71F6E2,2,0.100092343138
-'Port-au-Prince',de,Haiti,#D8FBB1,#D8FBB1,2,0.100089902380
-'Burundi',de,Burundi,#D96AD2,#D96AD2,2,0.100089482432
-'Gitega',de,Burundi,#D96AD2,#D96AD2,2,0.100089482432
-'Havanna',de,Cuba,#A2B192,#A2B192,2,0.100088197903
-'Erfolgreich',de,Bolivia,#17796F,#17796F,2,0.100088081343
-'Bolivien',de,Bolivia,#17796F,#17796F,2,0.100088081343
-'Belgien',de,Belgium,#6B92F5,#6B92F5,2,0.100087549820
-'Brüssel',de,Belgium,#6B92F5,#6B92F5,2,0.100087549820
-'Benin',de,Benin,#1856D0,#1856D0,2,0.100087069728
-'Porto-Novo',de,Benin,#1856D0,#1856D0,2,0.100087069728
-'Tunis',de,Tunisia,#A8D9CE,#A8D9CE,2,0.100086466266
-'Tunesien',de,Tunisia,#A8D9CE,#A8D9CE,2,0.100086466266
-'Kigali',de,Rwanda,#A56B0C,#A56B0C,2,0.100081287999
-'Ruanda',de,Rwanda,#A56B0C,#A56B0C,2,0.100081287999
-'Guinea',de,Guinea,#179EC9,#179EC9,2,0.100080552150
-'Conakry',de,Guinea,#179EC9,#179EC9,2,0.100080552150
-'Mogadischu',de,Somalia,#CDEA16,#CDEA16,2,0.100066630446
-'Somalia',de,Somalia,#CDEA16,#CDEA16,2,0.100066630446
-'Tschad',de,Chad,#75888A,#75888A,2,0.100064608870
-'N'Djamena',de,Chad,#75888A,#75888A,2,0.100064608870
-'Dakar',de,Senegal,#7E904D,#7E904D,2,0.100063074132
-'Senegal',de,Senegal,#7E904D,#7E904D,2,0.100063074132
-'Phnom Penh',de,Cambodia,#60C0BD,#60C0BD,2,0.100061539227
-'Kambodscha',de,Cambodia,#60C0BD,#60C0BD,2,0.100061539227
-'Simbabwe',de,Zimbabwe,#A377E4,#A377E4,2,0.100059282414
-'Harare',de,Zimbabwe,#A377E4,#A377E4,2,0.100059282414
-'Damaskus',de,Syria,#3AE75E,#3AE75E,2,0.100059149607
-'Syrien',de,Syria,#3AE75E,#3AE75E,2,0.100059149607
-'Ecuador',de,Ecuador,#200837,#200837,2,0.100058533078
-'Quito',de,Ecuador,#200837,#200837,2,0.100058533078
-'Die Niederlande',de,The Netherlands,#6F7CEA,#6F7CEA,2,0.100058034880
-'Amsterdam',de,The Netherlands,#6F7CEA,#6F7CEA,2,0.100058034880
-'Guatemala',de,Guatemala,#F2E752,#F2E752,2,0.100057978385
-'Guatemala-Stadt',de,Guatemala,#F2E752,#F2E752,2,0.100057978385
-'Lusaka',de,Zambia,#B15F5A,#B15F5A,2,0.100057630836
-'Sambia',de,Zambia,#B15F5A,#B15F5A,2,0.100057630836
-'Lilongwe',de,Malawi,#B9C253,#B9C253,2,0.100056935453
-'Malawi',de,Malawi,#B9C253,#B9C253,2,0.100056935453
-'Nur-Sultan',de,Kazakhstan,#3F5C29,#3F5C29,2,0.100054715074
-'Kasachstan',de,Kazakhstan,#3F5C29,#3F5C29,2,0.100054715074
-'Santiago',de,Chile,#4A799C,#4A799C,2,0.100053392678
-'Chile',de,Chile,#4A799C,#4A799C,2,0.100053392678
-'Mali',de,Mali,#EB8B3D,#EB8B3D,2,0.100052417248
-'Bamako',de,Mali,#EB8B3D,#EB8B3D,2,0.100052417248
-'Bukarest',de,Romania,#5F1E0F,#5F1E0F,2,0.100051350687
-'Rumänien',de,Romania,#5F1E0F,#5F1E0F,2,0.100051350687
-'Burkina Faso',de,Burkina Faso,#70EBA9,#70EBA9,2,0.100050628976
-'Ouagadougou',de,Burkina Faso,#70EBA9,#70EBA9,2,0.100050628976
-'Colombo',de,Sri Lanka,#0C66E3,#0C66E3,2,0.100046146747
-'Sri Lanka',de,Sri Lanka,#0C66E3,#0C66E3,2,0.100046146747
-'Niger',de,Niger,#80F493,#80F493,2,0.100044557426
-'Niamey',de,Niger,#80F493,#80F493,2,0.100044557426
-'Taipeh',de,Taiwan,#37742F,#37742F,2,0.100042640583
-'Taiwan',de,Taiwan,#37742F,#37742F,2,0.100042640583
-'Canberra',de,Australia,#857C43,#857C43,2,0.100040012213
-'Elfenbeinküste',de,Ivory Coast,#D6BAB5,#D6BAB5,2,0.100039889539
-'Yamoussoukro',de,Ivory Coast,#D6BAB5,#D6BAB5,2,0.100039889539
-'Yaoundé',de,Cameroon,#7BB694,#7BB694,2,0.100039656988
-'Kamerun',de,Cameroon,#7BB694,#7BB694,2,0.100039656988
-'Nordkorea',de,North Korea,#27348B,#27348B,2,0.100039139221
-'Pjöngjang',de,North Korea,#27348B,#27348B,2,0.100039139221
-'Antananarivo',de,Madagascar,#E2B6C2,#E2B6C2,2,0.100038077298
-'Madagaskar',de,Madagascar,#E2B6C2,#E2B6C2,2,0.100038077298
-'Nepal',de,Nepal,#7D4D3D,#7D4D3D,2,0.100035602556
-'Kathmandu',de,Nepal,#7D4D3D,#7D4D3D,2,0.100035602556
-'Sanaa',de,Yemen,#A41E48,#A41E48,2,0.100035089336
-'Jemen',de,Yemen,#A41E48,#A41E48,2,0.100035089336
-'Caracas',de,Venezuela,#E81D03,#E81D03,2,0.100034637799
-'Venezuela',de,Venezuela,#E81D03,#E81D03,2,0.100034637799
-'Maputo',de,Mozambique,#7299D6,#7299D6,2,0.100033902946
-'Mosambik',de,Mozambique,#7299D6,#7299D6,2,0.100033902946
-'Accra',de,Ghana,#B84ADB,#B84ADB,2,0.100033594127
-'Ghana',de,Ghana,#B84ADB,#B84ADB,2,0.100033594127
-'Luanda',de,Angola,#1F65AD,#1F65AD,2,0.100032457245
-'Angola',de,Angola,#1F65AD,#1F65AD,2,0.100032457245
-'Kuala Lumpur',de,Malaysia,#241745,#241745,2,0.100031717250
-'Malaysia',de,Malaysia,#241745,#241745,2,0.100031717250
-'Peru',de,Peru,#BA0E8A,#BA0E8A,2,0.100031260496
-'Lima',de,Peru,#BA0E8A,#BA0E8A,2,0.100031260496
-'Taschkent',de,Uzbekistan,#03D5DB,#03D5DB,2,0.100030344041
-'Usbekistan',de,Uzbekistan,#03D5DB,#03D5DB,2,0.100030344041
-'Saudi-Arabien',de,Saudi Arabia,#976236,#976236,2,0.100029673637
-'Riad',de,Saudi Arabia,#976236,#976236,2,0.100029673637
-'Rabat',de,Morocco,#588476,#588476,2,0.100027755313
-'Marokko',de,Morocco,#588476,#588476,2,0.100027755313
-'Ottawa',de,Canada,#8D05CE,#8D05CE,2,0.100026984103
-'Kanada',de,Canada,#8D05CE,#8D05CE,2,0.100026984103
-'Kabul',de,Afghanistan,#BBE839,#BBE839,2,0.100026901690
-'Afghanistan',de,Afghanistan,#BBE839,#BBE839,2,0.100026901690
-'Polen',de,Poland,#276EFF,#276EFF,2,0.100026330654
-'Warschau',de,Poland,#276EFF,#276EFF,2,0.100026330654
-'Irak',de,Iraq,#2247E6,#2247E6,2,0.100026018900
-'Bagdad',de,Iraq,#2247E6,#2247E6,2,0.100026018900
-'Sudan',de,Sudan,#35C618,#35C618,2,0.100023922568
-'Khartum',de,Sudan,#35C618,#35C618,2,0.100023922568
-'Algerien',de,Algeria,#2D8CDA,#2D8CDA,2,0.100023680729
-'Algier',de,Algeria,#2D8CDA,#2D8CDA,2,0.100023680729
-'Kampala',de,Uganda,#55C78E,#55C78E,2,0.100023406520
-'Uganda',de,Uganda,#55C78E,#55C78E,2,0.100023406520
-'Buenos Aires',de,Argentina,#F9ADE8,#F9ADE8,2,0.100022474687
-'Argentinien',de,Argentina,#F9ADE8,#F9ADE8,2,0.100022474687
-'Kiew',de,Ukraine,#0BA9A7,#0BA9A7,2,0.100022410211
-'Spanien',de,Spain,#8253E3,#8253E3,2,0.100021402392
-'Madrid',de,Spain,#8253E3,#8253E3,2,0.100021402392
-'Kolumbien',de,Colombia,#0D3E50,#0D3E50,2,0.100020141520
-'Bogotá',de,Colombia,#0D3E50,#0D3E50,2,0.100020141520
-'Nairobi',de,Kenya,#2B0462,#2B0462,2,0.100019457899
-'Kenia',de,Kenya,#2B0462,#2B0462,2,0.100019457899
-'Seoul',de,South Korea,#F22618,#F22618,2,0.100019366613
-'Südkorea',de,South Korea,#F22618,#F22618,2,0.100019366613
-'Myanmar',de,Myanmar,#00E52D,#00E52D,2,0.100018619063
-"'Nein, Pyi Taw'",en,Myanmar,#00E52D,#00E52D,2,0.100018619063
-'Tansania',de,Tanzania,#C3D8A5,#C3D8A5,2,0.100017756203
-'Dodoma',de,Tanzania,#C3D8A5,#C3D8A5,2,0.100017756203
-'Südafrika',de,South Africa,#E2D987,#E2D987,2,0.100017307140
-'Pretoria',de,South Africa,#E2D987,#E2D987,2,0.100017307140
-'Vereinigtes Königreich',de,United Kingdom,#5A65F3,#5A65F3,2,0.100015040084
-'London',de,United Kingdom,#5A65F3,#5A65F3,2,0.100015040084
-'Frankreich',de,France,#D4DCBD,#D4DCBD,2,0.100014928215
-'Paris',de,France,#D4DCBD,#D4DCBD,2,0.100014928215
-'Thailand',de,Thailand,#EEFF06,#EEFF06,2,0.100014403302
-'Bangkok',de,Thailand,#EEFF06,#EEFF06,2,0.100014403302
-'Teheran',de,Iran,#81ABB2,#81ABB2,2,0.100012224899
-'Iran',de,Iran,#81ABB2,#81ABB2,2,0.100012224899
-'Truthahn',de,Turkey,#F547D7,#F547D7,2,0.100012147757
-'Ankara',de,Turkey,#F547D7,#F547D7,2,0.100012147757
-'Kinshasa',de,Democratic Republic of the Congo,#C2BF79,#C2BF79,2,0.100011895120
-'Demokratische Republik Kongo',de,Democratic Republic of the Congo,#C2BF79,#C2BF79,2,0.100011895120
-'Hanoi',de,Vietnam,#F49924,#F49924,2,0.100010466777
-'Vietnam',de,Vietnam,#F49924,#F49924,2,0.100010466777
-'Kairo',de,Egypt,#5F6018,#5F6018,2,0.100010160165
-'Ägypten',de,Egypt,#5F6018,#5F6018,2,0.100010160165
-'Manila',de,Philippines,#E57800,#E57800,2,0.100009376296
-'Philippinen',de,Philippines,#E57800,#E57800,2,0.100009376296
-'Äthiopien',de,Ethiopia,#A5A990,#A5A990,2,0.100009155450
-'Addis Abeba',de,Ethiopia,#A5A990,#A5A990,2,0.100009155450
-'Mexiko',de,Mexico,#6BC224,#6BC224,2,0.100007924509
-'Mexiko-Stadt',de,Mexico,#6BC224,#6BC224,2,0.100007924509
-'Japan',de,Japan,#87C835,#87C835,2,0.100007903320
-'Tokio',de,Japan,#87C835,#87C835,2,0.100007903320
-'Moskau',de,Russia,#4CF745,#4CF745,2,0.100006921467
-'Bangladesch',de,Bangladesh,#B9ABC1,#B9ABC1,2,0.100006197475
-'Dhaka',de,Bangladesh,#B9ABC1,#B9ABC1,2,0.100006197475
-'Abuja',de,Nigeria,#54D20E,#54D20E,2,0.100005105304
-'Nigeria',de,Nigeria,#54D20E,#54D20E,2,0.100005105304
-'Brasilien',de,Brazil,#19925E,#19925E,2,0.100004773969
-'Brasilia',de,Brazil,#19925E,#19925E,2,0.100004773969
-'Islamabad',de,Pakistan,#D2F55A,#D2F55A,2,0.100004712202
-'Pakistan',de,Pakistan,#D2F55A,#D2F55A,2,0.100004712202
-'Jakarta',de,Indonesia,#EF6484,#EF6484,2,0.100003736035
-'Indonesien',de,Indonesia,#EF6484,#EF6484,2,0.100003736035
-'Washington',de,United States,#8E1D06,#8E1D06,2,0.100003056539
-'Vereinigte Staaten',de,United States,#8E1D06,#8E1D06,2,0.100003056539
-'Indien',de,India,#3B0C78,#3B0C78,2,0.100000739307
-'Neu-Delhi',de,India,#3B0C78,#3B0C78,2,0.100000739307
-'China',de,China,#FC5C4C,#FC5C4C,2,0.100000708326
-'Peking',de,China,#FC5C4C,#FC5C4C,2,0.100000708326
+keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geonames,latitude,longitude,geotype,country,ipcc
+'Südgeorgien und die Südlichen Sandwichinseln',de,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.85,SOUTHERN,3474415,-56.0,-33.0,A,Südgeorgien und die Südlichen Sandwichinseln,SOO
+'Pitcairn',de,Pitcairn,#b29713,#b29713,1,0.85,PACIFIC,4030699,-25.06667,-130.1,A,Pitcairninseln,SPO
+'Port-aux-Francais',de,French Southern Territories,#210e80,#210e80,1,0.85,SOUTHERN,1546102,-49.34916,70.21937,P,Französische Süd- und Antarktisgebiete,SOO
+'Heard-Insel und McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.85,,-1,,,,,
+'Grytviken',de,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.85,SOUTHERN,3426466,-54.28111,-36.5092,P,Südgeorgien und die Südlichen Sandwichinseln,SOO
+'Adamstown',de,Pitcairn,#b29713,#b29713,1,0.85,PACIFIC,4030723,-25.06597,-130.10147,P,Pitcairninseln,SPO
+'Antarktis',de,Antarctica,#073546,#073546,3,0.839387797477,POLAR,6255152,-78.15856,16.40626,L,,EAN
+'Vatikan',de,Vatican,#6ed4ee,#6ed4ee,2,0.811513592948,EUROPE-AFRICA,3164670,41.90225,12.4533,A,Vatikanstadt,MED
+'Tokelau',de,Tokelau,#d23017,#d23017,2,0.782128240109,PACIFIC,4031074,-9.167,-171.83,A,Tokelau,EPO
+'Flying Fish Cove',de,Christmas Island,#a417d0,#a417d0,2,0.766666666667,INDIAN,2078127,-10.42172,105.67912,P,Weihnachtsinsel,SIO
+'Weihnachtsinsel',de,Christmas Island,#a317d0,#a317d0,2,0.766666666667,INDIAN,2078138,-10.5,105.66667,A,Weihnachtsinsel,SIO
+'Vatikanstadt',de,Vatican,#6ed4ee,#6ed4ee,2,0.739062533919,EUROPE-AFRICA,3164670,41.90225,12.4533,A,Vatikanstadt,MED
+'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.722558952528,,-1,,,,,
+'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.7225,,-1,,,,,
+'Bouvetinsel',de,Bouvet Island,#0d7076,#0d7076,1,0.7225,SOUTHERN,3371123,-54.43333,3.4,A,Bouvetinsel,SOO
+'Kokosinseln',de,Cocos Islands,#8616cc,#8616cc,1,0.7225,INDIAN,1547376,-12.1642,96.87332,A,Kokosinseln,SIO
+'Westinsel',de,Cocos Islands,#bae7f7,#bae7f7,1,0.7225,ARCTIC,2728573,78.75,16.0,T,Spitzbergen und Jan Mayen,ARO
+'Norfolkinsel',de,Norfolk Island,#aa1231,#aa1231,2,0.64704595186,PACIFIC,2155115,-29.03333,167.95,A,Norfolkinsel,SPO
+'Niue',de,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4036232,-19.03333,-169.86667,A,Niue,SPO
+'Alofi',de,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4036284,-19.05294,-169.91957,P,Niue,SPO
+'Longyearbyen',de,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,2,0.492156862745,ARCTIC,2729907,78.22334,15.64689,P,Spitzbergen und Jan Mayen,ARO
+'Spitzbergen und Jan Mayen',de,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,2,0.492156862745,ARCTIC,2729907,78.22334,15.64689,P,Spitzbergen und Jan Mayen,ARO
+'Stanley',de,Falkland Islands,#0d7c11,#0d7c11,2,0.479075056861,SOUTH-AMERICA,3426691,-51.69382,-57.85701,P,Falklandinseln,SSA
+'Falklandinseln',de,Falkland Islands,#0d7b0f,#0d7b0f,2,0.479075056861,SOUTH-AMERICA,3474414,-51.75,-59.16667,A,Falklandinseln,SSA
+'Diego Garcia',de,British Indian Ocean Territory,#3f17d6,#3f17d6,2,0.35,INDIAN,1282575,-7.31264,72.45161,T,Britisches Territorium im Indischen Ozean,EIO
+'Britisches Territorium im Indischen Ozean',de,British Indian Ocean Territory,#3e18d9,#3e18d9,2,0.35,INDIAN,1282588,-6.0,72.0,A,Britisches Territorium im Indischen Ozean,EIO
+'Saint-Pierre und Miquelon',de,Saint Pierre and Miquelon,#79f080,#79f080,2,0.242612664005,NORTH-AMERICA,3424932,46.83333,-56.33333,A,St. Pierre und Miquelon,ENA
+'Saint-Pierre',de,Saint Pierre and Miquelon,#93c2f3,#93c2f3,2,0.242612664005,EUROPE,498817,59.93863,30.31413,P,Russland,NEU
+'St. Helena',de,Saint Helena,#15c4b4,#15c4b4,2,0.234048257373,ATLANTIC,3370751,-15.95,-5.7,A,St. Helena,SAO
+'Jamestown',de,Saint Helena,#15c5b4,#15c5b4,2,0.234048257373,ATLANTIC,3370903,-15.92488,-5.71816,P,St. Helena,SAO
+'Gustavia',de,Saint Barthelemy,#46e93e,#46e93e,2,0.218343195266,CENTRAL-AMERICA,3579132,17.89618,-62.84978,P,St. Barthélemy,CAR
+'Sankt Barthélemy',de,Saint Barthelemy,#46e93e,#46e93e,2,0.218343195266,CENTRAL-AMERICA,3578476,17.9,-62.8257,A,St. Barthélemy,CAR
+'Montserrat',de,Montserrat,#42e93b,#42e93b,2,0.207054919174,CENTRAL-AMERICA,3578097,16.75,-62.2,A,Montserrat,CAR
+'Plymouth',de,Montserrat,#95101d,#95101d,2,0.207054919174,OCEANIA,2186239,-39.06667,174.08333,P,Neuseeland,NZ
+'Funafuti',de,Tuvalu,#d4171a,#d4171a,2,0.186896072298,PACIFIC,2110394,-8.52425,179.19417,P,Tuvalu,EPO
+'Tuvalu',de,Tuvalu,#d4171a,#d4171a,2,0.186896072298,PACIFIC,2110297,-8.51719,179.14478,A,Tuvalu,EPO
+'Nauru',de,Nauru,#e41945,#e41945,2,0.178715365239,PACIFIC,2110425,-0.517,166.933,A,Nauru,EPO
+'Yaren',de,Nauru,#e41945,#e41945,2,0.178715365239,PACIFIC,7626461,-0.55085,166.9252,P,Nauru,EPO
+'Das Tal',de,Anguilla,#18d968,#18d968,2,0.17544892108,SOUTH-AMERICA,12109014,-5.8231,-35.18964,L,Brasilien,NES
+'Anguilla',de,Anguilla,#47e93e,#47e93e,2,0.17544892108,CENTRAL-AMERICA,3573511,18.21667,-63.05,A,Anguilla,CAR
+'Mata Utu',de,Wallis and Futuna,#ca2116,#ca2116,2,0.1624024961,PACIFIC,4034821,-13.28163,-176.17453,P,Wallis und Futuna,SPO
+'Wallis und Futuna',de,Wallis and Futuna,#ca2116,#ca2116,2,0.1624024961,PACIFIC,4034749,-13.3,-176.2,A,Wallis und Futuna,SPO
+'Melekeok',de,Palau,#e728b8,#e728b8,2,0.155844083319,PACIFIC,4037930,7.494,134.6345,A,Palau,EPO
+'Palau',de,Palau,#e728b8,#e728b8,2,0.155844083319,PACIFIC,1559582,7.503,134.621,A,Palau,EPO
+'Nan',de,Bonaire; Saint Eustatius and Saba ,#ea48ea,#ea48ea,2,0.155518543193,ASIA,1668355,22.99083,120.21333,P,Taiwan,EAS
+'Bonaire; Heiliger Eustatius und Saba',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,2,0.155518543193,,-1,,,,,
+'Cookinseln',de,Cook Islands,#ba4c14,#ba4c14,2,0.146755189826,PACIFIC,1899402,-21.24842,-159.78516,A,Cookinseln,SPO
+'Avarua',de,Cook Islands,#ba4c14,#ba4c14,2,0.146755189826,PACIFIC,4035715,-21.2075,-159.77546,P,Cookinseln,SPO
+'Aland-Inseln',de,Aland Islands,#94d3f3,#94d3f3,2,0.137437759724,EUROPE,661883,60.25,20.0,T,Ålandinseln,NEU
+'Mariehamn',de,Aland Islands,#94d3f3,#94d3f3,2,0.137437759724,EUROPE,3041732,60.09726,19.93481,P,Ålandinseln,NEU
+'Straßenstadt',de,British Virgin Islands,#59BF10,#59BF10,2,0.13355479498,,-1,,,,,
+'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,2,0.13355479498,CENTRAL-AMERICA,3577718,18.5,-64.5,A,Britische Jungferninseln,CAR
+'Gibraltar',de,Gibraltar,#63ede1,#63ede1,2,0.12965774957,EUROPE-AFRICA,2411585,36.14474,-5.35257,P,Gibraltar,MED
+'San Marino',de,San Marino,#73d5ef,#73d5ef,2,0.129598934438,EUROPE-AFRICA,3168068,43.9367,12.4463,A,San Marino,MED
+'Sankt Martin',de,Saint Martin,#7dccf0,#7dccf0,2,0.126835551739,EUROPE,3058780,49.06651,18.92399,P,Slowakei,WCE
+'Marigot',de,Saint Martin,#47e93e,#47e93e,2,0.126835551739,CENTRAL-AMERICA,3578851,18.06819,-63.08302,P,St. Martin,CAR
+'Cockburn Town',de,Turks and Caicos Islands,#63ea45,#63ea45,2,0.126549847338,CENTRAL-AMERICA,3576994,21.46122,-71.14188,P,Turks- und Caicosinseln,CAR
+'Turks- und Caicosinseln',de,Turks and Caicos Islands,#65ea45,#65ea45,2,0.126549847338,CENTRAL-AMERICA,3576916,21.73333,-71.58333,A,Turks- und Caicosinseln,CAR
+'Vaduz',de,Liechtenstein,#79ddf0,#79ddf0,2,0.12637826431,EUROPE,3042030,47.14151,9.52154,P,Liechtenstein,WCE
+'Liechtenstein',de,Liechtenstein,#79ddf0,#79ddf0,2,0.12637826431,EUROPE,3042058,47.16667,9.53333,A,Liechtenstein,WCE
+'Monaco',de,Monaco,#72dfef,#72dfef,2,0.125851817383,EUROPE-AFRICA,2993457,43.73141,7.41903,A,Monaco,MED
+'Philipsburg',de,Sint Maarten,#46e93e,#46e93e,2,0.124597825552,CENTRAL-AMERICA,3513392,18.026,-63.04582,P,Sint Maarten,CAR
+'Sint Maarten',de,Sint Maarten,#47e93e,#47e93e,2,0.124597825552,CENTRAL-AMERICA,7609695,18.04167,-63.06667,A,Sint Maarten,CAR
+'Tórshavn',de,Faroe Islands,#97f3e9,#97f3e9,2,0.120619832155,EUROPE,2611396,62.00973,-6.77164,P,Färöer,NEU
+'Färöer-Inseln',de,Faroe Islands,#97f3e8,#97f3e8,2,0.120619832155,EUROPE,2622320,62.0,-7.0,A,Färöer,NEU
+'St. Kitts und Nevis',de,Saint Kitts and Nevis,#44e93c,#44e93c,2,0.119069049027,CENTRAL-AMERICA,3575174,17.33333,-62.75,A,St. Kitts und Nevis,CAR
+'Basseterre',de,Saint Kitts and Nevis,#44e93c,#44e93c,2,0.119069049027,CENTRAL-AMERICA,3575551,17.2955,-62.72499,P,St. Kitts und Nevis,CAR
+'Amerikanisch-Samoa',de,American Samoa,#c83516,#c83516,2,0.118029387902,PACIFIC,5880801,-14.23377,-169.47767,A,Amerikanisch-Samoa,SPO
+'Pago Pago',de,American Samoa,#c83116,#c83116,2,0.118029387902,PACIFIC,5881576,-14.27806,-170.7025,P,Amerikanisch-Samoa,SPO
+'Grönland',de,Greenland,#acf5c4,#acf5c4,2,0.117849174476,POLAR,3425505,72.0,-40.0,A,Grönland,GIC
+'Nuuk',de,Greenland,#9cf4a8,#9cf4a8,2,0.117849174476,POLAR,3421319,64.18347,-51.72157,P,Grönland,GIC
+'Nördliche Marianen',de,Northern Mariana Islands,#e8389d,#e8389d,2,0.117580253859,PACIFIC,4041468,15.214,145.756,A,Nördliche Marianen,NPO
+'Saipan',de,Northern Mariana Islands,#e8389d,#e8389d,2,0.117580253859,PACIFIC,7828758,15.21233,145.7545,P,Nördliche Marianen,NPO
+'Majuro',de,Marshall Islands,#e72743,#e72743,2,0.117119476829,PACIFIC,2113779,7.08971,171.38027,P,Marshallinseln,EPO
+'Marshallinseln',de,Marshall Islands,#e72843,#e72843,2,0.117119476829,PACIFIC,2080185,7.113,171.236,A,Marshallinseln,EPO
+'Bermuda',de,Bermuda,#66ec5b,#66ec5b,2,0.116864070758,ATLANTIC,3573345,32.33022,-64.74003,A,Bermuda,NAO
+'Hamilton',de,Bermuda,#66ec5b,#66ec5b,2,0.115632816408,ATLANTIC,3573197,32.2949,-64.78303,P,Bermuda,NAO
+'George Town',de,Cayman Islands,#7de940,#7de940,2,0.115582634712,CENTRAL-AMERICA,3580661,19.2866,-81.37436,P,Kaimaninseln,CAR
+'Kaimaninseln',de,Cayman Islands,#7be941,#7be941,2,0.115582634712,CENTRAL-AMERICA,3580718,19.5,-80.66667,A,Kaimaninseln,CAR
+'St. Peter Port',de,Guernsey,#7ef0eb,#7ef0eb,2,0.115330839517,EUROPE,3042287,49.45981,-2.53527,P,Guernsey,WCE
+'Guernsey',de,Guernsey,#7ef0eb,#7ef0eb,2,0.115330839517,EUROPE,3042362,49.45474,-2.57629,A,Guernsey,WCE
+'Dominica',de,Dominica,#3de939,#3de939,2,0.113961605585,CENTRAL-AMERICA,3575830,15.5,-61.33333,A,Dominica,CAR
+'Roseau',de,Dominica,#3ce838,#3ce838,2,0.113961605585,CENTRAL-AMERICA,3575635,15.30174,-61.38808,P,Dominica,CAR
+'Andorra',de,Andorra,#70ebef,#70ebef,2,0.112986001091,EUROPE-AFRICA,3041565,42.55,1.58333,A,Andorra,MED
+'Andorra la Vella',de,Andorra,#70ebef,#70ebef,2,0.112986001091,EUROPE-AFRICA,3041563,42.50779,1.52109,P,Andorra,MED
+'Insel Man',de,Isle of Man,#88f1e9,#88f1e9,2,0.1118938592,EUROPE,3042225,54.25,-4.5,A,Isle of Man,NEU
+'Douglas',de,Isle of Man,#87f1e9,#87f1e9,2,0.1118938592,EUROPE,3042237,54.15,-4.48333,P,Isle of Man,NEU
+'Rom',de,Italy,#6ed4ee,#6ed4ee,2,0.111163038679,EUROPE-AFRICA,3169070,41.89193,12.51133,P,Italien,MED
+'Saint Helier',de,Jersey,#7df0ec,#7df0ec,2,0.11101176056,EUROPE,3042091,49.18804,-2.10491,P,Jersey,WCE
+'Jersey',de,Jersey,#7df0ec,#7df0ec,2,0.11101176056,EUROPE,3042142,49.21667,-2.11667,A,Jersey,WCE
+'Antigua und Barbuda',de,Antigua and Barbuda,#41e93c,#41e93c,2,0.110385725858,CENTRAL-AMERICA,3576396,17.05,-61.8,A,Antigua und Barbuda,CAR
+'St. John's',de,Antigua and Barbuda,#41e93c,#41e93c,2,0.110385725858,CENTRAL-AMERICA,3576022,17.12096,-61.84329,P,Antigua und Barbuda,CAR
+'Seychellen',de,Seychelles,#1826dc,#1826dc,2,0.110334635497,INDIAN,241170,-4.58333,55.66667,A,Seychellen,EIO
+'Victoria',de,Seychelles,#1827dc,#1827dc,2,0.110334635497,INDIAN,241131,-4.62001,55.45501,P,Seychellen,EIO
+'Nuku'alofa',de,Tonga,#ba2114,#ba2114,2,0.109690204173,PACIFIC,4032402,-21.13683,-175.20114,P,Tonga,SPO
+'Tonga',de,Tonga,#bc2214,#bc2214,2,0.109690204173,PACIFIC,4032283,-20.0,-175.0,A,Tonga,SPO
+'Oranjestad',de,Aruba,#51e833,#51e833,2,0.10944777741,CENTRAL-AMERICA,3577154,12.52398,-70.02703,P,Aruba,CAR
+'Aruba',de,Aruba,#51e832,#51e832,2,0.10944777741,CENTRAL-AMERICA,3577279,12.5,-69.96667,A,Aruba,CAR
+'Charlotte Amalie',de,U.S. Virgin Islands,#4ce93e,#4ce93e,2,0.109347803734,CENTRAL-AMERICA,4795467,18.3419,-64.9307,P,Amerikanische Jungferninseln,CAR
+'Amerikanische Jungferninseln',de,U.S. Virgin Islands,#4de93e,#4de93e,2,0.109347803734,CENTRAL-AMERICA,4796775,18.34829,-64.98348,A,Amerikanische Jungferninseln,CAR
+'St. Vincent und die Grenadinen',de,Saint Vincent and the Grenadines,#37e834,#37e834,2,0.10907350446,CENTRAL-AMERICA,3577815,13.08333,-61.2,A,St. Vincent und die Grenadinen,CAR
+'Kingstown',de,Saint Vincent and the Grenadines,#38e834,#38e834,2,0.10907350446,CENTRAL-AMERICA,3577887,13.15527,-61.22742,P,St. Vincent und die Grenadinen,CAR
+'St. George's',de,Grenada,#37e832,#37e832,2,0.108972311447,CENTRAL-AMERICA,3579925,12.05288,-61.75226,P,Grenada,CAR
+'Grenada',de,Grenada,#37e832,#37e832,2,0.108972311447,CENTRAL-AMERICA,3580239,12.11667,-61.66667,A,Grenada,CAR
+'Mikronesien',de,Micronesia,#e6265a,#e6265a,2,0.108877840909,PACIFIC,7729900,6.53365,163.74023,L,,EPO
+'Palikir',de,Micronesia,#e7276d,#e7276d,2,0.108877840909,PACIFIC,2081986,6.92477,158.16109,P,Mikronesien,EPO
+'Tarawa',de,Kiribati,#e51c33,#e51c33,2,0.108632075065,PACIFIC,2110257,1.3278,172.97696,P,Kiribati,EPO
+'Kiribati',de,Kiribati,#e51c33,#e51c33,2,0.108632075065,PACIFIC,4030945,1.421,172.984,A,Kiribati,EPO
+'Kuba',de,Cuba,#7bea46,#7bea46,2,0.106288546422,CENTRAL-AMERICA,3562981,22.0,-79.5,A,Kuba,CAR
+'Curaçao',de,Curacao,#4de832,#4de832,2,0.106255904009,CENTRAL-AMERICA,7626836,12.16667,-68.96667,A,Curaçao,CAR
+'Guam',de,Guam,#e8349e,#e8349e,2,0.106032527388,PACIFIC,4043988,13.47861,144.81834,A,Guam,NPO
+'Hagatna',de,Guam,#e8349e,#e8349e,2,0.106032527388,PACIFIC,4044012,13.47567,144.74886,P,Guam,NPO
+'St. Lucia',de,Saint Lucia,#38e835,#38e835,2,0.105497858584,CENTRAL-AMERICA,3576468,13.88333,-60.96667,A,St. Lucia,CAR
+'Castries',de,Saint Lucia,#39e836,#39e836,2,0.105497858584,CENTRAL-AMERICA,3576812,13.9957,-61.00614,P,St. Lucia,CAR
+'Island',de,Iceland,#9ef4da,#9ef4da,2,0.105307294391,POLAR,2629691,65.0,-18.0,A,Island,GIC
+'Französisch-Guayana',de,French Guiana,#21e638,#21e638,2,0.105114932534,SOUTH-AMERICA,3381670,4.0,-53.0,A,Französisch-Guayana,NSA
+'Cayenne',de,French Guiana,#23e63c,#23e63c,2,0.105114932534,SOUTH-AMERICA,3382160,4.9381,-52.33455,P,Französisch-Guayana,NSA
+'Samoa',de,Samoa,#c92d16,#c92d16,2,0.105098659053,PACIFIC,4034894,-13.8,-172.13333,A,Samoa,SPO
+'Apia',de,Samoa,#c92e16,#c92e16,2,0.105098659053,PACIFIC,4035413,-13.83333,-171.76666,P,Samoa,SPO
+'Bahamas',de,Bahamas,#7aeb4c,#7aeb4c,2,0.105072425708,NORTH-AMERICA,3572887,25.04082,-77.37122,A,Bahamas,ENA
+'Sao Tome',de,Sao Tome and Principe,#14b538,#14b538,2,0.105058168943,SOUTH-AMERICA,3448439,-23.5475,-46.63611,P,Brasilien,SES
+'São Tomé und Príncipe',de,Sao Tome and Principe,#1bcee5,#1bcee5,2,0.105058168943,AFRICA,2410758,1.0,7.0,A,São Tomé und Príncipe,WAF
+'Jamaika',de,Jamaica,#6fe93e,#6fe93e,2,0.104062838609,CENTRAL-AMERICA,3489940,18.16667,-77.25,A,Jamaika,CAR
+'El-Aaiun',de,Western Sahara,#50ebc9,#50ebc9,2,0.103662896325,AFRICA,2462881,27.1418,-13.18797,P,Westsahara,SAH
+'Westsahara',de,Western Sahara,#4eebc5,#4eebc5,2,0.103662896325,AFRICA,2463029,26.13073,-14.48513,P,Westsahara,SAH
+'Papeete',de,French Polynesia,#c16c15,#c16c15,2,0.103601280615,PACIFIC,4033936,-17.5347,-149.56843,P,Französisch-Polynesien,SPO
+'Französisch-Polynesien',de,French Polynesia,#c68b16,#c68b16,2,0.103601280615,PACIFIC,4030656,-15.0,-140.0,A,Französisch-Polynesien,SPO
+'Mayotte',de,Mayotte,#1643cb,#1643cb,2,0.103578188792,AFRICA,1024031,-12.83333,45.16667,A,Mayotte,MDG
+'Mamoudzou',de,Mayotte,#1643cb,#1643cb,2,0.103578188792,AFRICA,921815,-12.78234,45.22878,P,Mayotte,MDG
+'Neukaledonien',de,New Caledonia,#b9143c,#b9143c,2,0.103520383018,PACIFIC,2139685,-21.5,165.5,A,Neukaledonien,SPO
+'Nouméa',de,New Caledonia,#b81439,#b81439,2,0.103520383018,PACIFIC,2139521,-22.27407,166.44884,P,Neukaledonien,SPO
+'Barbados',de,Barbados,#34e835,#34e835,2,0.103488684452,CENTRAL-AMERICA,3374084,13.16453,-59.55165,A,Barbados,CAR
+'Bridgetown',de,Barbados,#34e835,#34e835,2,0.103488684452,CENTRAL-AMERICA,3374036,13.10732,-59.62021,P,Barbados,CAR
+'Vanuatu',de,Vanuatu,#c4153a,#c4153a,2,0.103416700834,PACIFIC,2134431,-16.3333,167.5,A,Vanuatu,SPO
+'Port Vila',de,Vanuatu,#c11536,#c11536,2,0.103416700834,PACIFIC,2135171,-17.73648,168.31366,P,Vanuatu,SPO
+'Willemstad',de,Netherlands Antilles,#4de832,#4de832,2,0.103333333333,CENTRAL-AMERICA,3513090,12.12246,-68.88641,P,Curaçao,CAR
+'Niederländische Antillen',de,Netherlands Antilles,#4de832,#4de832,2,0.103333333333,CENTRAL-AMERICA,8505032,12.11721,-68.91964,A,,CAR
+'Reykjavik',de,Iceland,#9cf4d4,#9cf4d4,2,0.102828262259,POLAR,3413829,64.13548,-21.89541,P,Island,GIC
+'Honiara',de,Solomon Islands,#d21755,#d21755,2,0.10277246349,PACIFIC,2108502,-9.43333,159.95,P,Salomonen,EPO
+'Belmopan',de,Belize,#8fe93c,#8fe93c,2,0.10261048213,CENTRAL-AMERICA,3582672,17.25376,-88.76401,P,Belize,SCA
+'Belize',de,Belize,#8fe93c,#8fe93c,2,0.10261048213,CENTRAL-AMERICA,3582678,17.25,-88.75,A,Belize,SCA
+'Nassau',de,Bahamas,#7aeb4c,#7aeb4c,2,0.102593092003,NORTH-AMERICA,3571824,25.05823,-77.34306,P,Bahamas,ENA
+'Italien',de,Italy,#70d4ef,#70d4ef,2,0.10249914241,EUROPE-AFRICA,3175395,42.83333,12.83333,A,Italien,MED
+'Brunei',de,Brunei,#d522e6,#d522e6,2,0.102331208825,ASIA,1820814,4.5,114.66667,A,Brunei,SEA
+'Bandar Seri Begawan',de,Brunei,#d623e6,#d623e6,2,0.102331208825,ASIA,1820906,4.89035,114.94006,P,Brunei,SEA
+'Martinique',de,Martinique,#3ae837,#3ae837,2,0.10231000231,CENTRAL-AMERICA,3570311,14.66667,-61.0,A,Martinique,CAR
+'Fort-de-France',de,Martinique,#3ae837,#3ae837,2,0.10231000231,CENTRAL-AMERICA,3570675,14.60365,-61.07418,P,Martinique,CAR
+'Guadeloupe',de,Guadeloupe,#3fe93a,#3fe93a,2,0.102257336343,CENTRAL-AMERICA,3579143,16.25,-61.58333,A,Guadeloupe,CAR
+'Basse-Terre',de,Guadeloupe,#3fe93a,#3fe93a,2,0.102257336343,CENTRAL-AMERICA,3579732,15.99714,-61.73214,P,Guadeloupe,CAR
+'Valletta',de,Malta,#62cced,#62cced,2,0.102068124005,EUROPE-AFRICA,2562305,35.89968,14.5148,P,Malta,MED
+'Malta',de,Malta,#62cced,#62cced,2,0.102068124005,EUROPE-AFRICA,2562770,35.91667,14.43333,A,Malta,MED
+'Männlich',de,Maldives,#B2DAB1,#B2DAB1,2,0.101939126927,,-1,,,,,
+'Malediven',de,Maldives,#4a20e6,#4a20e6,2,0.101939126927,INDIAN,1282028,3.2,73.0,A,Malediven,EIO
+'Praia',de,Cabo Verde,#37e8a3,#37e8a3,2,0.101839022964,ATLANTIC,3374333,14.93152,-23.51254,P,Kapverden,NAO
+'Kap Verde',de,Cabo Verde,#3ae9a3,#3ae9a3,2,0.101839022964,ATLANTIC,3374766,16.0,-24.0,A,Kapverden,NAO
+'Paramaribo',de,Suriname,#25e635,#25e635,2,0.101736138238,SOUTH-AMERICA,3383330,5.86638,-55.16682,P,Suriname,NSA
+'Surinam',de,Suriname,#21e62e,#21e62e,2,0.101736138238,SOUTH-AMERICA,3382998,4.0,-56.0,A,Suriname,NSA
+'Luxemburg',de,Luxembourg,#7ee5f0,#7ee5f0,2,0.101645472975,EUROPE,2960313,49.75,6.16667,A,Luxemburg,WCE
+'Podgorica',de,Montenegro,#70c6ef,#70c6ef,2,0.101606825796,EUROPE-AFRICA,3193044,42.44111,19.26361,P,Montenegro,MED
+'Montenegro',de,Montenegro,#70c6ef,#70c6ef,2,0.101606825796,EUROPE-AFRICA,3194884,42.75,19.25,A,Montenegro,MED
+'Macau',de,Macao,#d846ea,#d846ea,2,0.101583190318,ASIA,1821274,22.20056,113.54611,P,Macau,EAS
+'Salomonen',de,Solomon Islands,#d5175a,#d5175a,2,0.101531726654,PACIFIC,2103350,-8.0,159.0,A,Salomonen,EPO
+'Neuseeland',de,New Zealand,#8f0f1c,#8f0f1c,2,0.101446255867,OCEANIA,2186224,-42.0,174.0,A,Neuseeland,NZ
+'Jordanien',de,Jordan,#5893ec,#5893ec,2,0.101342075249,EUROPE-AFRICA,248816,31.0,36.0,A,Jordanien,MED
+'Haiti',de,Haiti,#63e940,#63e940,2,0.101331542352,CENTRAL-AMERICA,3723988,19.07582,-72.29616,A,Haiti,CAR
+'Bhutan',de,Bhutan,#9f51eb,#9f51eb,2,0.101325567277,ASIA,1252634,27.5,90.5,A,Bhutan,TIB
+'Thimphu',de,Bhutan,#9d51eb,#9d51eb,2,0.101325567277,ASIA,1252416,27.46609,89.64191,P,Bhutan,TIB
+'Saint-Denis',de,Reunion,#1421ba,#1421ba,2,0.101287087424,INDIAN,935264,-20.88231,55.4504,P,Réunion,SIO
+'Wiedervereinigung',de,Reunion,#A9621E,#A9621E,2,0.101287087424,,-1,,,,,
+'Guyana',de,Guyana,#23e626,#23e626,2,0.101283690456,SOUTH-AMERICA,3378535,5.0,-59.0,A,Guyana,NSA
+'Georgetown',de,Guyana,#27e72d,#27e72d,2,0.101283690456,SOUTH-AMERICA,3378644,6.80448,-58.15527,P,Guyana,NSA
+'Australien',de,Australia,#b2138a,#b2138a,2,0.101281683214,OCEANIA,2077456,-25.0,135.0,A,Australien,CAU
+'Ukraine',de,Ukraine,#7db3f0,#7db3f0,2,0.101264092156,EUROPE,690791,49.0,32.0,A,Ukraine,WCE
+'Berlin',de,Germany,#84d9f1,#84d9f1,2,0.101253747045,EUROPE,2950159,52.52437,13.41053,P,Deutschland,WCE
+'Deutschland',de,Germany,#82ddf1,#82ddf1,2,0.101253747045,EUROPE,2921044,51.5,10.5,A,Deutschland,WCE
+'Russland',de,Russia,#d393f3,#d393f3,2,0.10124861304,ASIA,2017370,60.0,100.0,A,Russland,ESB
+'Moroni',de,Comoros,#1649cd,#1649cd,2,0.10120145809,AFRICA,921772,-11.70216,43.25506,P,Komoren,ESAF
+'Komoren',de,Comoros,#1645cc,#1645cc,2,0.10120145809,AFRICA,921929,-12.23333,44.44553,A,Komoren,ESAF
+'Suva',de,Fiji,#c01519,#c01519,2,0.101131883692,PACIFIC,2198148,-18.13683,178.42531,P,Fidschi,SPO
+'Fidschi',de,Fiji,#c0151b,#c0151b,2,0.101131883692,PACIFIC,2205218,-18.0,178.0,A,Fidschi,SPO
+'Dschibuti',de,Djibouti,#3166e8,#3166e8,2,0.101042839862,AFRICA,223816,11.83333,42.5,A,Dschibuti,NEAF
+'Eswatini',de,Eswatini,#135daf,#135daf,2,0.10088013371,AFRICA,934841,-26.5,31.5,A,Eswatini,ESAF
+'Mbabane',de,Eswatini,#135eaf,#135eaf,2,0.10088013371,AFRICA,934985,-26.31667,31.13333,P,Eswatini,ESAF
+'Zypern',de,Cyprus,#60a0ed,#60a0ed,2,0.100840855486,EUROPE-AFRICA,146669,35.0,33.0,A,Zypern,MED
+'Nikosia',de,Cyprus,#619fed,#619fed,2,0.100840855486,EUROPE-AFRICA,146268,35.17531,33.3642,P,Zypern,MED
+'Mauritius',de,Mauritius,#141bbc,#141bbc,2,0.100790324531,INDIAN,934292,-20.3,57.58333,A,Mauritius,SIO
+'Port Louis',de,Mauritius,#141bbc,#141bbc,2,0.100790324531,INDIAN,934154,-20.16194,57.49889,P,Mauritius,SIO
+'Timor-Leste',de,Timor Leste,#d317c1,#d317c1,2,0.100788660948,ASIA,1966436,-8.83333,125.75,A,Timor-Leste,SEA
+'Dili',de,Timor Leste,#d417c2,#d417c2,2,0.100788660948,ASIA,1645457,-8.55861,125.57361,P,Timor-Leste,SEA
+'Äquatorialguinea',de,Equatorial Guinea,#1cc2e5,#1cc2e5,2,0.100763957115,AFRICA,2309096,1.7,10.5,A,Äquatorialguinea,CAF
+'Malabo',de,Equatorial Guinea,#21c9e6,#21c9e6,2,0.100763957115,AFRICA,2309527,3.75578,8.78166,P,Äquatorialguinea,WAF
+'Tallinn',de,Estonia,#92cbf2,#92cbf2,2,0.100757068751,EUROPE,588409,59.43696,24.75353,P,Estland,NEU
+'Estland',de,Estonia,#91c8f2,#91c8f2,2,0.100757068751,EUROPE,453733,59.0,26.0,A,Estland,NEU
+'Hafen von Spanien',de,Trinidad and Tobago,#64ede3,#64ede3,2,0.100719497963,EUROPE-AFRICA,9253705,36.71536,-4.41959,L,Spanien,MED
+'Trinidad und Tobago',de,Trinidad and Tobago,#33e72f,#33e72f,2,0.100719497963,SOUTH-AMERICA,3573591,11.0,-61.0,A,Trinidad und Tobago,NSA
+'Manama',de,Bahrain,#4f67eb,#4f67eb,2,0.100637170352,ASIA,290340,26.22787,50.58565,P,Bahrain,ARP
+'Bahrain',de,Bahrain,#4e67eb,#4e67eb,2,0.100637170352,ASIA,290291,26.03333,50.55,A,Bahrain,ARP
+'Pristina',de,Kosovo,#70c2ef,#70c2ef,2,0.100541917303,EUROPE-AFRICA,786714,42.67272,21.16688,P,Kosovo,MED
+'Kosovo',de,Kosovo,#70c2ef,#70c2ef,2,0.100541917303,EUROPE-AFRICA,831053,42.58333,20.91667,A,Kosovo,MED
+'Bissau',de,Guinea-Bissau,#31e8b8,#31e8b8,2,0.100533529957,AFRICA,2374775,11.86357,-15.59767,P,Guinea-Bissau,WAF
+'Guinea-Bissau',de,Guinea-Bissau,#31e8ba,#31e8ba,2,0.100533529957,AFRICA,2372248,12.0,-15.0,A,Guinea-Bissau,WAF
+'Lettland',de,Latvia,#8dc8f2,#8dc8f2,2,0.100519064728,EUROPE,458258,57.0,25.0,A,Lettland,WCE
+'Riga',de,Latvia,#8dc9f2,#8dc9f2,2,0.100519064728,EUROPE,456172,56.946,24.10589,P,Lettland,WCE
+'Slowenien',de,Slovenia,#77d1ef,#77d1ef,2,0.100483705884,EUROPE,3190538,46.08333,15.0,A,Slowenien,WCE
+'Ljubljana',de,Slovenia,#77d2ef,#77d2ef,2,0.100483705884,EUROPE,3196359,46.05108,14.50513,P,Slowenien,WCE
+'Skopje',de,North Macedonia,#6fc1ef,#6fc1ef,2,0.100480086492,EUROPE-AFRICA,785842,41.99646,21.43141,P,Nordmazedonien,MED
+'Nordmazedonien',de,North Macedonia,#6ec0ee,#6ec0ee,2,0.100480086492,EUROPE-AFRICA,718075,41.66667,21.75,A,Nordmazedonien,MED
+'Maseru',de,Lesotho,#1264a9,#1264a9,2,0.100474353598,AFRICA,932505,-29.31667,27.48333,P,Lesotho,ESAF
+'Lesotho',de,Lesotho,#1262a9,#1262a9,2,0.100474353598,AFRICA,932692,-29.5,28.25,A,Lesotho,ESAF
+'Libreville',de,Gabon,#1ac5e5,#1ac5e5,2,0.10047185948,AFRICA,2399697,0.39241,9.45356,P,Gabun,CAF
+'Gabun',de,Gabon,#19bbe3,#19bbe3,2,0.10047185948,AFRICA,2400553,-1.0,11.75,A,Gabun,CAF
+'Botswana',de,Botswana,#1476b8,#1476b8,2,0.100443630924,AFRICA,933860,-22.0,24.0,A,Botswana,WSAF
+'Gaborone',de,Botswana,#136eb3,#136eb3,2,0.100443630924,AFRICA,933773,-24.65451,25.90859,P,Botswana,ESAF
+'Gambia',de,Gambia,#35e8ba,#35e8ba,2,0.100438576871,AFRICA,2413451,13.5,-15.5,A,Gambia,WAF
+'Banjul',de,Gambia,#34e8b6,#34e8b6,2,0.100438576871,AFRICA,2413876,13.45274,-16.57803,P,Gambia,WAF
+'Namibia',de,Namibia,#148ab8,#148ab8,2,0.100408454185,AFRICA,3355338,-22.0,17.0,A,Namibia,WSAF
+'Windhoek',de,Namibia,#1489b7,#1489b7,2,0.100408454185,AFRICA,3352136,-22.55941,17.08323,P,Namibia,WSAF
+'Doha',de,Qatar,#4d63eb,#4d63eb,2,0.100359495369,ASIA,290030,25.28545,51.53096,P,Katar,ARP
+'Katar',de,Qatar,#4d64eb,#4d64eb,2,0.100359495369,ASIA,289688,25.5,51.25,A,Katar,ARP
+'Vilnius',de,Lithuania,#89c5f1,#89c5f1,2,0.100358482943,EUROPE,593116,54.68916,25.2798,P,Litauen,WCE
+'Litauen',de,Lithuania,#8ac8f2,#8ac8f2,2,0.100358482943,EUROPE,597427,55.41667,24.0,A,Litauen,WCE
+'Albanien',de,Albania,#6dc3ee,#6dc3ee,2,0.100348872583,EUROPE-AFRICA,783754,41.0,20.0,A,Albanien,MED
+'Tirana',de,Albania,#6dc4ee,#6dc4ee,2,0.100348872583,EUROPE-AFRICA,3183875,41.3275,19.81889,P,Albanien,MED
+'Kingston',de,Jamaica,#6ee93e,#6ee93e,2,0.100340732336,CENTRAL-AMERICA,3489854,17.99702,-76.79358,P,Jamaika,CAR
+'Eriwan',de,Armenia,#6b8dee,#6b8dee,2,0.100324212164,ASIA,616052,40.18111,44.51361,P,Armenien,WCA
+'Armenien',de,Armenia,#6b8cee,#6b8cee,2,0.100324212164,ASIA,174982,40.25,45.0,A,Armenien,WCA
+'Mongolei',de,Mongolia,#d177ef,#d177ef,2,0.100315436716,ASIA,2029969,46.0,105.0,A,Mongolei,ESB
+'Ulaanbaatar',de,Mongolia,#d67bf0,#d67bf0,2,0.100315436716,ASIA,2028462,47.90771,106.88324,P,Mongolei,ESB
+'Puerto Rico',de,Puerto Rico,#51e93e,#51e93e,2,0.100312974058,CENTRAL-AMERICA,4566967,18.2494,-66.50101,T,Puerto Rico,CAR
+'San Juan',de,Puerto Rico,#50e93f,#50e93f,2,0.100312974058,CENTRAL-AMERICA,4568127,18.46633,-66.10572,P,Puerto Rico,CAR
+'Bosnien und Herzegowina',de,Bosnia and Herzegovina,#73caef,#73caef,2,0.100300848785,EUROPE-AFRICA,3277605,44.25,17.83333,A,Bosnien und Herzegowina,MED
+'Sarajevo',de,Bosnia and Herzegovina,#72c9ef,#72c9ef,2,0.100300848785,EUROPE-AFRICA,3191281,43.84864,18.35644,P,Bosnien und Herzegowina,MED
+'Uruguay',de,Uruguay,#12a21b,#12a21b,2,0.10028991398,SOUTH-AMERICA,3439705,-33.0,-56.0,A,Uruguay,SES
+'Montevideo',de,Uruguay,#119e1a,#119e1a,2,0.10028991398,SOUTH-AMERICA,3441575,-34.90328,-56.18816,P,Uruguay,SES
+'Moldawien',de,Moldova,#79b7f0,#79b7f0,2,0.100282017201,EUROPE,617790,47.25,28.58333,A,Republik Moldau,WCE
+'Chișinău',de,Moldova,#79b7f0,#79b7f0,2,0.100282017201,EUROPE,618426,47.00556,28.8575,P,Republik Moldau,WCE
+'Georgia',de,Georgia,#6f92ef,#6f92ef,2,0.100269941962,ASIA,614540,41.99998,43.4999,A,Georgien,WCA
+'Tiflis',de,Georgia,#6e8fee,#6e8fee,2,0.100269941962,ASIA,611717,41.69411,44.83368,P,Georgien,WCA
+'Zagreb',de,Croatia,#76cfef,#76cfef,2,0.100258275602,EUROPE,3186886,45.81444,15.97798,P,Kroatien,WCE
+'Kroatien',de,Croatia,#75d0ef,#75d0ef,2,0.100258275602,EUROPE,3202326,45.16667,15.5,A,Kroatien,WCE
+'Kuwait-Stadt',de,Kuwait,#5573ec,#5573ec,2,0.100241703001,ASIA,285787,29.36972,47.97833,P,Kuwait,ARP
+'Kuwait',de,Kuwait,#5574ec,#5574ec,2,0.100241703001,ASIA,285570,29.5,47.75,A,Kuwait,ARP
+'Panama-Stadt',de,Panama,#68e72b,#68e72b,2,0.100239413552,CENTRAL-AMERICA,3703443,8.9936,-79.51973,P,Panama,SCA
+'Panama',de,Panama,#6ae72b,#6ae72b,2,0.100239413552,CENTRAL-AMERICA,3703430,9.0,-80.0,A,Panama,SCA
+'Mauretanien',de,Mauritania,#42eacc,#42eacc,2,0.100227101421,AFRICA,2378080,20.25,-10.5,A,Mauretanien,SAH
+'Nouakchott',de,Mauritania,#3ee9bc,#3ee9bc,2,0.100227101421,AFRICA,2377450,18.08581,-15.9785,P,Mauretanien,SAH
+'Ostjerusalem',de,Palestinian Territory,#5a96ec,#5a96ec,2,0.100218862105,EUROPE-AFRICA,7303419,31.78336,35.23388,P,Palästina,MED
+'Palästinensisches Gebiet',de,Palestinian Territory,#BC87DE,#BC87DE,2,0.100218862105,,-1,,,,,
+'Zentralafrikanische Republik',de,Central African Republic,#27a4e7,#27a4e7,2,0.100214299016,AFRICA,239880,7.0,21.0,A,Zentralafrikanische Republik,CAF
+'Bangui',de,Central African Republic,#22a9e6,#22a9e6,2,0.100214299016,AFRICA,2389853,4.36122,18.55496,P,Zentralafrikanische Republik,CAF
+'Monrovia',de,Liberia,#26e6c4,#26e6c4,2,0.100207512922,AFRICA,2274895,6.30054,-10.7969,P,Liberia,WAF
+'Liberia',de,Liberia,#26e6c8,#26e6c8,2,0.100207512922,AFRICA,2275384,6.5,-9.5,A,Liberia,WAF
+'Oman',de,Oman,#444cea,#444cea,2,0.100207061501,ASIA,286963,21.0,57.0,A,Oman,ARP
+'Maskat',de,Oman,#494dea,#494dea,2,0.100207061501,ASIA,287286,23.58413,58.40778,P,Oman,ARP
+'Irland',de,Ireland,#85f1e3,#85f1e3,2,0.100206036626,EUROPE,2963597,53.0,-8.0,A,Irland,NEU
+'Dublin',de,Ireland,#86f1e6,#86f1e6,2,0.100206036626,EUROPE,2964574,53.33306,-6.24889,P,Irland,NEU
+'Wellington',de,New Zealand,#91101b,#91101b,2,0.10020468734,OCEANIA,2179537,-41.28664,174.77557,P,Neuseeland,NZ
+'San José',de,Costa Rica,#78e72d,#78e72d,2,0.100200022363,CENTRAL-AMERICA,3621849,9.93388,-84.08489,P,Costa Rica,SCA
+'Costa Rica',de,Costa Rica,#78e72d,#78e72d,2,0.100200022363,CENTRAL-AMERICA,3624060,10.0,-84.0,A,Costa Rica,SCA
+'Brazzaville',de,Republic of the Congo,#18aadc,#18aadc,2,0.100190680927,AFRICA,2260535,-4.26613,15.28318,P,Kongo (Republik Kongo),CAF
+'Republik Kongo',de,Republic of the Congo,#19afe3,#19afe3,2,0.100190680927,AFRICA,2260494,-1.0,15.5,A,Kongo (Republik Kongo),CAF
+'Oslo',de,Norway,#93e2f3,#93e2f3,2,0.100188170262,EUROPE,3143244,59.91273,10.74609,P,Norwegen,NEU
+'Norwegen',de,Norway,#97e4f3,#97e4f3,2,0.100188170262,EUROPE,3144096,62.0,10.0,A,Norwegen,NEU
+'Slowakei',de,Slovakia,#7ccaf0,#7ccaf0,2,0.100183586925,EUROPE,3057568,48.66667,19.5,A,Slowakei,WCE
+'Bratislava',de,Slovakia,#7bcff0,#7bcff0,2,0.100183586925,EUROPE,3060972,48.14816,17.10674,P,Slowakei,WCE
+'Finnland',de,Finland,#9ccdf4,#9ccdf4,2,0.100181223439,EUROPE,660013,64.0,26.0,A,Finnland,NEU
+'Helsinki',de,Finland,#94cbf3,#94cbf3,2,0.100181223439,EUROPE,658225,60.16952,24.93545,P,Finnland,NEU
+'Singapur',de,Singapore,#af1ce5,#af1ce5,2,0.100177346597,ASIA,1880252,1.28967,103.85007,P,Singapur,SEA
+'Kopenhagen',de,Denmark,#8bdcf2,#8bdcf2,2,0.100172489748,EUROPE,2618425,55.67594,12.56553,P,Dänemark,NEU
+'Dänemark',de,Denmark,#8be1f2,#8be1f2,2,0.100172489748,EUROPE,2623032,56.0,10.0,A,Dänemark,NEU
+'Aschgabat',de,Turkmenistan,#666aee,#666aee,2,0.100170913643,ASIA,162183,37.95,58.38333,P,Turkmenistan,WCA
+'Turkmenistan',de,Turkmenistan,#6a6bee,#6a6bee,2,0.100170913643,ASIA,1218197,39.75,59.66667,A,Turkmenistan,WCA
+'Eritrea',de,Eritrea,#3875e8,#3875e8,2,0.100161049735,AFRICA,338010,15.0,39.0,A,Eritrea,SAH
+'Asmara',de,Eritrea,#3876e8,#3876e8,2,0.100161049735,AFRICA,343300,15.33805,38.93184,P,Eritrea,SAH
+'Kirgisistan',de,Kyrgyzstan,#8e6eee,#8e6eee,2,0.100158333069,ASIA,1527747,41.5,75.0,A,Kirgisistan,WCA
+'Bischkek',de,Kyrgyzstan,#8f70ef,#8f70ef,2,0.100158333069,ASIA,1528675,42.87,74.59,P,Kirgisistan,WCA
+'El Salvador',de,El Salvador,#16cb57,#16cb57,2,0.100155745191,SOUTH-AMERICA,3450554,-12.97563,-38.49096,P,Brasilien,NES
+'San Salvador',de,El Salvador,#8ce835,#8ce835,2,0.100155745191,CENTRAL-AMERICA,3583361,13.68935,-89.18718,P,El Salvador,SCA
+'Nicaragua',de,Nicaragua,#7fe834,#7fe834,2,0.100154666768,CENTRAL-AMERICA,3617476,13.0,-85.0,A,Nicaragua,SCA
+'Managua',de,Nicaragua,#81e832,#81e832,2,0.100154666768,CENTRAL-AMERICA,3617763,12.13282,-86.2504,P,Nicaragua,SCA
+'Libyen',de,Libya,#52c0eb,#52c0eb,2,0.10014973272,AFRICA,2215636,28.0,17.0,A,Libyen,SAH
+'Tripolis',de,Libya,#5ccdec,#5ccdec,2,0.10014973272,EUROPE-AFRICA,2210247,32.88743,13.18733,P,Libyen,MED
+'Libanon',de,Lebanon,#5e97ed,#5e97ed,2,0.100146008315,EUROPE-AFRICA,272103,33.83333,35.83333,A,Libanon,MED
+'Beirut',de,Lebanon,#5e98ed,#5e98ed,2,0.100146008315,EUROPE-AFRICA,276781,33.89332,35.50157,P,Libanon,MED
+'Paraguay',de,Paraguay,#14b519,#14b519,2,0.100143759315,SOUTH-AMERICA,3437598,-23.33333,-58.0,A,Paraguay,SES
+'Asunción',de,Paraguay,#13b119,#13b119,2,0.100143759315,SOUTH-AMERICA,3439389,-25.28646,-57.647,P,Paraguay,SES
+'Serbien',de,Serbia,#74c5ef,#74c5ef,2,0.100143223714,EUROPE-AFRICA,6290252,44.81892,20.45998,A,Serbien,MED
+'Sofia',de,Bulgaria,#70bdef,#70bdef,2,0.100142856347,EUROPE-AFRICA,727011,42.69751,23.32415,P,Bulgarien,MED
+'Bulgarien',de,Bulgaria,#70b9ef,#70b9ef,2,0.100142856347,EUROPE-AFRICA,732800,42.66667,25.25,A,Bulgarien,MED
+'Laos',de,Laos,#be3ee9,#be3ee9,2,0.100141612831,ASIA,1655842,18.0,105.0,A,Laos,SEA
+'Vientiane',de,Laos,#b73ee9,#b73ee9,2,0.100141612831,ASIA,1651944,17.96667,102.6,P,Laos,SEA
+'Hongkong',de,Hong Kong,#da46ea,#da46ea,2,0.100135206831,ASIA,1819729,22.27832,114.17469,P,Hongkong,EAS
+'Sierra Leone',de,Sierra Leone,#2ae7c3,#2ae7c3,2,0.100130716323,AFRICA,2403846,8.5,-11.5,A,Sierra Leone,WAF
+'Freetown',de,Sierra Leone,#2ae7bd,#2ae7bd,2,0.100130716323,AFRICA,2409306,8.48714,-13.2356,P,Sierra Leone,WAF
+'Togo',de,Togo,#2be4e7,#2be4e7,2,0.100126757268,AFRICA,2363686,8.66667,1.08333,A,Togo,WAF
+'Lomé',de,Togo,#26e2e6,#26e2e6,2,0.100126757268,AFRICA,2365267,6.12874,1.22154,P,Togo,WAF
+'Südsudan',de,South Sudan,#2887e7,#2887e7,2,0.100121058194,AFRICA,7909807,7.5,30.0,A,Südsudan,NEAF
+'Juba',de,South Sudan,#237fe6,#237fe6,2,0.100121058194,AFRICA,373303,4.85165,31.58247,P,Südsudan,NEAF
+'Schweiz',de,Switzerland,#79e0f0,#79e0f0,2,0.100117418535,EUROPE,2658434,47.00016,8.01427,A,Schweiz,WCE
+'Bern',de,Switzerland,#79e1f0,#79e1f0,2,0.100117418535,EUROPE,2661552,46.94809,7.44744,P,Schweiz,WCE
+'Papua-Neuguinea',de,Papua New Guinea,#db189a,#db189a,2,0.100116193735,ASIA,2082514,-5.0,140.0,T,Indonesien,SEA
+'Port Moresby',de,Papua New Guinea,#d2177d,#d2177d,2,0.100116193735,ASIA,2088122,-9.47723,147.15089,P,Papua-Neuguinea,SEA
+'Österreich',de,Austria,#7ad5f0,#7ad5f0,2,0.100113032194,EUROPE,2782113,47.33333,13.33333,A,Österreich,WCE
+'Wien',de,Austria,#7bd0f0,#7bd0f0,2,0.100113032194,EUROPE,2761369,48.20849,16.37208,P,Österreich,WCE
+'Jerusalem',de,Israel,#5a96ec,#5a96ec,2,0.100112564443,EUROPE-AFRICA,281184,31.76904,35.21633,P,Israel,MED
+'Israel',de,Israel,#5997ec,#5997ec,2,0.100112564443,EUROPE-AFRICA,294640,31.5,34.75,A,Israel,MED
+'Duschanbe',de,Tajikistan,#7b68ee,#7b68ee,2,0.100109880003,ASIA,1221874,38.53575,68.77905,P,Tadschikistan,WCA
+'Tadschikistan',de,Tajikistan,#8169ee,#8169ee,2,0.100109880003,ASIA,1220409,39.0,71.0,A,Tadschikistan,WCA
+'Weißrussland',de,Belarus,#85bff1,#85bff1,2,0.100105425335,EUROPE,630336,53.0,28.0,A,Belarus,WCE
+'Minsk',de,Belarus,#87c0f1,#87c0f1,2,0.100105425335,EUROPE,625144,53.9,27.56667,P,Belarus,WCE
+'Tegucigalpa',de,Honduras,#87e836,#87e836,2,0.100104302238,CENTRAL-AMERICA,3600949,14.0818,-87.20681,P,Honduras,SCA
+'Honduras',de,Honduras,#86e838,#86e838,2,0.100104302238,CENTRAL-AMERICA,3608932,15.0,-86.5,A,Honduras,SCA
+'Abu Dhabi',de,United Arab Emirates,#4b5aeb,#4b5aeb,2,0.10010383182,ASIA,292968,24.45118,54.39696,P,Vereinigte Arabische Emirate,ARP
+'Vereinigte Arabische Emirate',de,United Arab Emirates,#4958ea,#4958ea,2,0.10010383182,ASIA,290557,23.75,54.5,A,Vereinigte Arabische Emirate,ARP
+'Budapest',de,Hungary,#7acaf0,#7acaf0,2,0.100102366876,EUROPE,3054643,47.49835,19.04045,P,Ungarn,WCE
+'Ungarn',de,Hungary,#79c8f0,#79c8f0,2,0.100102366876,EUROPE,719819,47.0,20.0,A,Ungarn,WCE
+'Amman',de,Jordan,#5a95ec,#5a95ec,2,0.100100441834,EUROPE-AFRICA,250441,31.95522,35.94503,P,Jordanien,MED
+'Stockholm',de,Sweden,#92d5f2,#92d5f2,2,0.1000982012,EUROPE,2673730,59.32938,18.06871,P,Schweden,NEU
+'Schweden',de,Sweden,#97dcf3,#97dcf3,2,0.1000982012,EUROPE,2661886,62.0,15.0,A,Schweden,NEU
+'Aserbaidschan',de,Azerbaijan,#6c87ee,#6c87ee,2,0.100097800467,ASIA,587116,40.5,47.5,A,Aserbaidschan,WCA
+'Baku',de,Azerbaijan,#6b81ee,#6b81ee,2,0.100097800467,ASIA,587084,40.37767,49.89201,P,Aserbaidschan,WCA
+'Lissabon',de,Portugal,#68eed9,#68eed9,2,0.100097259594,EUROPE-AFRICA,2267057,38.71667,-9.13333,P,Portugal,MED
+'Portugal',de,Portugal,#6aeedc,#6aeedc,2,0.100097259594,EUROPE-AFRICA,2264397,39.6945,-8.13057,A,Portugal,MED
+'Tschechien',de,Czechia,#7ed4f0,#7ed4f0,2,0.100094111491,EUROPE,3077311,49.75,15.0,A,Tschechien,WCE
+'Prag',de,Czechia,#7fd5f0,#7fd5f0,2,0.100094111491,EUROPE,3067696,50.08804,14.42076,P,Tschechien,WCE
+'Dominikanische Republik',de,Dominican Republic,#5ee940,#5ee940,2,0.100094098473,CENTRAL-AMERICA,3508796,19.0,-70.66667,A,Dom. Republik,CAR
+'Santo Domingo',de,Dominican Republic,#5ee940,#5ee940,2,0.100094098473,CENTRAL-AMERICA,3508796,19.0,-70.66667,A,Dom. Republik,CAR
+'Athen',de,Greece,#66b8ee,#66b8ee,2,0.100093216904,EUROPE-AFRICA,264371,37.98376,23.72784,P,Griechenland,MED
+'Griechenland',de,Greece,#69bdee,#69bdee,2,0.100093216904,EUROPE-AFRICA,390903,39.0,22.0,A,Griechenland,MED
+'Belgrad',de,Serbia and Montenegro,#74c5ef,#74c5ef,2,0.100092343138,EUROPE-AFRICA,792680,44.80401,20.46513,P,Serbien,MED
+'Serbien und Montenegro',de,Serbia and Montenegro,#74c5ef,#74c5ef,2,0.100092343138,EUROPE-AFRICA,8505033,44.8174,20.46341,A,,MED
+'Port-au-Prince',de,Haiti,#62e93f,#62e93f,2,0.10008990238,CENTRAL-AMERICA,3718426,18.54349,-72.33881,P,Haiti,CAR
+'Burundi',de,Burundi,#187bde,#187bde,2,0.100089482432,AFRICA,433561,-3.5,30.0,A,Burundi,SEAF
+'Gitega',de,Burundi,#187bde,#187bde,2,0.100089482432,AFRICA,426272,-3.42708,29.92463,P,Burundi,SEAF
+'Havanna',de,Cuba,#85ea48,#85ea48,2,0.100088197903,CENTRAL-AMERICA,3553478,23.13302,-82.38304,P,Kuba,CAR
+'Erfolgreich',de,Bolivia,#17796F,#17796F,2,0.100088081343,,-1,,,,,
+'Bolivien',de,Bolivia,#24c215,#24c215,2,0.100088081343,SOUTH-AMERICA,3923057,-17.0,-65.0,A,Bolivien,SAM
+'Belgien',de,Belgium,#81e8f1,#81e8f1,2,0.10008754982,EUROPE,2802361,50.75,4.5,A,Belgien,WCE
+'Brüssel',de,Belgium,#81e8f1,#81e8f1,2,0.10008754982,EUROPE,2800866,50.85045,4.34878,P,Belgien,WCE
+'Benin',de,Benin,#2ce0e7,#2ce0e7,2,0.100087069728,AFRICA,2395170,9.5,2.25,A,Benin,WAF
+'Porto-Novo',de,Benin,#26dee6,#26dee6,2,0.100087069728,AFRICA,2392087,6.49646,2.60359,P,Benin,WAF
+'Tunis',de,Tunisia,#5ed7ed,#5ed7ed,2,0.100086466266,EUROPE-AFRICA,2464461,34.0,9.0,A,Tunesien,MED
+'Tunesien',de,Tunisia,#5ed7ed,#5ed7ed,2,0.100086466266,EUROPE-AFRICA,2464461,34.0,9.0,A,Tunesien,MED
+'Kigali',de,Rwanda,#197de1,#197de1,2,0.100081287999,AFRICA,202061,-1.94995,30.05885,P,Ruanda,SEAF
+'Ruanda',de,Rwanda,#197de1,#197de1,2,0.100081287999,AFRICA,49518,-2.0,30.0,A,Ruanda,SEAF
+'Guinea',de,Guinea,#2fe7c7,#2fe7c7,2,0.10008055215,AFRICA,2420477,10.83333,-10.66667,A,Guinea,WAF
+'Conakry',de,Guinea,#2ce7bd,#2ce7bd,2,0.10008055215,AFRICA,2422465,9.53795,-13.67729,P,Guinea,WAF
+'Mogadischu',de,Somalia,#1d4ee5,#1d4ee5,2,0.100066630446,AFRICA,53654,2.03711,45.34375,P,Somalia,SEAF
+'Somalia',de,Somalia,#254ce6,#254ce6,2,0.100066630446,AFRICA,51537,6.0,48.0,A,Somalia,NEAF
+'Tschad',de,Chad,#38b0e8,#38b0e8,2,0.10006460887,AFRICA,2434508,15.0,19.0,A,Tschad,SAH
+'N'Djamena',de,Chad,#32bae8,#32bae8,2,0.10006460887,AFRICA,2427123,12.10672,15.0444,P,Tschad,CAF
+'Dakar',de,Senegal,#37e8b5,#37e8b5,2,0.100063074132,AFRICA,2253354,14.6937,-17.44406,P,Senegal,WAF
+'Senegal',de,Senegal,#37e8be,#37e8be,2,0.100063074132,AFRICA,2245662,14.5,-14.25,A,Senegal,WAF
+'Phnom Penh',de,Cambodia,#ba31e8,#ba31e8,2,0.100061539227,ASIA,1821306,11.56245,104.91601,P,Kambodscha,SEA
+'Kambodscha',de,Cambodia,#bb34e8,#bb34e8,2,0.100061539227,ASIA,1831722,13.0,105.0,A,Kambodscha,SEA
+'Simbabwe',de,Zimbabwe,#156abe,#156abe,2,0.100059282414,AFRICA,878675,-19.0,29.75,A,Simbabwe,ESAF
+'Harare',de,Zimbabwe,#1568c1,#1568c1,2,0.100059282414,AFRICA,890299,-17.82772,31.05337,P,Simbabwe,ESAF
+'Damaskus',de,Syria,#5d96ed,#5d96ed,2,0.100059149607,EUROPE-AFRICA,170654,33.5102,36.29128,P,Syrien,MED
+'Syrien',de,Syria,#6094ed,#6094ed,2,0.100059149607,EUROPE-AFRICA,163843,35.0,38.0,A,Syrien,MED
+'Ecuador',de,Ecuador,#56e219,#56e219,2,0.100058533078,SOUTH-AMERICA,3658394,-1.25,-78.25,A,Ecuador,NWS
+'Quito',de,Ecuador,#58e519,#58e519,2,0.100058533078,SOUTH-AMERICA,3652462,-0.22985,-78.52495,P,Ecuador,NWS
+'Die Niederlande',de,The Netherlands,#84e8f1,#84e8f1,2,0.10005803488,EUROPE,2753842,52.41488,5.02649,H,Niederlande,NEU
+'Amsterdam',de,The Netherlands,#84e8f1,#84e8f1,2,0.10005803488,EUROPE,2759794,52.37403,4.88969,P,Niederlande,NEU
+'Guatemala',de,Guatemala,#91e939,#91e939,2,0.100057978385,CENTRAL-AMERICA,3595528,15.5,-90.25,A,Guatemala,SCA
+'Guatemala-Stadt',de,Guatemala,#91e837,#91e837,2,0.100057978385,CENTRAL-AMERICA,3598132,14.64072,-90.51327,P,Guatemala,SCA
+'Lusaka',de,Zambia,#1673c6,#1673c6,2,0.100057630836,AFRICA,909137,-15.40669,28.28713,P,Sambia,ESAF
+'Sambia',de,Zambia,#1673c8,#1673c8,2,0.100057630836,AFRICA,895949,-14.33333,28.5,A,Sambia,ESAF
+'Lilongwe',de,Malawi,#1664c9,#1664c9,2,0.100056935453,AFRICA,927967,-13.96692,33.78725,P,Malawi,ESAF
+'Malawi',de,Malawi,#1664c9,#1664c9,2,0.100056935453,AFRICA,927384,-13.5,34.0,A,Malawi,ESAF
+'Nur-Sultan',de,Kazakhstan,#9781f1,#9781f1,2,0.100054715074,ASIA,1526273,51.1801,71.44598,P,Kasachstan,WSB
+'Kasachstan',de,Kazakhstan,#8b7bf0,#8b7bf0,2,0.100054715074,ASIA,1522867,48.0,68.0,A,Kasachstan,WSB
+'Santiago',de,Chile,#2ba111,#2ba111,2,0.100053392678,SOUTH-AMERICA,3871336,-33.45694,-70.64827,P,Chile,SWS
+'Chile',de,Chile,#2ea812,#2ea812,2,0.100053392678,SOUTH-AMERICA,3895114,-30.0,-71.0,A,Chile,SWS
+'Mali',de,Mali,#3ee9e3,#3ee9e3,2,0.100052417248,AFRICA,2453866,18.0,-2.0,A,Mali,SAH
+'Bamako',de,Mali,#33e8d0,#33e8d0,2,0.100052417248,AFRICA,2460596,12.60915,-7.97522,P,Mali,WAF
+'Bukarest',de,Romania,#74b9ef,#74b9ef,2,0.100051350687,EUROPE-AFRICA,683506,44.43225,26.10626,P,Rumänien,MED
+'Rumänien',de,Romania,#77bdef,#77bdef,2,0.100051350687,EUROPE,798549,46.0,25.0,A,Rumänien,WCE
+'Burkina Faso',de,Burkina Faso,#32e8e3,#32e8e3,2,0.100050628976,AFRICA,2361809,12.5,-1.66667,A,Burkina Faso,WAF
+'Ouagadougou',de,Burkina Faso,#32e8e3,#32e8e3,2,0.100050628976,AFRICA,2357048,12.36566,-1.53388,P,Burkina Faso,WAF
+'Colombo',de,Sri Lanka,#6627e7,#6627e7,2,0.100046146747,INDIAN,1248991,6.93548,79.84868,P,Sri Lanka,EIO
+'Sri Lanka',de,Sri Lanka,#6a29e7,#6a29e7,2,0.100046146747,INDIAN,1227603,7.75,80.75,A,Sri Lanka,BOB
+'Niger',de,Niger,#3ecfe9,#3ecfe9,2,0.100044557426,AFRICA,2440476,18.0,9.0,A,Niger,SAH
+'Niamey',de,Niger,#35e2e8,#35e2e8,2,0.100044557426,AFRICA,2440485,13.51366,2.1098,P,Niger,WAF
+'Taipeh',de,Taiwan,#eb4ce7,#eb4ce7,2,0.100042640583,ASIA,1668341,25.05306,121.52639,P,Taiwan,EAS
+'Taiwan',de,Taiwan,#ea4ae8,#ea4ae8,2,0.100042640583,ASIA,1668284,24.0,121.0,A,Taiwan,EAS
+'Canberra',de,Australia,#9d1159,#9d1159,2,0.100040012213,OCEANIA,2172517,-35.28346,149.12807,P,Australien,SAU
+'Elfenbeinküste',de,Ivory Coast,#29e7d5,#29e7d5,2,0.100039889539,AFRICA,2287781,8.0,-5.5,A,Elfenbeinküste,WAF
+'Yamoussoukro',de,Ivory Coast,#27e7d6,#27e7d6,2,0.100039889539,AFRICA,2279755,6.82055,-5.27674,P,Elfenbeinküste,WAF
+'Yaoundé',de,Cameroon,#21c0e6,#21c0e6,2,0.100039656988,AFRICA,2220957,3.86667,11.51667,P,Kamerun,CAF
+'Kamerun',de,Cameroon,#25bee6,#25bee6,2,0.100039656988,AFRICA,2233387,6.0,12.5,A,Kamerun,CAF
+'Nordkorea',de,North Korea,#ee6bdf,#ee6bdf,2,0.100039139221,ASIA,1873107,40.0,127.0,A,Nordkorea,EAS
+'Pjöngjang',de,North Korea,#ee69e1,#ee69e1,2,0.100039139221,ASIA,1871859,39.03385,125.75432,P,Nordkorea,EAS
+'Antananarivo',de,Madagascar,#1538be,#1538be,2,0.100038077298,AFRICA,1070940,-18.91368,47.53613,P,Madagaskar,MDG
+'Madagaskar',de,Madagascar,#1439bc,#1439bc,2,0.100038077298,AFRICA,1062947,-20.0,47.0,A,Madagaskar,MDG
+'Nepal',de,Nepal,#8f52eb,#8f52eb,2,0.100035602556,ASIA,1282988,28.0,84.0,A,Nepal,TIB
+'Kathmandu',de,Nepal,#9252eb,#9252eb,2,0.100035602556,ASIA,1283240,27.70169,85.3206,P,Nepal,TIB
+'Sanaa',de,Yemen,#3867e8,#3867e8,2,0.100035089336,ASIA,71137,15.35472,44.20667,P,Jemen,ARP
+'Jemen',de,Yemen,#395de9,#395de9,2,0.100035089336,ASIA,69543,15.5,47.5,A,Jemen,ARP
+'Caracas',de,Venezuela,#44e72e,#44e72e,2,0.100034637799,SOUTH-AMERICA,3646738,10.48801,-66.87919,P,Venezuela,NSA
+'Venezuela',de,Venezuela,#3ce729,#3ce729,2,0.100034637799,SOUTH-AMERICA,3625428,8.0,-66.0,A,Venezuela,NSA
+'Maputo',de,Mozambique,#135bb0,#135bb0,2,0.100033902946,AFRICA,1040652,-25.96553,32.58322,P,Mosambik,ESAF
+'Mosambik',de,Mozambique,#155cc0,#155cc0,2,0.100033902946,AFRICA,1036973,-18.25,35.0,A,Mosambik,ESAF
+'Accra',de,Ghana,#24e6e6,#24e6e6,2,0.100033594127,AFRICA,2306104,5.55602,-0.1969,P,Ghana,WAF
+'Ghana',de,Ghana,#2ae7e3,#2ae7e3,2,0.100033594127,AFRICA,2300660,8.1,-1.2,A,Ghana,WAF
+'Luanda',de,Angola,#17aad3,#17aad3,2,0.100032457245,AFRICA,2240449,-8.83682,13.23432,P,Angola,CAF
+'Angola',de,Angola,#1694cb,#1694cb,2,0.100032457245,AFRICA,3351879,-12.5,18.5,A,Angola,WSAF
+'Kuala Lumpur',de,Malaysia,#a91fe6,#a91fe6,2,0.10003171725,ASIA,1735161,3.1412,101.68653,P,Malaysia,SEA
+'Malaysia',de,Malaysia,#cd1ee6,#cd1ee6,2,0.10003171725,ASIA,1733045,2.5,112.5,A,Malaysia,SEA
+'Peru',de,Peru,#46d117,#46d117,2,0.100031260496,SOUTH-AMERICA,3932488,-10.0,-75.25,A,Peru,NWS
+'Lima',de,Peru,#4acc16,#4acc16,2,0.100031260496,SOUTH-AMERICA,3936456,-12.04318,-77.02824,P,Peru,NWS
+'Taschkent',de,Uzbekistan,#816dee,#816dee,2,0.100030344041,ASIA,1512569,41.26465,69.21627,P,Usbekistan,WCA
+'Usbekistan',de,Uzbekistan,#766eee,#766eee,2,0.100030344041,ASIA,1512440,41.66667,63.83333,A,Usbekistan,WCA
+'Saudi-Arabien',de,Saudi Arabia,#4c74eb,#4c74eb,2,0.100029673637,ASIA,102358,25.0,45.0,A,Saudi-Arabien,ARP
+'Riad',de,Saudi Arabia,#4b6feb,#4b6feb,2,0.100029673637,ASIA,108410,24.68773,46.72185,P,Saudi-Arabien,ARP
+'Rabat',de,Morocco,#5eeddd,#5eeddd,2,0.100027755313,EUROPE-AFRICA,2538475,34.01325,-6.83255,P,Marokko,MED
+'Marokko',de,Morocco,#53ebd2,#53ebd2,2,0.100027755313,AFRICA,2542007,28.5,-10.0,A,Marokko,SAH
+'Ottawa',de,Canada,#95ef76,#95ef76,2,0.100026984103,NORTH-AMERICA,6094817,45.41117,-75.69812,P,Kanada,ENA
+'Kanada',de,Canada,#e9f394,#e9f394,2,0.100026984103,NORTH-AMERICA,6251999,60.10867,-113.64258,A,Kanada,NWN
+'Kabul',de,Afghanistan,#755fed,#755fed,2,0.10002690169,ASIA,1138958,34.52813,69.17233,P,Afghanistan,WCA
+'Afghanistan',de,Afghanistan,#6b5cec,#6b5cec,2,0.10002690169,ASIA,1149361,33.0,66.0,A,Afghanistan,WCA
+'Polen',de,Poland,#83ccf1,#83ccf1,2,0.100026330654,EUROPE,798544,52.0,20.0,A,Polen,WCE
+'Warschau',de,Poland,#84cbf1,#84cbf1,2,0.100026330654,EUROPE,756135,52.22977,21.01178,P,Polen,WCE
+'Irak',de,Iraq,#5c83ec,#5c83ec,2,0.1000260189,ASIA,99237,33.0,44.0,A,Irak,WCA
+'Bagdad',de,Iraq,#5d82ed,#5d82ed,2,0.1000260189,ASIA,98182,33.34058,44.40088,P,Irak,WCA
+'Sudan',de,Sudan,#3a91e9,#3a91e9,2,0.100023922568,AFRICA,366755,16.0,30.0,A,Sudan,SAH
+'Khartum',de,Sudan,#3989e9,#3989e9,2,0.100023922568,AFRICA,379252,15.55177,32.53241,P,Sudan,SAH
+'Algerien',de,Algeria,#52e4eb,#52e4eb,2,0.100023680729,AFRICA,2589581,28.0,3.0,A,Algerien,SAH
+'Algier',de,Algeria,#64e6ed,#64e6ed,2,0.100023680729,EUROPE-AFRICA,2507480,36.73225,3.08746,P,Algerien,MED
+'Kampala',de,Uganda,#1a77e5,#1a77e5,2,0.10002340652,AFRICA,232422,0.31628,32.58219,P,Uganda,SEAF
+'Uganda',de,Uganda,#1c78e5,#1c78e5,2,0.10002340652,AFRICA,226074,1.25,32.5,A,Uganda,SEAF
+'Buenos Aires',de,Argentina,#119e15,#119e15,2,0.100022474687,SOUTH-AMERICA,3435910,-34.61315,-58.37723,P,Argentinien,SES
+'Argentinien',de,Argentina,#1ba011,#1ba011,2,0.100022474687,SOUTH-AMERICA,3865483,-34.0,-64.0,A,Argentinien,SES
+'Kiew',de,Ukraine,#80b7f0,#80b7f0,2,0.100022410211,EUROPE,703448,50.45466,30.5238,P,Ukraine,WCE
+'Spanien',de,Spain,#6beee5,#6beee5,2,0.100021402392,EUROPE-AFRICA,2510769,40.0,-4.0,A,Spanien,MED
+'Madrid',de,Spain,#6beee6,#6beee6,2,0.100021402392,EUROPE-AFRICA,3117735,40.4165,-3.70256,P,Spanien,MED
+'Kolumbien',de,Colombia,#4de621,#4de621,2,0.10002014152,SOUTH-AMERICA,3686110,4.0,-73.25,A,Kolumbien,NWS
+'Bogotá',de,Colombia,#50e622,#50e622,2,0.10002014152,SOUTH-AMERICA,3688689,4.60971,-74.08175,P,Kolumbien,NWS
+'Nairobi',de,Kenya,#1967e2,#1967e2,2,0.100019457899,AFRICA,184745,-1.28333,36.81667,P,Kenia,SEAF
+'Kenia',de,Kenya,#1b65e5,#1b65e5,2,0.100019457899,AFRICA,192950,1.0,38.0,A,Kenia,SEAF
+'Seoul',de,South Korea,#ee66de,#ee66de,2,0.100019366613,ASIA,1835848,37.566,126.9784,P,Südkorea,EAS
+'Südkorea',de,South Korea,#ed63db,#ed63db,2,0.100019366613,ASIA,1835841,36.5,127.75,A,Südkorea,EAS
+'Myanmar',de,Myanmar,#a744ea,#a744ea,2,0.100018619063,ASIA,1327865,21.0,96.0,A,Myanmar,SAS
+"'Nein, Pyi Taw'",en,Myanmar,#00E52D,#00E52D,2,0.100018619063,,-1,,,,,
+'Tansania',de,Tanzania,#1868d9,#1868d9,2,0.100017756203,AFRICA,149590,-6.0,35.0,A,Tansania,SEAF
+'Dodoma',de,Tanzania,#1866d8,#1866d8,2,0.100017756203,AFRICA,160196,-6.17221,35.73947,P,Tansania,SEAF
+'Südafrika',de,South Africa,#126daa,#126daa,2,0.10001730714,AFRICA,953987,-29.0,24.0,A,Südafrika,WSAF
+'Pretoria',de,South Africa,#1367b0,#1367b0,2,0.10001730714,AFRICA,964137,-25.74486,28.18783,P,Südafrika,ESAF
+'Vereinigtes Königreich',de,United Kingdom,#89f1ed,#89f1ed,2,0.100015040084,EUROPE,2635167,54.75844,-2.69531,A,Vereinigtes Königreich,NEU
+'London',de,United Kingdom,#82f1f0,#82f1f0,2,0.100015040084,EUROPE,2643743,51.50853,-0.12574,P,Vereinigtes Königreich,NEU
+'Frankreich',de,France,#77ebef,#77ebef,2,0.100014928215,EUROPE,3017382,46.0,2.0,A,Frankreich,WCE
+'Paris',de,France,#7decf0,#7decf0,2,0.100014928215,EUROPE,2988507,48.85341,2.3488,P,Frankreich,WCE
+'Thailand',de,Thailand,#b139e9,#b139e9,2,0.100014403302,ASIA,1605651,15.5,101.0,A,Thailand,SEA
+'Bangkok',de,Thailand,#ae35e8,#ae35e8,2,0.100014403302,ASIA,1609350,13.75398,100.50144,P,Thailand,SEA
+'Teheran',de,Iran,#6276ed,#6276ed,2,0.100012224899,ASIA,112931,35.69439,51.42151,P,Iran,WCA
+'Iran',de,Iran,#5a6bec,#5a6bec,2,0.100012224899,ASIA,130758,32.0,53.0,A,Iran,WCA
+'Truthahn',de,Turkey,#F547D7,#F547D7,2,0.100012147757,,-1,,,,,
+'Ankara',de,Turkey,#6aa6ee,#6aa6ee,2,0.100012147757,EUROPE-AFRICA,323786,39.91987,32.85427,P,Türkei,MED
+'Kinshasa',de,Democratic Republic of the Congo,#18aadc,#18aadc,2,0.10001189512,AFRICA,2314302,-4.32758,15.31357,P,Kongo,CAF
+'Demokratische Republik Kongo',de,Democratic Republic of the Congo,#1892e0,#1892e0,2,0.10001189512,AFRICA,203312,-2.5,23.5,A,Kongo,CAF
+'Hanoi',de,Vietnam,#c344ea,#c344ea,2,0.100010466777,ASIA,1581130,21.0245,105.84117,P,Vietnam,EAS
+'Vietnam',de,Vietnam,#c53ae9,#c53ae9,2,0.100010466777,ASIA,1562822,16.16667,107.83333,A,Vietnam,SEA
+'Kairo',de,Egypt,#569eec,#569eec,2,0.100010160165,EUROPE-AFRICA,360630,30.06263,31.24967,P,Ägypten,MED
+'Ägypten',de,Egypt,#509eeb,#509eeb,2,0.100010160165,AFRICA,357994,27.0,30.0,A,Ägypten,SAH
+'Manila',de,Philippines,#e837e5,#e837e5,2,0.100009376296,ASIA,1701668,14.6042,120.9822,P,Philippinen,SEA
+'Philippinen',de,Philippines,#e834e0,#e834e0,2,0.100009376296,ASIA,1694008,13.40882,122.56155,A,Philippinen,SEA
+'Äthiopien',de,Ethiopia,#2b6be7,#2b6be7,2,0.10000915545,AFRICA,337996,9.0,39.5,A,Äthiopien,NEAF
+'Addis Abeba',de,Ethiopia,#2b6ee7,#2b6ee7,2,0.10000915545,AFRICA,344979,9.02497,38.74689,P,Äthiopien,NEAF
+'Mexiko',de,Mexico,#baea48,#baea48,2,0.100007924509,CENTRAL-AMERICA,3996063,23.0,-102.0,A,Mexiko,NCA
+'Mexiko-Stadt',de,Mexico,#afe941,#afe941,2,0.100007924509,CENTRAL-AMERICA,3530597,19.42847,-99.12766,P,Mexiko,NCA
+'Japan',de,Japan,#ed62bf,#ed62bf,2,0.10000790332,ASIA,1861060,35.68536,139.75309,A,Japan,EAS
+'Tokio',de,Japan,#ed62bf,#ed62bf,2,0.10000790332,ASIA,1850147,35.6895,139.69171,P,Japan,EAS
+'Moskau',de,Russia,#8bb1f2,#8bb1f2,2,0.100006921467,EUROPE,524901,55.75222,37.61556,P,Russland,WCE
+'Bangladesch',de,Bangladesh,#9a4aea,#9a4aea,2,0.100006197475,ASIA,1210997,24.0,90.0,A,Bangladesch,SAS
+'Dhaka',de,Bangladesh,#9b49ea,#9b49ea,2,0.100006197475,ASIA,1185241,23.7104,90.40744,P,Bangladesch,SAS
+'Abuja',de,Nigeria,#2bd0e7,#2bd0e7,2,0.100005105304,AFRICA,2352778,9.05785,7.49508,P,Nigeria,WAF
+'Nigeria',de,Nigeria,#2dcee7,#2dcee7,2,0.100005105304,AFRICA,2328926,10.0,8.0,A,Nigeria,WAF
+'Brasilien',de,Brazil,#17d126,#17d126,2,0.100004773969,SOUTH-AMERICA,3469034,-10.0,-55.0,A,Brasilien,SAM
+'Brasilia',de,Brazil,#17d126,#17d126,2,0.100004773969,SOUTH-AMERICA,3469034,-10.0,-55.0,A,Brasilien,SAM
+'Islamabad',de,Pakistan,#7d5eed,#7d5eed,2,0.100004712202,ASIA,1176615,33.72148,73.04329,P,Pakistan,WCA
+'Pakistan',de,Pakistan,#6f56ec,#6f56ec,2,0.100004712202,ASIA,1168579,30.0,70.0,A,Pakistan,WCA
+'Jakarta',de,Indonesia,#ae18d8,#ae18d8,2,0.100003736035,ASIA,1642911,-6.21462,106.84513,P,Indonesien,SEA
+'Indonesien',de,Indonesia,#db18db,#db18db,2,0.100003736035,ASIA,1643084,-5.0,120.0,A,Indonesien,SEA
+'Washington',de,United States,#8eee68,#8eee68,2,0.100003056539,NORTH-AMERICA,4140963,38.89511,-77.03637,P,USA,ENA
+'Vereinigte Staaten',de,United States,#bfee6a,#bfee6a,2,0.100003056539,NORTH-AMERICA,6252001,39.76,-98.5,A,USA,CNA
+'Indien',de,India,#7a46ea,#7a46ea,2,0.100000739307,ASIA,1269750,22.0,79.0,A,Indien,SAS
+'Neu-Delhi',de,India,#7f53eb,#7f53eb,2,0.100000739307,ASIA,1261481,28.62137,77.2148,P,Indien,SAS
+'China',de,China,#ca60ed,#ca60ed,2,0.100000708326,ASIA,1814991,35.0,105.0,A,China,EAS
+'Peking',de,China,#e66aee,#e66aee,2,0.100000708326,ASIA,1816670,39.9075,116.39723,P,China,EAS
