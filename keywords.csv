@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geonames,latitude,longitude,geotype,country,ipcc
-'Bonaire',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,2,0.900000000000,,-1,,,,,
 'Malediven',de,Maldives,#B2DAB1,#B2DAB1,2,0.900000000000,,-1,,,,,
 'Ankara',de,Turkey,#6aa6ee,#6aa6ee,2,0.890075221981,EUROPE-AFRICA,323786,39.919870000000,32.854270000000,P,Türkei,MED
 'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,2,0.890000000000,CENTRAL-AMERICA,3577718,18.500000000000,-64.500000000000,A,Britische Jungferninseln,CAR
@@ -20,18 +19,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geo
 'Weihnachtsinsel',de,Christmas Island,#a317d0,#a317d0,2,0.766666666667,INDIAN,2078138,-10.500000000000,105.666670000000,A,Weihnachtsinsel,SIO
 'Saba',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,1,0.765000150000,,-1,,,,,
 'Road Town',de,British Virgin Islands,#59BF10,#59BF10,1,0.765000030000,,-1,,,,,
+'Saint Eustatius',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,1,0.765000000000,,-1,,,,,
+'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.765000000000,,-1,,,,,
+'Heiliger Eustatius',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,1,0.765000000000,,-1,,,,,
+'Bonaire',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,1,0.765000000000,,-1,,,,,
+'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.765000000000,,-1,,,,,
 'Bonaire; Heiliger Eustatius und Saba',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,1,0.765000000000,,-1,,,,,
 'Heard-Insel und McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.765000000000,,-1,,,,,
-'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.765000000000,,-1,,,,,
-'Saint Eustatius',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,1,0.765000000000,,-1,,,,,
-'Heiliger Eustatius',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,1,0.765000000000,,-1,,,,,
-'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.765000000000,,-1,,,,,
 'Vatikanstadt',de,Vatican,#6ed4ee,#6ed4ee,2,0.739062533919,EUROPE-AFRICA,3164670,41.902250000000,12.453300000000,A,Vatikanstadt,MED
-'Südgeorgien und die Südlichen Sandwichinseln',de,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.722500000000,SOUTHERN,3474415,-56.000000000000,-33.000000000000,A,Südgeorgien und die Südlichen Sandwichinseln,SOO
-'Pitcairn',de,Pitcairn,#b29713,#b29713,1,0.722500000000,PACIFIC,4030699,-25.066670000000,-130.100000000000,A,Pitcairninseln,SPO
 'Bouvetinsel',de,Bouvet Island,#0d7076,#0d7076,1,0.722500000000,SOUTHERN,3371123,-54.433330000000,3.400000000000,A,Bouvetinsel,SOO
-'Kokosinseln',de,Cocos Islands,#8616cc,#8616cc,1,0.722500000000,INDIAN,1547376,-12.164200000000,96.873320000000,A,Kokosinseln,SIO
+'Pitcairn',de,Pitcairn,#b29713,#b29713,1,0.722500000000,PACIFIC,4030699,-25.066670000000,-130.100000000000,A,Pitcairninseln,SPO
+'Südgeorgien und die Südlichen Sandwichinseln',de,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.722500000000,SOUTHERN,3474415,-56.000000000000,-33.000000000000,A,Südgeorgien und die Südlichen Sandwichinseln,SOO
 'Westinsel',de,Cocos Islands,#bae7f7,#bae7f7,1,0.722500000000,ARCTIC,2728573,78.750000000000,16.000000000000,T,Spitzbergen und Jan Mayen,ARO
+'Kokosinseln',de,Cocos Islands,#8616cc,#8616cc,1,0.722500000000,INDIAN,1547376,-12.164200000000,96.873320000000,A,Kokosinseln,SIO
 'Grytviken',de,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.722500000000,SOUTHERN,3426466,-54.281110000000,-36.509200000000,P,Südgeorgien und die Südlichen Sandwichinseln,SOO
 'Adamstown',de,Pitcairn,#b29713,#b29713,1,0.722500000000,PACIFIC,4030723,-25.065970000000,-130.101470000000,P,Pitcairninseln,SPO
 'Norfolkinsel',de,Norfolk Island,#aa1231,#aa1231,2,0.647045951860,PACIFIC,2155115,-29.033330000000,167.950000000000,A,Norfolkinsel,SPO
@@ -41,8 +41,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geo
 'Spitzbergen und Jan Mayen',de,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,2,0.492156862745,ARCTIC,2729907,78.223340000000,15.646890000000,P,Spitzbergen und Jan Mayen,ARO
 'Stanley',de,Falkland Islands,#0d7c11,#0d7c11,2,0.479075056861,SOUTH-AMERICA,3426691,-51.693820000000,-57.857010000000,P,Falklandinseln,SSA
 'Falklandinseln',de,Falkland Islands,#0d7b0f,#0d7b0f,2,0.479075056861,SOUTH-AMERICA,3474414,-51.750000000000,-59.166670000000,A,Falklandinseln,SSA
-'Britisches Territorium im Indischen Ozean',de,British Indian Ocean Territory,#3e18d9,#3e18d9,2,0.350000000000,INDIAN,1282588,-6.000000000000,72.000000000000,A,Britisches Territorium im Indischen Ozean,EIO
 'Diego Garcia',de,British Indian Ocean Territory,#3f17d6,#3f17d6,2,0.350000000000,INDIAN,1282575,-7.312640000000,72.451610000000,T,Britisches Territorium im Indischen Ozean,EIO
+'Britisches Territorium im Indischen Ozean',de,British Indian Ocean Territory,#3e18d9,#3e18d9,2,0.350000000000,INDIAN,1282588,-6.000000000000,72.000000000000,A,Britisches Territorium im Indischen Ozean,EIO
 'Saint-Pierre',de,Saint Pierre and Miquelon,#93c2f3,#93c2f3,2,0.242612664005,EUROPE,498817,59.938630000000,30.314130000000,P,Russland,NEU
 'Saint-Pierre und Miquelon',de,Saint Pierre and Miquelon,#79f080,#79f080,2,0.242612664005,NORTH-AMERICA,3424932,46.833330000000,-56.333330000000,A,St. Pierre und Miquelon,ENA
 'St. Helena',de,Saint Helena,#15c4b4,#15c4b4,2,0.234048257373,ATLANTIC,3370751,-15.950000000000,-5.700000000000,A,St. Helena,SAO
@@ -51,8 +51,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geo
 'Gustavia',de,Saint Barthelemy,#46e93e,#46e93e,2,0.218343195266,CENTRAL-AMERICA,3579132,17.896180000000,-62.849780000000,P,St. Barthélemy,CAR
 'Montserrat',de,Montserrat,#42e93b,#42e93b,2,0.207054919174,CENTRAL-AMERICA,3578097,16.750000000000,-62.200000000000,A,Montserrat,CAR
 'Plymouth',de,Montserrat,#95101d,#95101d,2,0.207054919174,OCEANIA,2186239,-39.066670000000,174.083330000000,P,Neuseeland,NZ
-'Funafuti',de,Tuvalu,#d4171a,#d4171a,2,0.186896072298,PACIFIC,2110394,-8.524250000000,179.194170000000,P,Tuvalu,EPO
 'Tuvalu',de,Tuvalu,#d4171a,#d4171a,2,0.186896072298,PACIFIC,2110297,-8.517190000000,179.144780000000,A,Tuvalu,EPO
+'Funafuti',de,Tuvalu,#d4171a,#d4171a,2,0.186896072298,PACIFIC,2110394,-8.524250000000,179.194170000000,P,Tuvalu,EPO
 'Nauru',de,Nauru,#e41945,#e41945,2,0.178715365239,PACIFIC,2110425,-0.517000000000,166.933000000000,A,Nauru,EPO
 'Yaren',de,Nauru,#e41945,#e41945,2,0.178715365239,PACIFIC,7626461,-0.550850000000,166.925200000000,P,Nauru,EPO
 'Das Tal',de,Anguilla,#18d968,#18d968,2,0.175448921080,SOUTH-AMERICA,12109014,-5.823100000000,-35.189640000000,L,Brasilien,NES
