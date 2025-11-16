@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geonames,latitude,longitude,geotype,country,ipcc
-'Saba',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,2,0.900000000000,,-1,,,,,
 'Heiliger Eustatius',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,2,0.900000000000,,-1,,,,,
 'Bonaire',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,2,0.900000000000,,-1,,,,,
 'Bonaire; Heiliger Eustatius und Saba',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,2,0.900000000000,,-1,,,,,
@@ -10,20 +9,21 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geo
 'Reunion',de,Reunion,#A9621E,#A9621E,2,0.900000000000,,-1,,,,,
 'Türkei',de,Turkey,#F547D7,#F547D7,2,0.900000000000,,-1,,,,,
 'Road Town',de,British Virgin Islands,#59BF10,#59BF10,2,0.900000000000,,-1,,,,,
+'McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.890000000000,,-1,,,,,
 'Ostjerusalem',de,Palestinian Territory,#5a96ec,#5a96ec,2,0.890000000000,EUROPE-AFRICA,7303419,31.783360000000,35.233880000000,P,Palästina,MED
 'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,2,0.890000000000,CENTRAL-AMERICA,3577718,18.500000000000,-64.500000000000,A,Britische Jungferninseln,CAR
 'Heard-Insel',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.890000000000,,-1,,,,,
-'McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.890000000000,,-1,,,,,
+'Ankara',de,Turkey,#6aa6ee,#6aa6ee,2,0.890000000000,EUROPE-AFRICA,323786,39.919870000000,32.854270000000,P,Türkei,MED
 'Bolivien',de,Bolivia,#24c215,#24c215,2,0.890000000000,SOUTH-AMERICA,3923057,-17.000000000000,-65.000000000000,A,Bolivien,SAM
 'Myanmar',de,Myanmar,#a744ea,#a744ea,2,0.890000000000,ASIA,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
-'Ankara',de,Turkey,#6aa6ee,#6aa6ee,2,0.890000000000,EUROPE-AFRICA,323786,39.919870000000,32.854270000000,P,Türkei,MED
 'Port-aux-Francais',de,French Southern Territories,#210e80,#210e80,1,0.890000000000,SOUTHERN,1546102,-49.349160000000,70.219370000000,P,Französische Süd- und Antarktisgebiete,SOO
 'Antarktis',de,Antarctica,#073546,#073546,3,0.839387797477,POLAR,6255152,-78.158560000000,16.406260000000,L,,EAN
 'Palästinensisches Gebiet',de,Palestinian Territory,#BC87DE,#BC87DE,2,0.816350135000,,-1,,,,,
 'Vatikan',de,Vatican,#6ed4ee,#6ed4ee,2,0.811513592948,EUROPE-AFRICA,3164670,41.902250000000,12.453300000000,A,Vatikanstadt,MED
 'Tokelau',de,Tokelau,#d23017,#d23017,2,0.782128240109,PACIFIC,4031074,-9.167000000000,-171.830000000000,A,Tokelau,EPO
-'Weihnachtsinsel',de,Christmas Island,#a317d0,#a317d0,2,0.766666666667,INDIAN,2078138,-10.500000000000,105.666670000000,A,Weihnachtsinsel,SIO
 'Flying Fish Cove',de,Christmas Island,#a417d0,#a417d0,2,0.766666666667,INDIAN,2078127,-10.421720000000,105.679120000000,P,Weihnachtsinsel,SIO
+'Weihnachtsinsel',de,Christmas Island,#a317d0,#a317d0,2,0.766666666667,INDIAN,2078138,-10.500000000000,105.666670000000,A,Weihnachtsinsel,SIO
+'Saba',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,1,0.765000150000,,-1,,,,,
 'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.765000000000,,-1,,,,,
 'Vatikanstadt',de,Vatican,#6ed4ee,#6ed4ee,2,0.739062533919,EUROPE-AFRICA,3164670,41.902250000000,12.453300000000,A,Vatikanstadt,MED
 'Kokosinseln',de,Cocos Islands,#8616cc,#8616cc,1,0.722500000000,INDIAN,1547376,-12.164200000000,96.873320000000,A,Kokosinseln,SIO
