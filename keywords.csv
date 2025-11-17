@@ -17,13 +17,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Tokelau',de,Tokelau,#d23017,#d23017,2,0.782128240109,PACIFIC,4236941-1,4031074,-9.167000000000,-171.830000000000,A,Tokelau,EPO
 'Weihnachtsinsel',de,Christmas Island,#a317d0,#a317d0,2,0.766666666667,INDIAN,4219436-2,2078138,-10.500000000000,105.666670000000,A,Christmas Island,SIO
 'Flying Fish Cove',de,Christmas Island,#a417d0,#a417d0,2,0.766666666667,INDIAN,,2078127,-10.421720000000,105.679120000000,P,Christmas Island,SIO
-'Saba',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,1,0.765000150000,CENTRAL-AMERICA,4681662-8,7626844,12.212860000000,-68.294450000000,A,"Bonaire, Sint Eustatius, and Saba",CAR
+'Bonaire',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,1,0.99000,,,-1,12.212860000000,-68.294450000000,,,
+'Saint Eustatius',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,1,0.99000,,,-1,12.212860000000,-68.294450000000,,,
 'Road Town',de,British Virgin Islands,#59BF10,#59BF10,1,0.765000030000,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,British Virgin Islands,CAR
-'Heiliger Eustatius',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,1,0.765000000000,CENTRAL-AMERICA,,7626844,12.212860000000,-68.294450000000,A,"Bonaire, Sint Eustatius, and Saba",CAR
-'Bonaire',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,1,0.765000000000,CENTRAL-AMERICA,4007633-7,7626844,12.212860000000,-68.294450000000,A,"Bonaire, Sint Eustatius, and Saba",CAR
-'Saint Eustatius',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,1,0.765000000000,CENTRAL-AMERICA,4101202-1,7626844,12.212860000000,-68.294450000000,A,"Bonaire, Sint Eustatius, and Saba",CAR
 'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.765000000000,SOUTHERN,4510620-4,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
-'Bonaire; Heiliger Eustatius und Saba',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,1,0.765000000000,CENTRAL-AMERICA,,7626844,12.212860000000,-68.294450000000,A,"Bonaire, Sint Eustatius, and Saba",CAR
 'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.765000000000,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'Heard-Insel und McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.760000000000,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Heard-Insel',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.756982025168,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
