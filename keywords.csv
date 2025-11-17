@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geonames,latitude,longitude,geotype,country,ipcc
-'Heard-Insel',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.890000000000,,-1,,,,,
-'Port-aux-Francais',de,French Southern Territories,#210e80,#210e80,1,0.890000000000,SOUTHERN,1546102,-49.349160000000,70.219370000000,P,Französische Süd- und Antarktisgebiete,SOO
-'Bolivien',de,Bolivia,#24c215,#24c215,1,0.890000000000,SOUTH-AMERICA,3923057,-17.000000000000,-65.000000000000,A,Bolivien,SAM
-'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,2,0.890000000000,CENTRAL-AMERICA,3577718,18.500000000000,-64.500000000000,A,Britische Jungferninseln,CAR
 'Ostjerusalem',de,Palestinian Territory,#5a96ec,#5a96ec,2,0.890000000000,EUROPE-AFRICA,7303419,31.783360000000,35.233880000000,P,Palästina,MED
-'Myanmar',de,Myanmar,#a744ea,#a744ea,2,0.890000000000,ASIA,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
+'Bolivien',de,Bolivia,#24c215,#24c215,1,0.890000000000,SOUTH-AMERICA,3923057,-17.000000000000,-65.000000000000,A,Bolivien,SAM
 'McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.890000000000,,-1,,,,,
+'Myanmar',de,Myanmar,#a744ea,#a744ea,2,0.890000000000,ASIA,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
+'Port-aux-Francais',de,French Southern Territories,#210e80,#210e80,1,0.890000000000,SOUTHERN,1546102,-49.349160000000,70.219370000000,P,Französische Süd- und Antarktisgebiete,SOO
+'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,2,0.890000000000,CENTRAL-AMERICA,3577718,18.500000000000,-64.500000000000,A,Britische Jungferninseln,CAR
+'Heard-Insel',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.890000000000,,-1,,,,,
 'Türkei',de,Turkey,#F547D7,#F547D7,3,0.879738502204,,-1,,,,,
 'Ankara',de,Turkey,#6aa6ee,#6aa6ee,3,0.875153947320,EUROPE-AFRICA,323786,39.919870000000,32.854270000000,P,Türkei,MED
 'Naypyidaw',de,Myanmar,#00E52D,#00E52D,2,0.865450045000,,-1,,,,,
@@ -27,12 +27,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geo
 'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.765000000000,,-1,,,,,
 'Saint Eustatius',de,Bonaire; Saint Eustatius and Saba ,#B949C3,#B949C3,1,0.765000000000,,-1,,,,,
 'Vatikanstadt',de,Vatican,#6ed4ee,#6ed4ee,2,0.739062533919,EUROPE-AFRICA,3164670,41.902250000000,12.453300000000,A,Vatikanstadt,MED
-'Bouvetinsel',de,Bouvet Island,#0d7076,#0d7076,1,0.722500000000,SOUTHERN,3371123,-54.433330000000,3.400000000000,A,Bouvetinsel,SOO
-'Grytviken',de,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.722500000000,SOUTHERN,3426466,-54.281110000000,-36.509200000000,P,Südgeorgien und die Südlichen Sandwichinseln,SOO
-'Adamstown',de,Pitcairn,#b29713,#b29713,1,0.722500000000,PACIFIC,4030723,-25.065970000000,-130.101470000000,P,Pitcairninseln,SPO
 'Südgeorgien und die Südlichen Sandwichinseln',de,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.722500000000,SOUTHERN,3474415,-56.000000000000,-33.000000000000,A,Südgeorgien und die Südlichen Sandwichinseln,SOO
-'Westinsel',de,Cocos Islands,#bae7f7,#bae7f7,1,0.722500000000,ARCTIC,2728573,78.750000000000,16.000000000000,T,Spitzbergen und Jan Mayen,ARO
+'Grytviken',de,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.722500000000,SOUTHERN,3426466,-54.281110000000,-36.509200000000,P,Südgeorgien und die Südlichen Sandwichinseln,SOO
+'Bouvetinsel',de,Bouvet Island,#0d7076,#0d7076,1,0.722500000000,SOUTHERN,3371123,-54.433330000000,3.400000000000,A,Bouvetinsel,SOO
 'Kokosinseln',de,Cocos Islands,#8616cc,#8616cc,1,0.722500000000,INDIAN,1547376,-12.164200000000,96.873320000000,A,Kokosinseln,SIO
+'Adamstown',de,Pitcairn,#b29713,#b29713,1,0.722500000000,PACIFIC,4030723,-25.065970000000,-130.101470000000,P,Pitcairninseln,SPO
+'Westinsel',de,Cocos Islands,#bae7f7,#bae7f7,1,0.722500000000,ARCTIC,2728573,78.750000000000,16.000000000000,T,Spitzbergen und Jan Mayen,ARO
 'Pitcairn',de,Pitcairn,#b29713,#b29713,1,0.722500000000,PACIFIC,4030699,-25.066670000000,-130.100000000000,A,Pitcairninseln,SPO
 'Norfolkinsel',de,Norfolk Island,#aa1231,#aa1231,2,0.647045951860,PACIFIC,2155115,-29.033330000000,167.950000000000,A,Norfolkinsel,SPO
 'Alofi',de,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
