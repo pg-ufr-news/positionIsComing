@@ -1,58 +1,150 @@
 ,phrase,label,sentiment,subjectivity,language,count
+“,“,MISC,,,de,29
 "Link
 ","Link
-",MISC,,,de,7
-“,“,MISC,,,de,5
+",MISC,,,de,13
+britische,britische,MISC,,,de,8
+britischer,britischer,MISC,,,de,6
+türkischen,türkischen,MISC,,,de,5
 Polarstern,Polarstern,MISC,,,de,4
-britischer,britischer,MISC,,,de,3
+Reformation,Reformation,MISC,,,de,4
+Kalenderblatt,Kalenderblatt,MISC,0.0,0.0,de,3
+israelische,israelische,MISC,,,de,3
+protestantischen,protestantischen,MISC,,,de,3
+türkische,türkische,MISC,,,de,3
+Hamburger,Hamburger,MISC,,,de,3
+Katastrophen“,Katastrophen“,MISC,,,de,2
+römischen,römischen,MISC,,,de,2
+Miterlöserin“,Miterlöserin“,MISC,,,de,2
 jüdischen,jüdischen,MISC,,,de,2
-Krieg,Krieg,MISC,,,de,2
-ungarische,ungarische,MISC,,,de,2
-protestantischen,protestantischen,MISC,,,de,2
-deutscher,deutscher,MISC,,,de,2
+Leipziger,Leipziger,MISC,,,de,2
 Der Synodale Weg,Der Synodale Weg,MISC,,,de,2
-Vorwurfs,Vorwurfs,MISC,,,de,2
+deutscher,deutscher,MISC,,,de,2
+Sixtinischen Kapelle Geschichte,Sixtinischen Kapelle Geschichte,MISC,,,de,2
+taiwanische,taiwanische,MISC,,,de,2
+Deutsche,Deutsche,MISC,,,de,2
 Mikroplastik,Mikroplastik,MISC,0.7,1.0,de,2
-Reformation,Reformation,MISC,,,de,2
+Krieg,Krieg,MISC,,,de,2
+Kirche-Sein,Kirche-Sein,MISC,,,de,2
+ungarische,ungarische,MISC,,,de,2
+Weltmissionssonntags,Weltmissionssonntags,MISC,,,de,2
+katholischen,katholischen,MISC,,,de,2
+Vorwurfs,Vorwurfs,MISC,,,de,2
+bulgarische,bulgarische,MISC,,,de,2
+Papst-Motorrad“,Papst-Motorrad“,MISC,,,de,2
+Reise in die Türkei,Reise in die Türkei,MISC,,,de,2
+soziale,soziale,MISC,,,de,2
+Christkönigsfest,Christkönigsfest,MISC,,,de,2
+Zeit,Zeit,MISC,,,de,2
 Antarktis-Kommission,Antarktis-Kommission,MISC,,,de,2
-britische,britische,MISC,,,de,2
-Richter,Richter,MISC,,,de,1
-österreichische,österreichische,MISC,,,de,1
-Omega-3-Pillen,Omega-3-Pillen,MISC,,,de,1
-See-Elefanten,See-Elefanten,MISC,0.0,0.0,de,1
-P…,P…,MISC,,,de,1
-Expeditionsstart“,Expeditionsstart“,MISC,,,de,1
-Antarktis“,Antarktis“,MISC,,,de,1
-Alfred-Wegener-Instituts,Alfred-Wegener-Instituts,MISC,,,de,1
-Der Anblick unendlicher Eismassen,Der Anblick unendlicher Eismassen,MISC,,,de,1
-O…,O…,MISC,,,de,1
-katholischen,katholischen,MISC,,,de,1
-ersten T…,ersten T…,MISC,,,de,1
-Wiedervereinigung,Wiedervereinigung,MISC,,,de,1
-spanischen,spanischen,MISC,,,de,1
-Päpstliche Schweizergarde,Päpstliche Schweizergarde,MISC,,,de,1
-Eine ganz normale Familie“,Eine ganz normale Familie“,MISC,,,de,1
-Eine ganz normale Familie…,Eine ganz normale Familie…,MISC,,,de,1
-LSD-Trip,LSD-Trip,MISC,,,de,1
-Österreichische,Österreichische,MISC,,,de,1
-Klo…,Klo…,MISC,,,de,1
-Kirche“,Kirche“,MISC,,,de,1
-britischen,britischen,MISC,,,de,1
-Englischer,Englischer,MISC,,,de,1
-englischer,englischer,MISC,,,de,1
-Die zauberhafte Welt der Springschwänze,Die zauberhafte Welt der Springschwänze,MISC,,,de,1
-katholisches,katholisches,MISC,,,de,1
-Zweiten Vatikanischen Konzils,Zweiten Vatikanischen Konzils,MISC,,,de,1
-christliche,christliche,MISC,,,de,1
-Eiskalter Wettlauf,Eiskalter Wettlauf,MISC,,,de,1
-Angriff auf die Wissenschaft,Angriff auf die Wissenschaft,MISC,,,de,1
-Seven Summits,Seven Summits,MISC,,,de,1
-deutsche,deutsche,MISC,,,de,1
-Deutsche,Deutsche,MISC,,,de,1
-Programm für Reise,Programm für Reise,MISC,,,de,1
-Ungarns Premier Orbán,Ungarns Premier Orbán,MISC,,,de,1
-Schutz des Lebens in der Antarktis,Schutz des Lebens in der Antarktis,MISC,,,de,1
-Tier…,Tier…,MISC,,,de,1
+Droht im Sudan,Droht im Sudan,MISC,,,de,1
 Hurrikan Melissa,Hurrikan Melissa,MISC,,,de,1
+österreichische,österreichische,MISC,,,de,1
+Österreichische,Österreichische,MISC,,,de,1
+Hochfest Allerheiligen auf dem Petersplatz,Hochfest Allerheiligen auf dem Petersplatz,MISC,,,de,1
+na…,na…,MISC,,,de,1
+Inselhopping im Inselparadies,Inselhopping im Inselparadies,MISC,,,de,1
+The Maverick…,The Maverick…,MISC,,,de,1
+S…,S…,MISC,,,de,1
+O…,O…,MISC,,,de,1
 kubanischen,kubanischen,MISC,,,de,1
+Merz,Merz,MISC,,,de,1
+Kirche“,Kirche“,MISC,,,de,1
+Ein Urlaub auf den Malediven,Ein Urlaub auf den Malediven,MISC,,,de,1
+Klo…,Klo…,MISC,,,de,1
+Deutsch-türkische,Deutsch-türkische,MISC,,,de,1
+Antarktis“,Antarktis“,MISC,,,de,1
+Beitritt,Beitritt,MISC,,,de,1
+vatikanischen,vatikanischen,MISC,,,de,1
+Klassenverbleib“,Klassenverbleib“,MISC,,,de,1
+Türkei“,Türkei“,MISC,,,de,1
+VfB-Kapitän,VfB-Kapitän,MISC,,,de,1
+Fußball“,Fußball“,MISC,,,de,1
+"Europa
+","Europa
+",MISC,,,de,1
+Frieden,Frieden,MISC,,,de,1
+LSD-Trip,LSD-Trip,MISC,,,de,1
+Oppos…,Oppos…,MISC,,,de,1
+Hunderte Jahre Haft für Erdogan-Gegner Imamoglu,Hunderte Jahre Haft für Erdogan-Gegner Imamoglu,MISC,,,de,1
+Eine ganz normale Familie…,Eine ganz normale Familie…,MISC,,,de,1
+Eine ganz normale Familie“,Eine ganz normale Familie“,MISC,,,de,1
+Päpstliche Schweizergarde,Päpstliche Schweizergarde,MISC,,,de,1
+spanischen,spanischen,MISC,,,de,1
+Kirche-Sein“,Kirche-Sein“,MISC,,,de,1
+Tref…,Tref…,MISC,,,de,1
+Mordurteil“,Mordurteil“,MISC,,,de,1
+Wiedervereinigung,Wiedervereinigung,MISC,,,de,1
+Tag für Tag,Tag für Tag,MISC,,,de,1
+"Willibrord
+","Willibrord
+",MISC,,,de,1
+ersten T…,ersten T…,MISC,,,de,1
+Richter,Richter,MISC,,,de,1
+Alfred-Wegener-Instituts,Alfred-Wegener-Instituts,MISC,,,de,1
+Alles über das Wiedersehen,Alles über das Wiedersehen,MISC,,,de,1
+Expeditionsstart“,Expeditionsstart“,MISC,,,de,1
+P…,P…,MISC,,,de,1
+Zentralstelle Extremismus Sachsen …,Zentralstelle Extremismus Sachsen …,MISC,,,de,1
+Omega-3-Pillen,Omega-3-Pillen,MISC,,,de,1
+Wiedersehen von Are You The One,Wiedersehen von Are You The One,MISC,,,de,1
+Gaza-Konflikt,Gaza-Konflikt,MISC,0.0,0.0,de,1
+Love“,Love“,MISC,,,de,1
+christliche,christliche,MISC,,,de,1
+katholisches,katholisches,MISC,,,de,1
+Die zauberhafte Welt der Springschwänze,Die zauberhafte Welt der Springschwänze,MISC,,,de,1
+englischer,englischer,MISC,,,de,1
+Englischer,Englischer,MISC,,,de,1
+britischen,britischen,MISC,,,de,1
+Der Anblick unendlicher Eismassen,Der Anblick unendlicher Eismassen,MISC,,,de,1
+Donners…,Donners…,MISC,,,de,1
+Tote im Gazastreifen,Tote im Gazastreifen,MISC,,,de,1
+Waffenruhe,Waffenruhe,MISC,,,de,1
+vatikanische,vatikanische,MISC,,,de,1
+Seven Summits,Seven Summits,MISC,,,de,1
+e…,e…,MISC,,,de,1
+Satans“,Satans“,MISC,,,de,1
+Schutz des Lebens in der Antarktis,Schutz des Lebens in der Antarktis,MISC,,,de,1
+Sep…,Sep…,MISC,,,de,1
+signiertes Motorrad,signiertes Motorrad,MISC,,,de,1
+Jesus Bikern,Jesus Bikern,MISC,,,de,1
+Tier…,Tier…,MISC,,,de,1
+See-Elefanten,See-Elefanten,MISC,0.0,0.0,de,1
+Buckingh…,Buckingh…,MISC,,,de,1
+Google Chrome,Google Chrome,MISC,,,de,1
+Englisch,Englisch,MISC,,,de,1
+islamistische,islamistische,MISC,,,de,1
+v…,v…,MISC,,,de,1
+Spiele,Spiele,MISC,,,de,1
+Zweiten Vatikanischen Konzils,Zweiten Vatikanischen Konzils,MISC,,,de,1
+Türkisches,Türkisches,MISC,,,de,1
+Are You The One,Are You The One,MISC,,,de,1
+Oppositions-Parteitag,Oppositions-Parteitag,MISC,,,de,1
+AYTO“,AYTO“,MISC,,,de,1
+RTL+,RTL+,MISC,,,de,1
+Rettungskräfte bargen am Mittag,Rettungskräfte bargen am Mittag,MISC,,,de,1
+Alle sind auf Saint Tropez,Alle sind auf Saint Tropez,MISC,,,de,1
+katholische,katholische,MISC,,,de,1
+Royaler Besuch …,Royaler Besuch …,MISC,,,de,1
+Ungarns Premier Orbán,Ungarns Premier Orbán,MISC,,,de,1
 Frieden“,Frieden“,MISC,,,de,1
+Programm für Reise,Programm für Reise,MISC,,,de,1
+israelischen,israelischen,MISC,,,de,1
+deutsche,deutsche,MISC,,,de,1
+p…,p…,MISC,,,de,1
+Acht Inselreiseziele,Acht Inselreiseziele,MISC,,,de,1
+g…,g…,MISC,,,de,1
+The Ultimate DAMAC Islander“,The Ultimate DAMAC Islander“,MISC,,,de,1
+Kurdenkonflikt“,Kurdenkonflikt“,MISC,,,de,1
+Litu…,Litu…,MISC,,,de,1
+Ex-Miss Germany,Ex-Miss Germany,MISC,,,de,1
+Miss Germany los,Miss Germany los,MISC,,,de,1
+"Malediven-Reise 
+","Malediven-Reise 
+",MISC,,,de,1
+Privatpool & All Inclusive ️.,Privatpool & All Inclusive ️.,MISC,,,de,1
+Angriff auf die Wissenschaft,Angriff auf die Wissenschaft,MISC,,,de,1
+Eiskalter Wettlauf,Eiskalter Wettlauf,MISC,,,de,1
+türkisches,türkisches,MISC,,,de,1
+Jahr 2023,Jahr 2023,MISC,,,de,1
+Isman…,Isman…,MISC,,,de,1

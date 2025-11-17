@@ -1,35 +1,93 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Kirche,Kirche,ORG,0.0,0.0,de,2
-Dikasterium für die Glaubenslehre,Dikasterium für die Glaubenslehre,ORG,-0.7125,0.0,de,2
-Kirche von England,Kirche von England,ORG,-0.35,0.0,de,2
+Kirche,Kirche,ORG,0.29999999999999993,0.0,de,7
+PKK,PKK,ORG,-0.2333333333333333,0.0,de,6
+EU,EU,ORG,0.2,0.2,de,5
+Kirche von England,Kirche von England,ORG,-0.4666666666666666,0.0,de,3
+CDU,CDU,ORG,0.2833333333333333,0.0,de,3
+DAMAC,DAMAC,ORG,0.0,0.0,de,2
+katholischen Bildungswesens,katholischen Bildungswesens,ORG,0.0,0.0,de,2
 Mahmud Abbas,Mahmud Abbas,ORG,0.0,0.0,de,2
-Schweizergardisten,Schweizergardisten,ORG,0.0,0.0,de,1
-NHC,NHC,ORG,-0.7,0.0,de,1
+katholische Kirche,katholische Kirche,ORG,0.7,0.0,de,2
+katholischer Kirche,katholischer Kirche,ORG,0.7,0.0,de,2
+katholische Kirche des heiligen Papstes,katholische Kirche des heiligen Papstes,ORG,0.7,0.0,de,2
+GLOBE NEWSWIRE,GLOBE NEWSWIRE,ORG,0.0,0.0,de,2
+"Link
+","Link
+",ORG,-0.7,0.0,de,2
+Dikasterium für die Glaubenslehre,Dikasterium für die Glaubenslehre,ORG,-0.7125,0.0,de,2
+Russlands Angriffskrieg,Russlands Angriffskrieg,ORG,0.0,0.0,de,2
+DAMAC Properties,DAMAC Properties,ORG,0.0,0.0,de,2
+Hamas,Hamas,ORG,0.35,0.0,de,2
 sc…,sc…,ORG,0.0,0.0,de,1
 Stubenlicht,Stubenlicht,ORG,0.0,0.0,de,1
 slapstickhafte Verfolgungsjagden …,slapstickhafte Verfolgungsjagden …,ORG,0.0,0.0,de,1
-Antisemitismus,Antisemitismus,ORG,0.0,0.0,de,1
-Sexleben der See-Elefanten,Sexleben der See-Elefanten,ORG,0.0,0.0,de,1
-Gerichtsverfahr…,Gerichtsverfahr…,ORG,0.0,0.0,de,1
+EU-Beitritt,EU-Beitritt,ORG,0.0,0.0,de,1
+Baseball-Team der,Baseball-Team der,ORG,0.0,0.0,de,1
+Ei…,Ei…,ORG,0.0,0.0,de,1
+Kommission,Kommission,ORG,0.0,0.0,de,1
+NHC,NHC,ORG,-0.7,0.0,de,1
 Chase National Bank,Chase National Bank,ORG,0.7,0.0,de,1
-University of Colorado,University of Colorado,ORG,0.7,0.0,de,1
-Vatikan,Vatikan,ORG,-0.7,0.0,de,1
-Vo…,Vo…,ORG,0.7,0.0,de,1
-Palästinenserpräsident Abbas,Palästinenserpräsident Abbas,ORG,0.0,0.0,de,1
 Neue Freie Presse,Neue Freie Presse,ORG,0.7,0.0,de,1
+Songtex…,Songtex…,ORG,0.0,0.0,de,1
+zule…,zule…,ORG,0.0,0.0,de,1
+EU-Beitrittsprozess,EU-Beitrittsprozess,ORG,0.0,0.0,de,1
+Schweizergardisten,Schweizergardisten,ORG,0.0,0.0,de,1
+Glaubens-Dikasterium,Glaubens-Dikasterium,ORG,-1.0,0.0,de,1
+Staatssender TRT,Staatssender TRT,ORG,0.0,0.0,de,1
+Bulgarien,Bulgarien,ORG,0.0,0.0,de,1
+Fußball-Bundesligisten VfB Stuttgart,Fußball-Bundesligisten VfB Stuttgart,ORG,0.0,0.0,de,1
+VfB-Kapitän,VfB-Kapitän,ORG,0.0,0.0,de,1
+EU-Staaten,EU-Staaten,ORG,0.0,0.0,de,1
+Österreichischen Pilge…,Österreichischen Pilge…,ORG,0.0,0.0,de,1
+Vo…,Vo…,ORG,0.7,0.0,de,1
+Vatikan,Vatikan,ORG,-0.7,0.0,de,1
+Versammlun…,Versammlun…,ORG,1.0,0.0,de,1
+Veröffentl…,Veröffentl…,ORG,0.0,0.0,de,1
+University of Colorado,University of Colorado,ORG,0.7,0.0,de,1
+Palästinenserpräsident Abbas,Palästinenserpräsident Abbas,ORG,0.0,0.0,de,1
+Gerichtsverfahr…,Gerichtsverfahr…,ORG,0.0,0.0,de,1
+TFF,TFF,ORG,0.0,0.0,de,1
+Antisemitismus,Antisemitismus,ORG,0.0,0.0,de,1
+"Oberlandesgerichts 
+Dresden","Oberlandesgerichts 
+Dresden",ORG,0.0,0.0,de,1
+Kurdische Arbeiterpartei,Kurdische Arbeiterpartei,ORG,0.0,0.0,de,1
+Türkei We…,Türkei We…,ORG,0.0,0.0,de,1
+UN-Friedenstruppe,UN-Friedenstruppe,ORG,0.0,0.0,de,1
+nationalen Fußballverbandes,nationalen Fußballverbandes,ORG,0.0,0.0,de,1
+Warum Airlines,Warum Airlines,ORG,0.0,0.0,de,1
+katholischen Kirche,katholischen Kirche,ORG,0.0,0.0,de,1
+Britische Royals,Britische Royals,ORG,0.0,0.0,de,1
+wi…,wi…,ORG,0.35,0.0,de,1
+katholische Kirche in der… Vatikanstadt,katholische Kirche in der… Vatikanstadt,ORG,-1.0,0.0,de,1
+Missionare der Hoffnung,Missionare der Hoffnung,ORG,-1.0,0.0,de,1
+Bartolo Longo,Bartolo Longo,ORG,0.0,0.0,de,1
+RM Sotheby,RM Sotheby,ORG,0.0,0.0,de,1
+Sexleben der See-Elefanten,Sexleben der See-Elefanten,ORG,0.0,0.0,de,1
+Vatikan…,Vatikan…,ORG,0.0,0.0,de,1
+MALEDIVEN,MALEDIVEN,ORG,0.0,0.0,de,1
+All Inclusive,All Inclusive,ORG,0.0,0.0,de,1
+Roc…,Roc…,ORG,0.0,0.0,de,1
+MLB,MLB,ORG,-0.7,0.0,de,1
+Chicago White Sox,Chicago White Sox,ORG,-0.25,0.0,de,1
+Baseball-Team,Baseball-Team,ORG,-0.25,0.0,de,1
+Ch…,Ch…,ORG,-0.7,0.0,de,1
+Weltkirc…,Weltkirc…,ORG,0.0,0.0,de,1
+Istanbuler Staatsanwaltschaft,Istanbuler Staatsanwaltschaft,ORG,0.0,0.0,de,1
+CHP-Parteiführung,CHP-Parteiführung,ORG,0.0,0.0,de,1
+Türkischem Fußballverband,Türkischem Fußballverband,ORG,0.0,0.0,de,1
 Vatikan veröf…,Vatikan veröf…,ORG,0.0,0.0,de,1
+UN-Patrouille,UN-Patrouille,ORG,1.0,0.0,de,1
+Chicago Cubs,Chicago Cubs,ORG,0.0,0.0,de,1
+DUBAI,DUBAI,ORG,0.0,0.0,de,1
 Vatikanbank IOR,Vatikanbank IOR,ORG,-0.7,0.0,de,1
 Vatikanbank,Vatikanbank,ORG,0.0,0.0,de,1
 Storyblocks26.10.2025,Storyblocks26.10.2025,ORG,0.0,0.0,de,1
 Getty,Getty,ORG,0.0,0.0,de,1
+PKK ha,PKK ha,ORG,0.0,0.0,de,1
+Christ-Königs-Sonntag,Christ-Königs-Sonntag,ORG,0.7,0.0,de,1
+Piraten-Community,Piraten-Community,ORG,0.7,0.0,de,1
+All Inclusive &,All Inclusive &,ORG,0.0,0.0,de,1
 China,China,ORG,-0.7,0.0,de,1
-Weltkirc…,Weltkirc…,ORG,0.0,0.0,de,1
-Warum Airlines,Warum Airlines,ORG,0.0,0.0,de,1
-"Link
-","Link
-",ORG,-0.7,0.0,de,1
-Ch…,Ch…,ORG,-0.7,0.0,de,1
-katholischen Kirche,katholischen Kirche,ORG,0.0,0.0,de,1
-EU,EU,ORG,0.0,0.0,de,1
-wi…,wi…,ORG,0.35,0.0,de,1
-Österreichischen Pilge…,Österreichischen Pilge…,ORG,0.0,0.0,de,1
+CHP,CHP,ORG,0.0,0.0,de,1
+deutschen Tennisspielerinnen,deutschen Tennisspielerinnen,ORG,0.0,0.0,de,1
