@@ -67,16 +67,17 @@ keywordsDF['crc'] = keywordsDF['uniqueString'].apply(
 keywordsDF = keywordsDF.drop_duplicates(subset=['keyword'])
 keywordsDF = keywordsDF.sort_values(by=['ratioNew'], ascending=False)  
 
-def addNewNames(urlNames, keyDF, newRatio=0.5,language='de', limitCount=9):
+def addNewLocations(urlNames, keyDF, newRatio=0.5,language='de', limitCount=9):
     stream=requests.get(urlNames).content
     newDF=pd.read_csv(io.StringIO(stream.decode('utf-8')), delimiter=',')
+    newDF = newDF.dropna()
     if(not newDF.empty):
      newDF = newDF[(newDF['count'] > limitCount)]
      if(not newDF.empty):
       for index, column in newDF.iterrows():
         newPhrase = "'" + column['phrase'] + "'" 
         if(not newPhrase in keyDF['keyword'].unique()):
-          newData = {'keyword':newPhrase,'language':language,'topic':'unknown','topicColor':'#111111','keywordColor':'#111111','limitPages':2,'ratioNew':(newRatio+random.random()/100)}
+          newData = {'keyword':newPhrase, 'language':column['language'], 'topic':column['country'], 'topicColor':column['topicColor'], 'keywordColor':column['keywordColor'], 'limitPages':2, 'ratioNew':(newRatio+random.random()/10000+column['count']/1000), 'continent':column['continent'], 'gnd':column['gnd'], 'geonames':column['geonames'], 'latitude':column['latitude'], 'longitude':column['longitude'], 'geotype':column['geotype'], 'country':column['country'], 'ipcc':column['ipcc']}
           ##print(newData)  
           keyDF = pd.concat([keyDF, pd.DataFrame([newData])], ignore_index=True)
     return keyDF
@@ -675,8 +676,10 @@ keywordsDF = addNewNames('https://raw.githubusercontent.com/pg-ufr-news/gensChuc
 keywordsDF = addNewNames('https://raw.githubusercontent.com/pg-ufr-news/winterIsComing/main/csv/sentiments_new_persons.csv', keywordsDF, 0.6, 'de', 9)
 keywordsDF = addNewNames('https://raw.githubusercontent.com/pg-ufr-news/personWhisperer/main/csv/sentiments_new_persons.csv', keywordsDF, 0.5, 'de', 9)
 '''
+keywordsDF = addNewLocations('https://raw.githubusercontent.com/pg-ufr-news/positionIsComming/main/csv/sentiments_new_locations.csv', keywordsDF, 0.5, 'de', 9)
 
 #keywordsDF = keywordsDF.sort_values(by=['topic','keyword'])
+keywordsDF['geonames'] = keywordsDF['geonames'].astype(int)
 keywordsDF = keywordsDF[(keywordsDF.ratioNew > 0.05)]
 keywordsDF = keywordsDF.sort_values(by=['ratioNew'], ascending=False)
 keywordsDF.to_csv(DATA_PATH / 'keywords.csv', columns=keywordsFields,index=False, float_format='%.12f')  
