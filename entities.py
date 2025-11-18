@@ -3,8 +3,14 @@ import pandas as pd
 from pathlib import Path
 import os.path
 import io
-#import requests
 import glob
+
+import requests
+import json
+
+import geocoder
+import geopandas
+import colorsys
 
 import time
 from datetime import datetime
