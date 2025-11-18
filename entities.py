@@ -80,20 +80,20 @@ def searchGeonamesByNameAndLanguage(locationName, lang):
           result['country'] = list(whichCountry['Country'])[0]
        #get gnd
        found = False 
-       result['gnd'] = None
+       result['gnd'] = ''
        gnd = searchGndByGeonamesId(result['geonames'])
        if(gnd and 'gndId' in gnd):
-         result['gnd'] = gnd['gndId']
+         result['gnd'] = str(gnd['gndId'])
          found = True
        if(not found):
          gnd = searchGndByNameAndGeo(locationName, result['latitude'], result['longitude'])
          if(gnd and 'gndId' in gnd):
-           result['gnd'] = gnd['gndId']
+           result['gnd'] = str(gnd['gndId'])
            found = True
        if(not found):
          gnd = searchGndByName(locationName)
          if(gnd and 'gndId' in gnd):
-           result['gnd'] = gnd['gndId']
+           result['gnd'] = str(gnd['gndId'])
            found = True
     #print(result)
     return result
@@ -183,7 +183,7 @@ def searchGndByNameAndGeo(locationName, latitude, longitude, maxDistance=10):
                      #print(member['preferredName']) 
                      result['preferredName'] = member['preferredName']
           #print(result)
-          if(distance2<maxDistance**2):
+          if(minDistance2<maxDistance**2):
             return result
         return None                   
 
@@ -393,21 +393,22 @@ for index, column in objNewsDF.iterrows():
         for entity in doc.ents:
 
             if(entity.label_ in ['LOC','GPE']):
-                if(entity.text in indexLocations):
-                    indexLocations[entity.text]['count'] += 1
-                    indexLocations[entity.text]['sentiment'] += sentence.sentiment.polarity
-                    indexLocations[entity.text]['subjectivity'] += sentence.sentiment.subjectivity
+                locationText = entity.text.strip()
+                if(locationText in indexLocations):
+                    indexLocations[locationText]['count'] += 1
+                    indexLocations[locationText]['sentiment'] += sentence.sentiment.polarity
+                    indexLocations[locationText]['subjectivity'] += sentence.sentiment.subjectivity
                 else:      
-                    indexLocations[entity.text] = {'phrase':entity.text, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
+                    indexLocations[locationText] = {'phrase':locationText, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
                                                    'subjectivity':sentence.sentiment.subjectivity, 'language':lang,'count':1}
 
-                if(not locationInSearch(entity.text) and (column.age < 60)):
-                  if(entity.text in indexNewLocations):
-                    indexNewLocations[entity.text]['count'] += 1
-                    indexNewLocations[entity.text]['sentiment'] += sentence.sentiment.polarity
-                    indexNewLocations[entity.text]['subjectivity'] += sentence.sentiment.subjectivity
+                if(not locationInSearch(locationText) and (column.age < 60)):
+                  if(locationText in indexNewLocations):
+                    indexNewLocations[locationText]['count'] += 1
+                    indexNewLocations[locationText]['sentiment'] += sentence.sentiment.polarity
+                    indexNewLocations[locationText]['subjectivity'] += sentence.sentiment.subjectivity
                   else:    
-                    indexNewLocations[entity.text] = {'phrase':entity.text, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
+                    indexNewLocations[locationText] = {'phrase':locationText, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
                                                  'subjectivity':sentence.sentiment.subjectivity, 'language':lang, 'count':1}  
 
             elif(entity.label_ in ['PER','PERSON']):
