@@ -1,189 +1,201 @@
 ,phrase,label,sentiment,subjectivity,language,count
-“,“,MISC,,,de,42
+“,“,MISC,,,de,45
 "Link
 ","Link
-",MISC,,,de,31
+",MISC,,,de,34
 türkischen,türkischen,MISC,,,de,20
 türkische,türkische,MISC,,,de,16
 Gaza-Krieg,Gaza-Krieg,MISC,,,de,11
-britische,britische,MISC,,,de,8
+britische,britische,MISC,,,de,9
 israelische,israelische,MISC,,,de,7
 britischer,britischer,MISC,,,de,6
+deutsch-türkischen,deutsch-türkischen,MISC,,,de,6
 Zeit,Zeit,MISC,,,de,5
 Waffenruhe,Waffenruhe,MISC,,,de,5
+Türkisches,Türkisches,MISC,,,de,4
+Polarstern,Polarstern,MISC,,,de,4
 katholischen,katholischen,MISC,,,de,4
 Reformation,Reformation,MISC,,,de,4
-Polarstern,Polarstern,MISC,,,de,4
-Türkisches,Türkisches,MISC,,,de,4
+e…,e…,MISC,,,de,3
+Krieg,Krieg,MISC,,,de,3
+amerikanische,amerikanische,MISC,,,de,3
 türkisches,türkisches,MISC,,,de,3
+Hamburger,Hamburger,MISC,,,de,3
 U17-Weltmeisterschaft,U17-Weltmeisterschaft,MISC,,,de,3
 israelischen,israelischen,MISC,,,de,3
-Krieg,Krieg,MISC,,,de,3
-Olivenernte,Olivenernte,MISC,,,de,3
 Gaza-Konflikt,Gaza-Konflikt,MISC,0.0,0.0,de,3
+…,…,MISC,0.11666666666666665,0.0,de,3
+Olivenernte,Olivenernte,MISC,,,de,3
 jüdischen,jüdischen,MISC,,,de,3
-amerikanische,amerikanische,MISC,,,de,3
-Hamburger,Hamburger,MISC,,,de,3
-Kalenderblatt,Kalenderblatt,MISC,0.0,0.0,de,3
-e…,e…,MISC,,,de,3
 protestantischen,protestantischen,MISC,,,de,3
-Kirche-Sein,Kirche-Sein,MISC,,,de,2
-Kurden,Kurden,MISC,,,de,2
-Der Synodale Weg,Der Synodale Weg,MISC,,,de,2
-römischen,römischen,MISC,,,de,2
-Extremwetter-Ereignisse,Extremwetter-Ereignisse,MISC,,,de,2
-deutscher,deutscher,MISC,,,de,2
-Sixtinischen Kapelle Geschichte,Sixtinischen Kapelle Geschichte,MISC,,,de,2
-Christkönigsfest,Christkönigsfest,MISC,,,de,2
-U17-WM,U17-WM,MISC,,,de,2
-Kalten Krieg Erfahrung,Kalten Krieg Erfahrung,MISC,,,de,2
-Zehn Überlebende,Zehn Überlebende,MISC,,,de,2
-Popstars,Popstars,MISC,,,de,2
-DFB-Junioren,DFB-Junioren,MISC,,,de,2
-Frieden“,Frieden“,MISC,,,de,2
-Christen,Christen,MISC,,,de,2
-Hauptroute,Hauptroute,MISC,,,de,2
-Leipziger,Leipziger,MISC,,,de,2
-deutsch-türkischen,deutsch-türkischen,MISC,,,de,2
-türkisch-lib…,türkisch-lib…,MISC,,,de,2
-CDU-Politiker,CDU-Politiker,MISC,,,de,2
-Deutsch-türkische,Deutsch-türkische,MISC,,,de,2
-Griechenland,Griechenland,MISC,-2.0,0.0,de,2
-deutsch-türkische,deutsch-türkische,MISC,,,de,2
-Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,2
-taiwanische,taiwanische,MISC,,,de,2
+Kalenderblatt,Kalenderblatt,MISC,0.0,0.0,de,3
 Wiedervereinigung,Wiedervereinigung,MISC,,,de,2
+Kurden,Kurden,MISC,,,de,2
+Leipziger,Leipziger,MISC,,,de,2
+Hauptroute,Hauptroute,MISC,,,de,2
+deutscher,deutscher,MISC,,,de,2
+Der Synodale Weg,Der Synodale Weg,MISC,,,de,2
+Zehn Überlebende,Zehn Überlebende,MISC,,,de,2
+Kirche-Sein,Kirche-Sein,MISC,,,de,2
+römischen,römischen,MISC,,,de,2
+Griechenland,Griechenland,MISC,-2.0,0.0,de,2
+Christkönigsfest,Christkönigsfest,MISC,,,de,2
+Greenbushes-Mine,Greenbushes-Mine,MISC,0.0,0.0,de,2
+Pol-zu-Pol-Touren,Pol-zu-Pol-Touren,MISC,,,de,2
+Kalten Krieg Erfahrung,Kalten Krieg Erfahrung,MISC,,,de,2
+Miterlöserin“,Miterlöserin“,MISC,,,de,2
+Extremwetter-Ereignisse,Extremwetter-Ereignisse,MISC,,,de,2
+Christen,Christen,MISC,,,de,2
+U17-WM,U17-WM,MISC,,,de,2
+CDU-Politiker,CDU-Politiker,MISC,,,de,2
 Katastrophen“,Katastrophen“,MISC,,,de,2
+Rettungsteams,Rettungsteams,MISC,,,de,2
 bulgarische,bulgarische,MISC,,,de,2
 soziale,soziale,MISC,,,de,2
+taiwanische,taiwanische,MISC,,,de,2
+Capital</li><li>4,Capital</li><li>4,MISC,,,de,2
+stern+,stern+,MISC,,,de,2
+stern+statt,stern+statt,MISC,,,de,2
+Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,2
 Reise in die Türkei,Reise in die Türkei,MISC,,,de,2
+Deutsch-türkische,Deutsch-türkische,MISC,,,de,2
 niederländische,niederländische,MISC,,,de,2
-Rettungsteams,Rettungsteams,MISC,,,de,2
+Popstars,Popstars,MISC,,,de,2
+deutsch-türkische,deutsch-türkische,MISC,,,de,2
 ungarische,ungarische,MISC,,,de,2
+Frieden“,Frieden“,MISC,,,de,2
+türkisch-lib…,türkisch-lib…,MISC,,,de,2
+DFB-Junioren,DFB-Junioren,MISC,,,de,2
 türkischem,türkischem,MISC,,,de,2
-Greenbushes-Mine,Greenbushes-Mine,MISC,0.0,0.0,de,2
-Miterlöserin“,Miterlöserin“,MISC,,,de,2
-T…,T…,MISC,,,de,2
+Marathon-Welt,Marathon-Welt,MISC,,,de,2
+Raub,Raub,MISC,,,de,2
+Mikroplastik,Mikroplastik,MISC,0.7,1.0,de,2
 Schweizer,Schweizer,MISC,,,de,2
-Papst-Motorrad“,Papst-Motorrad“,MISC,,,de,2
-britischen,britischen,MISC,,,de,2
-Weltmissionssonntags,Weltmissionssonntags,MISC,,,de,2
-deutschen,deutschen,MISC,,,de,2
+Vorwurfs,Vorwurfs,MISC,,,de,2
 chilenischer,chilenischer,MISC,,,de,2
+Kronjuwelen-Diebstahl,Kronjuwelen-Diebstahl,MISC,,,de,2
+SPD-Minister,SPD-Minister,MISC,,,de,2
+deutschen,deutschen,MISC,,,de,2
+Weltmissionssonntags,Weltmissionssonntags,MISC,,,de,2
+Papst-Motorrad“,Papst-Motorrad“,MISC,,,de,2
 Antarktis-Kommission,Antarktis-Kommission,MISC,,,de,2
 Deutsche,Deutsche,MISC,,,de,2
-…,…,MISC,0.0,0.0,de,2
-Kronjuwelen-Diebstahl,Kronjuwelen-Diebstahl,MISC,,,de,2
-sozialistischer,sozialistischer,MISC,,,de,2
+britischen,britischen,MISC,,,de,2
 WM,WM,MISC,,,de,2
-Raub,Raub,MISC,,,de,2
 islamistische,islamistische,MISC,,,de,2
-russischen,russischen,MISC,,,de,2
-Mikroplastik,Mikroplastik,MISC,0.7,1.0,de,2
-v…,v…,MISC,,,de,2
-The Voice“-Star,The Voice“-Star,MISC,,,de,2
-kolumbianischen,kolumbianischen,MISC,,,de,2
-Vorwurfs,Vorwurfs,MISC,,,de,2
-Dro…,Dro…,MISC,,,de,2
-Wahl am Sonntag,Wahl am Sonntag,MISC,,,de,2
 indigener,indigener,MISC,,,de,2
-Die russische Invasion in der Ukraine,Die russische Invasion in der Ukraine,MISC,,,de,1
-russische Invasion in der Ukraine,russische Invasion in der Ukraine,MISC,,,de,1
-Vom Musterschüler zum kranken Mann,Vom Musterschüler zum kranken Mann,MISC,,,de,1
-ANDERE BLICK,ANDERE BLICK,MISC,,,de,1
-Trump,Trump,MISC,-0.7,0.0,de,1
-russisches,russisches,MISC,,,de,1
+sozialistischer,sozialistischer,MISC,,,de,2
+Wahl am Sonntag,Wahl am Sonntag,MISC,,,de,2
+Sixtinischen Kapelle Geschichte,Sixtinischen Kapelle Geschichte,MISC,,,de,2
+The Voice“-Star,The Voice“-Star,MISC,,,de,2
+Dro…,Dro…,MISC,,,de,2
+v…,v…,MISC,,,de,2
+kolumbianischen,kolumbianischen,MISC,,,de,2
+russischen,russischen,MISC,,,de,2
+T…,T…,MISC,,,de,2
 Legends Cup,Legends Cup,MISC,,,de,1
-Tag für Tag,Tag für Tag,MISC,,,de,1
-Legends Cup Antalya,Legends Cup Antalya,MISC,,,de,1
 Mordurteil“,Mordurteil“,MISC,,,de,1
-US-LNG,US-LNG,MISC,,,de,1
+südamerikanische,südamerikanische,MISC,,,de,1
+Richter,Richter,MISC,,,de,1
+Legends Cup Antalya,Legends Cup Antalya,MISC,,,de,1
+ersten T…,ersten T…,MISC,,,de,1
+Die russische Invasion in der Ukraine,Die russische Invasion in der Ukraine,MISC,,,de,1
 "Willibrord
 ","Willibrord
 ",MISC,,,de,1
+Droht dem Land,Droht dem Land,MISC,,,de,1
+Tag für Tag,Tag für Tag,MISC,,,de,1
+ANDERE BLICK,ANDERE BLICK,MISC,,,de,1
+Vom Musterschüler zum kranken Mann,Vom Musterschüler zum kranken Mann,MISC,,,de,1
+russische Invasion in der Ukraine,russische Invasion in der Ukraine,MISC,,,de,1
 Turnier-Absage,Turnier-Absage,MISC,,,de,1
 Chile,Chile,MISC,,,de,1
-ersten T…,ersten T…,MISC,,,de,1
-Richter,Richter,MISC,,,de,1
+Drogenkrieg,Drogenkrieg,MISC,,,de,1
+Ankara,Ankara,MISC,-0.02,0.0,de,1
+islamische,islamische,MISC,,,de,1
+Republicanos“,Republicanos“,MISC,,,de,1
+Luftangriffe,Luftangriffe,MISC,,,de,1
 Termine,Termine,MISC,0.0,0.0,de,1
+jüdische,jüdische,MISC,,,de,1
+Beitritt,Beitritt,MISC,,,de,1
 vatikanischen,vatikanischen,MISC,,,de,1
 Türkische,Türkische,MISC,,,de,1
 Selaha…,Selaha…,MISC,,,de,1
 Omega-3-Pillen,Omega-3-Pillen,MISC,,,de,1
 Zentralstelle Extremismus Sachsen …,Zentralstelle Extremismus Sachsen …,MISC,,,de,1
 Waf…,Waf…,MISC,,,de,1
+Fushifaru…,Fushifaru…,MISC,,,de,1
 P…,P…,MISC,,,de,1
 Nato-Verbündeter,Nato-Verbündeter,MISC,,,de,1
 Expeditionsstart“,Expeditionsstart“,MISC,,,de,1
 Antarktis“,Antarktis“,MISC,,,de,1
-Republicanos“,Republicanos“,MISC,,,de,1
 Alfred-Wegener-Instituts,Alfred-Wegener-Instituts,MISC,,,de,1
 PKK-Kaders,PKK-Kaders,MISC,,,de,1
 Deutsche Polizei- und Justizbehörden,Deutsche Polizei- und Justizbehörden,MISC,,,de,1
+Syrien-Debatte,Syrien-Debatte,MISC,,,de,1
 Türkisch-libyscher Mittelmeerpakt,Türkisch-libyscher Mittelmeerpakt,MISC,,,de,1
-Droht dem Land,Droht dem Land,MISC,,,de,1
+Dein inkludierter Schnorchelausflug,Dein inkludierter Schnorchelausflug,MISC,,,de,1
+Lhaviyani-Atoll …,Lhaviyani-Atoll …,MISC,,,de,1
 Airbus A350,Airbus A350,MISC,,,de,1
-islamische,islamische,MISC,,,de,1
-Drogenkrieg,Drogenkrieg,MISC,,,de,1
-südamerikanische,südamerikanische,MISC,,,de,1
 Die Beziehungen zwischen Israel,Die Beziehungen zwischen Israel,MISC,,,de,1
-Ankara,Ankara,MISC,-0.029166666666666664,0.0,de,1
+L…,L…,MISC,,,de,1
 Bundeswehr-Flugbereitschaft,Bundeswehr-Flugbereitschaft,MISC,,,de,1
-Druck auf Länder,Druck auf Länder,MISC,,,de,1
-09.11.2025,09.11.2025,MISC,,,de,1
-Beitritt,Beitritt,MISC,,,de,1
+russisches,russisches,MISC,,,de,1
+Der König des Marathons,Der König des Marathons,MISC,,,de,1
 spanischen,spanischen,MISC,,,de,1
+Zypern-Konflikt,Zypern-Konflikt,MISC,,,de,1
+LSD-Trip,LSD-Trip,MISC,,,de,1
 Hölle“,Hölle“,MISC,,,de,1
+thailändische,thailändische,MISC,,,de,1
 Palästinensische Gefangene,Palästinensische Gefangene,MISC,,,de,1
 Gaza-Krieges,Gaza-Krieges,MISC,,,de,1
 Päpstliche Schweizergarde,Päpstliche Schweizergarde,MISC,,,de,1
 US-Zölle,US-Zölle,MISC,,,de,1
 Zahl der Toten,Zahl der Toten,MISC,,,de,1
+al-Qaida-Komm…,al-Qaida-Komm…,MISC,,,de,1
 Eine ganz normale Familie“,Eine ganz normale Familie“,MISC,,,de,1
 Eine ganz normale Familie…,Eine ganz normale Familie…,MISC,,,de,1
-al-Qaida-Komm…,al-Qaida-Komm…,MISC,,,de,1
 Hunderte Jahre Haft für Erdogan-Gegner Imamoglu,Hunderte Jahre Haft für Erdogan-Gegner Imamoglu,MISC,,,de,1
 Oppos…,Oppos…,MISC,,,de,1
 Kryptoqueen“,Kryptoqueen“,MISC,,,de,1
 Lebensw…,Lebensw…,MISC,,,de,1
 Kriegstreiber“,Kriegstreiber“,MISC,,,de,1
-Markus Lanz,Markus Lanz,MISC,,,de,1
 Klimakonferenz in Brasilien,Klimakonferenz in Brasilien,MISC,,,de,1
+Markus Lanz,Markus Lanz,MISC,,,de,1
 CO2-neutral,CO2-neutral,MISC,,,de,1
 brasilianischen,brasilianischen,MISC,,,de,1
+Frieden,Frieden,MISC,,,de,1
 Die Uno,Die Uno,MISC,,,de,1
-thailändische,thailändische,MISC,,,de,1
-LSD-Trip,LSD-Trip,MISC,,,de,1
-"Europa
-","Europa
-",MISC,,,de,1
-Isman…,Isman…,MISC,,,de,1
+Malaysias,Malaysias,MISC,0.0,0.0,de,1
+Türkei“,Türkei“,MISC,,,de,1
 Hamburg au…,Hamburg au…,MISC,,,de,1
 Regierungsflieger,Regierungsflieger,MISC,-0.3333333333333333,0.0,de,1
 Chrupalla,Chrupalla,MISC,,,de,1
-Klassenverbleib“,Klassenverbleib“,MISC,,,de,1
-Türkei“,Türkei“,MISC,,,de,1
-VfB-Kapitän,VfB-Kapitän,MISC,,,de,1
 Südamerika-Reise,Südamerika-Reise,MISC,,,de,1
-Fußball“,Fußball“,MISC,,,de,1
+US-LNG,US-LNG,MISC,,,de,1
+Trump,Trump,MISC,-0.7,0.0,de,1
+Druck auf Länder,Druck auf Länder,MISC,,,de,1
 Südamerika-Gipfel,Südamerika-Gipfel,MISC,0.0,0.0,de,1
-Malaysias,Malaysias,MISC,0.0,0.0,de,1
-l…,l…,MISC,,,de,1
+Isman…,Isman…,MISC,,,de,1
+Klassenverbleib“,Klassenverbleib“,MISC,,,de,1
 Tref…,Tref…,MISC,,,de,1
+COP30,COP30,MISC,,,de,1
+VfB-Kapitän,VfB-Kapitän,MISC,,,de,1
+Fußball“,Fußball“,MISC,,,de,1
+"Europa
+","Europa
+",MISC,,,de,1
+l…,l…,MISC,,,de,1
 US-Haushaltsstreit,US-Haushaltsstreit,MISC,,,de,1
 Republikaner,Republikaner,MISC,,,de,1
 EU-LAC-Gipfel,EU-LAC-Gipfel,MISC,,,de,1
 kolumbianische,kolumbianische,MISC,,,de,1
-Frieden,Frieden,MISC,,,de,1
-Zypern-Konflikt,Zypern-Konflikt,MISC,,,de,1
 Kirche-Sein“,Kirche-Sein“,MISC,,,de,1
-L…,L…,MISC,,,de,1
-Gaza-Friedensplan,Gaza-Friedensplan,MISC,,,de,1
-jüdische,jüdische,MISC,,,de,1
-Der Juwelenraub,Der Juwelenraub,MISC,,,de,1
-Internet…,Internet…,MISC,,,de,1
-europäische,europäische,MISC,,,de,1
-Donners…,Donners…,MISC,,,de,1
+COP30-Konferenz in Brasilien,COP30-Konferenz in Brasilien,MISC,,,de,1
+09.11.2025,09.11.2025,MISC,,,de,1
+S…,S…,MISC,,,de,1
+h…,h…,MISC,,,de,1
+g…,g…,MISC,,,de,1
 Der Anblick unendlicher Eismassen,Der Anblick unendlicher Eismassen,MISC,,,de,1
 Englischer,Englischer,MISC,,,de,1
 englischer,englischer,MISC,,,de,1
@@ -193,6 +205,7 @@ Zweiten Vatikanischen Konzils,Zweiten Vatikanischen Konzils,MISC,,,de,1
 christliche,christliche,MISC,,,de,1
 Oppositions-Parteitag,Oppositions-Parteitag,MISC,,,de,1
 Jahr 2023,Jahr 2023,MISC,,,de,1
+Tourismus-Markenzeichen,Tourismus-Markenzeichen,MISC,,,de,1
 Eiskalter Wettlauf,Eiskalter Wettlauf,MISC,,,de,1
 Angriff auf die Wissenschaft,Angriff auf die Wissenschaft,MISC,,,de,1
 Nutzvögeln,Nutzvögeln,MISC,,,de,1
@@ -204,12 +217,18 @@ USS Gerald R. Ford,USS Gerald R. Ford,MISC,,,de,1
 Verteidigungsminis…,Verteidigungsminis…,MISC,,,de,1
 Miss Germany los,Miss Germany los,MISC,,,de,1
 Ex-Miss Germany,Ex-Miss Germany,MISC,,,de,1
+E-Auto-Ak…,E-Auto-Ak…,MISC,,,de,1
 Down Under“,Down Under“,MISC,,,de,1
 Lithium-Gigant Australien,Lithium-Gigant Australien,MISC,,,de,1
-Online-Betrugszentren,Online-Betrugszentren,MISC,,,de,1
-Louvre-Einbrechern,Louvre-Einbrechern,MISC,,,de,1
 Weißes Gold“,Weißes Gold“,MISC,,,de,1
-Museumsdiebstahl“,Museumsdiebstahl“,MISC,,,de,1
+Litu…,Litu…,MISC,,,de,1
+Kurdenkonflikt“,Kurdenkonflikt“,MISC,,,de,1
+Elektroauto-Akkus u…,Elektroauto-Akkus u…,MISC,,,de,1
+Arbeiterp…,Arbeiterp…,MISC,,,de,1
+Donners…,Donners…,MISC,,,de,1
+europäische,europäische,MISC,,,de,1
+Internet…,Internet…,MISC,,,de,1
+südamerikanischen,südamerikanischen,MISC,,,de,1
 Spiele,Spiele,MISC,,,de,1
 Englisch,Englisch,MISC,,,de,1
 Google Chrome,Google Chrome,MISC,,,de,1
@@ -222,8 +241,8 @@ Tier…,Tier…,MISC,,,de,1
 Jesus Bikern,Jesus Bikern,MISC,,,de,1
 signiertes Motorrad,signiertes Motorrad,MISC,,,de,1
 Sep…,Sep…,MISC,,,de,1
-südamerikanischen,südamerikanischen,MISC,,,de,1
 Andenland d…,Andenland d…,MISC,,,de,1
+Online-Betrugszentren,Online-Betrugszentren,MISC,,,de,1
 Aufg…,Aufg…,MISC,,,de,1
 Schutz des Lebens in der Antarktis,Schutz des Lebens in der Antarktis,MISC,,,de,1
 Satans“,Satans“,MISC,,,de,1
@@ -233,16 +252,15 @@ Tote im Gazastreifen,Tote im Gazastreifen,MISC,,,de,1
 tagesschau,tagesschau,MISC,,,de,1
 20.10.2025,20.10.2025,MISC,,,de,1
 russischem,russischem,MISC,,,de,1
-E-Auto-Ak…,E-Auto-Ak…,MISC,,,de,1
-Litu…,Litu…,MISC,,,de,1
-Luftangriffe,Luftangriffe,MISC,,,de,1
-kubanischen,kubanischen,MISC,,,de,1
-Royaler Besuch …,Royaler Besuch …,MISC,,,de,1
-Frieden oder …,Frieden oder …,MISC,,,de,1
-Merz,Merz,MISC,,,de,1
-Klo…,Klo…,MISC,,,de,1
+Museumsdiebstahl“,Museumsdiebstahl“,MISC,,,de,1
+Louvre-Einbrechern,Louvre-Einbrechern,MISC,,,de,1
+Der Juwelenraub,Der Juwelenraub,MISC,,,de,1
+The Ultimate DAMAC Islander“,The Ultimate DAMAC Islander“,MISC,,,de,1
+Acht Inselreiseziele,Acht Inselreiseziele,MISC,,,de,1
+österreichische,österreichische,MISC,,,de,1
+p…,p…,MISC,,,de,1
 Droht im Sudan,Droht im Sudan,MISC,,,de,1
-S…,S…,MISC,,,de,1
+Royaler Besuch …,Royaler Besuch …,MISC,,,de,1
 Kirche“,Kirche“,MISC,,,de,1
 M…,M…,MISC,,,de,1
 O…,O…,MISC,,,de,1
@@ -252,33 +270,40 @@ Mission Titelverteidigung,Mission Titelverteidigung,MISC,,,de,1
 tü…,tü…,MISC,,,de,1
 Genozid,Genozid,MISC,,,de,1
 Erdoğan,Erdoğan,MISC,1.0,0.0,de,1
-stern+statt,stern+statt,MISC,,,de,1
-stern+,stern+,MISC,,,de,1
-Capital</li><li>4,Capital</li><li>4,MISC,,,de,1
+Endurance,Endurance,MISC,,,de,1
+englisches,englisches,MISC,,,de,1
+Stattdess…,Stattdess…,MISC,,,de,1
+Heimkino,Heimkino,MISC,,,de,1
+Start i…,Start i…,MISC,,,de,1
 na…,na…,MISC,,,de,1
 Hochfest Allerheiligen auf dem Petersplatz,Hochfest Allerheiligen auf dem Petersplatz,MISC,,,de,1
+Tabakfreie Generation“,Tabakfreie Generation“,MISC,,,de,1
+Malediven,Malediven,MISC,0.0,0.0,de,1
+Guardian a…,Guardian a…,MISC,,,de,1
+Erstes Land,Erstes Land,MISC,,,de,1
+TTS Player,TTS Player,MISC,,,de,1
+G…,G…,MISC,,,de,1
+Die Presse“-SCHAU,Die Presse“-SCHAU,MISC,,,de,1
+Die Presse-SCHAU,Die Presse-SCHAU,MISC,,,de,1
 Österreichische,Österreichische,MISC,,,de,1
-österreichische,österreichische,MISC,,,de,1
-h…,h…,MISC,,,de,1
-SPD-Politiker,SPD-Politiker,MISC,,,de,1
-Hurrikan Melissa,Hurrikan Melissa,MISC,,,de,1
-Kurdenkonflikt“,Kurdenkonflikt“,MISC,,,de,1
-Inselhopping im Inselparadies,Inselhopping im Inselparadies,MISC,,,de,1
-Elektroauto-Akkus u…,Elektroauto-Akkus u…,MISC,,,de,1
-Arbeiterp…,Arbeiterp…,MISC,,,de,1
-The Ultimate DAMAC Islander“,The Ultimate DAMAC Islander“,MISC,,,de,1
-g…,g…,MISC,,,de,1
-Acht Inselreiseziele,Acht Inselreiseziele,MISC,,,de,1
-p…,p…,MISC,,,de,1
+Klo…,Klo…,MISC,,,de,1
+Merz,Merz,MISC,,,de,1
+Frieden oder …,Frieden oder …,MISC,,,de,1
+Tisch,Tisch,MISC,,,de,1
+Regenbogen-Nation,Regenbogen-Nation,MISC,,,de,1
+Phönix,Phönix,MISC,,,de,1
+Grenze,Grenze,MISC,,,de,1
 deutsche,deutsche,MISC,,,de,1
 Programm für Reise,Programm für Reise,MISC,,,de,1
 Ungarns Premier Orbán,Ungarns Premier Orbán,MISC,,,de,1
+Alienfilme,Alienfilme,MISC,,,de,1
+stellvertre…,stellvertre…,MISC,,,de,1
 A…,A…,MISC,,,de,1
 katholische,katholische,MISC,,,de,1
 Alle sind auf Saint Tropez,Alle sind auf Saint Tropez,MISC,,,de,1
 Rettungskräfte bargen am Mittag,Rettungskräfte bargen am Mittag,MISC,,,de,1
-Tisch,Tisch,MISC,,,de,1
 Liste der Themen für das Treffen von Kanzler Merz,Liste der Themen für das Treffen von Kanzler Merz,MISC,,,de,1
+Gaza-Friedensplan,Gaza-Friedensplan,MISC,,,de,1
 RTL+,RTL+,MISC,,,de,1
 AYTO“,AYTO“,MISC,,,de,1
 Are You The One,Are You The One,MISC,,,de,1
@@ -287,4 +312,8 @@ Alles über das Wiedersehen,Alles über das Wiedersehen,MISC,,,de,1
 Wiedersehen von Are You The One,Wiedersehen von Are You The One,MISC,,,de,1
 The Maverick…,The Maverick…,MISC,,,de,1
 Ein Urlaub auf den Malediven,Ein Urlaub auf den Malediven,MISC,,,de,1
+Inselhopping im Inselparadies,Inselhopping im Inselparadies,MISC,,,de,1
+Hurrikan Melissa,Hurrikan Melissa,MISC,,,de,1
+kubanischen,kubanischen,MISC,,,de,1
+SPD-Politiker,SPD-Politiker,MISC,,,de,1
 Fußball-Weltmeisterschaft,Fußball-Weltmeisterschaft,MISC,,,de,1
