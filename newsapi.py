@@ -676,7 +676,7 @@ keywordsDF = addNewNames('https://raw.githubusercontent.com/pg-ufr-news/gensChuc
 keywordsDF = addNewNames('https://raw.githubusercontent.com/pg-ufr-news/winterIsComing/main/csv/sentiments_new_persons.csv', keywordsDF, 0.6, 'de', 9)
 keywordsDF = addNewNames('https://raw.githubusercontent.com/pg-ufr-news/personWhisperer/main/csv/sentiments_new_persons.csv', keywordsDF, 0.5, 'de', 9)
 '''
-keywordsDF = addNewLocations('https://raw.githubusercontent.com/pg-ufr-news/positionIsComming/main/csv/sentiments_new_locations.csv', keywordsDF, 0.5, 'de', 9)
+keywordsDF = addNewLocations('https://raw.githubusercontent.com/pg-ufr-news/positionIsComing/main/csv/sentiments_new_locations.csv', keywordsDF, 0.5, 'de', 9)
 
 #keywordsDF = keywordsDF.sort_values(by=['topic','keyword'])
 keywordsDF['geonames'] = keywordsDF['geonames'].astype(int)
