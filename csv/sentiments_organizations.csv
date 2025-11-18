@@ -1,93 +1,205 @@
 ,phrase,label,sentiment,subjectivity,language,count
+PKK,PKK,ORG,-0.27941176470588236,0.0,de,17
+EU,EU,ORG,0.1125,0.125,de,8
 Kirche,Kirche,ORG,0.29999999999999993,0.0,de,7
-PKK,PKK,ORG,-0.2333333333333333,0.0,de,6
-EU,EU,ORG,0.2,0.2,de,5
-Kirche von England,Kirche von England,ORG,-0.4666666666666666,0.0,de,3
-CDU,CDU,ORG,0.2833333333333333,0.0,de,3
-DAMAC,DAMAC,ORG,0.0,0.0,de,2
-katholischen Bildungswesens,katholischen Bildungswesens,ORG,0.0,0.0,de,2
-Mahmud Abbas,Mahmud Abbas,ORG,0.0,0.0,de,2
-katholische Kirche,katholische Kirche,ORG,0.7,0.0,de,2
-katholischer Kirche,katholischer Kirche,ORG,0.7,0.0,de,2
-katholische Kirche des heiligen Papstes,katholische Kirche des heiligen Papstes,ORG,0.7,0.0,de,2
-GLOBE NEWSWIRE,GLOBE NEWSWIRE,ORG,0.0,0.0,de,2
+CDU,CDU,ORG,0.025000000000000005,0.0,de,6
+SpaceX,SpaceX,ORG,-0.34,0.6,de,5
+Hamas,Hamas,ORG,0.175,0.0,de,4
 "Link
 ","Link
-",ORG,-0.7,0.0,de,2
-Dikasterium für die Glaubenslehre,Dikasterium für die Glaubenslehre,ORG,-0.7125,0.0,de,2
+",ORG,-0.7,0.0,de,4
+Kirche von England,Kirche von England,ORG,-0.4666666666666666,0.0,de,3
+Brasiliens Polizei,Brasiliens Polizei,ORG,-0.2333333333333333,0.0,de,3
+CHP,CHP,ORG,-0.6666666666666666,0.0,de,3
+Universität Leipzig,Universität Leipzig,ORG,-0.3333333333333333,0.0,de,3
+Vereinten Nationen,Vereinten Nationen,ORG,0.0,0.0,de,2
+katholischen Bildungswesens,katholischen Bildungswesens,ORG,0.0,0.0,de,2
+Europäischen Union,Europäischen Union,ORG,0.4666666666666666,0.0,de,2
+Mahmud Abbas,Mahmud Abbas,ORG,0.0,0.0,de,2
+Libyens Parlament,Libyens Parlament,ORG,0.0,0.0,de,2
+Athen,Athen,ORG,0.0,0.0,de,2
+katholischer Kirche,katholischer Kirche,ORG,0.7,0.0,de,2
+AfD-Chef Tino Chrupalla,AfD-Chef Tino Chrupalla,ORG,0.0,0.0,de,2
+"shutterstock
+Libyens Parlament","shutterstock
+Libyens Parlament",ORG,0.0,0.0,de,2
+katholische Kirche des heiligen Papstes,katholische Kirche des heiligen Papstes,ORG,0.7,0.0,de,2
+US-Militär,US-Militär,ORG,-1.0,0.0,de,2
+Uno,Uno,ORG,-0.85,0.0,de,2
+dpo,dpo,ORG,-0.75,0.25,de,2
+China,China,ORG,-0.35,0.0,de,2
+Verdächti…,Verdächti…,ORG,0.0,0.0,de,2
+CDU-Politiker,CDU-Politiker,ORG,0.0,0.0,de,2
+EU-Staaten,EU-Staaten,ORG,0.0,0.0,de,2
+GLOBE NEWSWIRE,GLOBE NEWSWIRE,ORG,0.0,0.0,de,2
+CDU-Pol…,CDU-Pol…,ORG,0.0,0.0,de,2
+Europäischen Gerichtshofs für Menschenrechte,Europäischen Gerichtshofs für Menschenrechte,ORG,-0.35,0.0,de,2
+RSF,RSF,ORG,0.0,0.0,de,2
+EGMR,EGMR,ORG,-0.35,0.0,de,2
 Russlands Angriffskrieg,Russlands Angriffskrieg,ORG,0.0,0.0,de,2
 DAMAC Properties,DAMAC Properties,ORG,0.0,0.0,de,2
-Hamas,Hamas,ORG,0.35,0.0,de,2
-sc…,sc…,ORG,0.0,0.0,de,1
-Stubenlicht,Stubenlicht,ORG,0.0,0.0,de,1
-slapstickhafte Verfolgungsjagden …,slapstickhafte Verfolgungsjagden …,ORG,0.0,0.0,de,1
-EU-Beitritt,EU-Beitritt,ORG,0.0,0.0,de,1
-Baseball-Team der,Baseball-Team der,ORG,0.0,0.0,de,1
-Ei…,Ei…,ORG,0.0,0.0,de,1
-Kommission,Kommission,ORG,0.0,0.0,de,1
-NHC,NHC,ORG,-0.7,0.0,de,1
-Chase National Bank,Chase National Bank,ORG,0.7,0.0,de,1
-Neue Freie Presse,Neue Freie Presse,ORG,0.7,0.0,de,1
-Songtex…,Songtex…,ORG,0.0,0.0,de,1
-zule…,zule…,ORG,0.0,0.0,de,1
-EU-Beitrittsprozess,EU-Beitrittsprozess,ORG,0.0,0.0,de,1
-Schweizergardisten,Schweizergardisten,ORG,0.0,0.0,de,1
-Glaubens-Dikasterium,Glaubens-Dikasterium,ORG,-1.0,0.0,de,1
-Staatssender TRT,Staatssender TRT,ORG,0.0,0.0,de,1
-Bulgarien,Bulgarien,ORG,0.0,0.0,de,1
-Fußball-Bundesligisten VfB Stuttgart,Fußball-Bundesligisten VfB Stuttgart,ORG,0.0,0.0,de,1
-VfB-Kapitän,VfB-Kapitän,ORG,0.0,0.0,de,1
-EU-Staaten,EU-Staaten,ORG,0.0,0.0,de,1
-Österreichischen Pilge…,Österreichischen Pilge…,ORG,0.0,0.0,de,1
-Vo…,Vo…,ORG,0.7,0.0,de,1
-Vatikan,Vatikan,ORG,-0.7,0.0,de,1
-Versammlun…,Versammlun…,ORG,1.0,0.0,de,1
-Veröffentl…,Veröffentl…,ORG,0.0,0.0,de,1
-University of Colorado,University of Colorado,ORG,0.7,0.0,de,1
+Bundeswehr,Bundeswehr,ORG,-0.7,0.0,de,2
+Schweizer Regierung,Schweizer Regierung,ORG,0.0,0.0,de,2
+Uru Chipaya,Uru Chipaya,ORG,0.0,0.0,de,2
+Partei,Partei,ORG,-0.7,0.0,de,2
+Antisemitismus,Antisemitismus,ORG,0.0,0.0,de,2
+Armee,Armee,ORG,-1.0,0.0,de,2
+DAMAC,DAMAC,ORG,0.0,0.0,de,2
+Hannover 96,Hannover 96,ORG,0.0,0.0,de,2
+Dikasterium für die Glaubenslehre,Dikasterium für die Glaubenslehre,ORG,-0.7125,0.0,de,2
+katholische Kirche,katholische Kirche,ORG,0.7,0.0,de,2
+E-Auto-Akku,E-Auto-Akku,ORG,0.0,0.0,de,2
+Berlin,Berlin,ORG,0.7,0.0,de,1
+Deutschland,Deutschland,ORG,0.0,0.0,de,1
+deutsch-türkisc…,deutsch-türkisc…,ORG,0.0,0.0,de,1
+stärk…,stärk…,ORG,0.7,0.0,de,1
+HIntergründe,HIntergründe,ORG,0.0,0.0,de,1
+Ankara,Ankara,ORG,0.0,0.0,de,1
+Vereinigung Arbeiterpartei Kurdistans,Vereinigung Arbeiterpartei Kurdistans,ORG,0.15000000000000002,0.0,de,1
 Palästinenserpräsident Abbas,Palästinenserpräsident Abbas,ORG,0.0,0.0,de,1
 Gerichtsverfahr…,Gerichtsverfahr…,ORG,0.0,0.0,de,1
-TFF,TFF,ORG,0.0,0.0,de,1
-Antisemitismus,Antisemitismus,ORG,0.0,0.0,de,1
+Glaubens-Dikasterium,Glaubens-Dikasterium,ORG,-1.0,0.0,de,1
+Veröffentl…,Veröffentl…,ORG,0.0,0.0,de,1
+Kurdische Arbeiterpartei,Kurdische Arbeiterpartei,ORG,0.0,0.0,de,1
 "Oberlandesgerichts 
 Dresden","Oberlandesgerichts 
 Dresden",ORG,0.0,0.0,de,1
-Kurdische Arbeiterpartei,Kurdische Arbeiterpartei,ORG,0.0,0.0,de,1
-Türkei We…,Türkei We…,ORG,0.0,0.0,de,1
-UN-Friedenstruppe,UN-Friedenstruppe,ORG,0.0,0.0,de,1
-nationalen Fußballverbandes,nationalen Fußballverbandes,ORG,0.0,0.0,de,1
+Shutdown,Shutdown,ORG,0.0,0.0,de,1
+US-Luftraums,US-Luftraums,ORG,-1.0,0.0,de,1
+Nigeria,Nigeria,ORG,-1.0,0.0,de,1
+brasilianische Polizei,brasilianische Polizei,ORG,0.7,0.0,de,1
+brasilianischen Polizei,brasilianischen Polizei,ORG,0.0,0.0,de,1
+Schweizergardisten,Schweizergardisten,ORG,0.0,0.0,de,1
+EU-Rüstungsprogramm Safe,EU-Rüstungsprogramm Safe,ORG,0.7,0.0,de,1
+EU-Verteidungsprogramm Safe,EU-Verteidungsprogramm Safe,ORG,0.7,0.0,de,1
+Samstagmittag,Samstagmittag,ORG,0.0,0.0,de,1
+Ba…,Ba…,ORG,0.0,0.0,de,1
+Öffentli…,Öffentli…,ORG,0.0,0.0,de,1
+mu…,mu…,ORG,-0.7,0.0,de,1
+Gemeinschaft Lateinamerikanischer und Karibischer Staaten,Gemeinschaft Lateinamerikanischer und Karibischer Staaten,ORG,0.0,0.0,de,1
+Luftwaffe,Luftwaffe,ORG,0.0,0.0,de,1
+Herausforderun…,Herausforderun…,ORG,0.0,0.0,de,1
+Internationale Energieagentur,Internationale Energieagentur,ORG,0.0,0.0,de,1
+Mi…,Mi…,ORG,0.0,0.0,de,1
+Markus Lanz,Markus Lanz,ORG,0.0,0.0,de,1
+Vo…,Vo…,ORG,0.7,0.0,de,1
+Erdoğan,Erdoğan,ORG,0.0,0.0,de,1
+Zyperns,Zyperns,ORG,0.0,0.0,de,1
+türkisc…,türkisc…,ORG,0.0,0.0,de,1
+Österreichischen Pilge…,Österreichischen Pilge…,ORG,0.0,0.0,de,1
+CNBC,CNBC,ORG,0.0,0.0,de,1
+Jami…,Jami…,ORG,0.0,0.0,de,1
+DATENANALYSE,DATENANALYSE,ORG,0.0,0.0,de,1
+Uni Leipzig,Uni Leipzig,ORG,0.0,0.0,de,1
+Studierendenaustauschpr…,Studierendenaustauschpr…,ORG,0.0,0.0,de,1
+VfB-Kapitän,VfB-Kapitän,ORG,0.0,0.0,de,1
+Fußball-Bundesligisten VfB Stuttgart,Fußball-Bundesligisten VfB Stuttgart,ORG,0.0,0.0,de,1
+Bulgarien,Bulgarien,ORG,0.0,0.0,de,1
+deutschen Tennisspielerinnen,deutschen Tennisspielerinnen,ORG,0.0,0.0,de,1
+Fol…,Fol…,ORG,0.0,0.0,de,1
+Vatikan,Vatikan,ORG,-0.7,0.0,de,1
+Staatssender TRT,Staatssender TRT,ORG,0.0,0.0,de,1
+CELAC,CELAC,ORG,0.0,0.0,de,1
+RSF-Miliz,RSF-Miliz,ORG,-1.0,0.0,de,1
+Hau…,Hau…,ORG,-1.0,0.0,de,1
+Miliz Rapid Support Forces,Miliz Rapid Support Forces,ORG,-1.0,0.0,de,1
++++ Bolivien,+++ Bolivien,ORG,0.0,0.0,de,1
+G-20-Gipfels,G-20-Gipfels,ORG,0.0,0.0,de,1
+Botschafte…,Botschafte…,ORG,0.0,0.0,de,1
+Verteidigungsministerium,Verteidigungsministerium,ORG,0.7,0.0,de,1
+…,…,ORG,0.0,0.0,de,1
+h…,h…,ORG,0.0,0.0,de,1
+University of Colorado,University of Colorado,ORG,0.7,0.0,de,1
+Vereinigten Sta…,Vereinigten Sta…,ORG,0.15000000000000002,0.0,de,1
+Ver…,Ver…,ORG,-1.0,0.0,de,1
+Versammlun…,Versammlun…,ORG,1.0,0.0,de,1
+Clips,Clips,ORG,-0.7,0.0,de,1
+Angehörige der Streitkräfte,Angehörige der Streitkräfte,ORG,-0.7,0.0,de,1
+IDF,IDF,ORG,-0.7,0.0,de,1
+US-Verteidigungsministerium,US-Verteidigungsministerium,ORG,0.7,0.0,de,1
+Baseball-Team der,Baseball-Team der,ORG,0.0,0.0,de,1
+Kommission,Kommission,ORG,0.0,0.0,de,1
 Warum Airlines,Warum Airlines,ORG,0.0,0.0,de,1
-katholischen Kirche,katholischen Kirche,ORG,0.0,0.0,de,1
-Britische Royals,Britische Royals,ORG,0.0,0.0,de,1
+französi…,französi…,ORG,0.0,0.0,de,1
 wi…,wi…,ORG,0.35,0.0,de,1
-katholische Kirche in der… Vatikanstadt,katholische Kirche in der… Vatikanstadt,ORG,-1.0,0.0,de,1
-Missionare der Hoffnung,Missionare der Hoffnung,ORG,-1.0,0.0,de,1
-Bartolo Longo,Bartolo Longo,ORG,0.0,0.0,de,1
-RM Sotheby,RM Sotheby,ORG,0.0,0.0,de,1
-Sexleben der See-Elefanten,Sexleben der See-Elefanten,ORG,0.0,0.0,de,1
-Vatikan…,Vatikan…,ORG,0.0,0.0,de,1
-MALEDIVEN,MALEDIVEN,ORG,0.0,0.0,de,1
-All Inclusive,All Inclusive,ORG,0.0,0.0,de,1
-Roc…,Roc…,ORG,0.0,0.0,de,1
-MLB,MLB,ORG,-0.7,0.0,de,1
-Chicago White Sox,Chicago White Sox,ORG,-0.25,0.0,de,1
-Baseball-Team,Baseball-Team,ORG,-0.25,0.0,de,1
+AFP-Reporter,AFP-Reporter,ORG,0.0,0.0,de,1
+H…,H…,ORG,0.0,0.0,de,1
+Starlink-Geschäfts…,Starlink-Geschäfts…,ORG,0.0,0.0,de,1
+Britische Royals,Britische Royals,ORG,0.0,0.0,de,1
+katholischen Kirche,katholischen Kirche,ORG,0.0,0.0,de,1
 Ch…,Ch…,ORG,-0.7,0.0,de,1
 Weltkirc…,Weltkirc…,ORG,0.0,0.0,de,1
-Istanbuler Staatsanwaltschaft,Istanbuler Staatsanwaltschaft,ORG,0.0,0.0,de,1
-CHP-Parteiführung,CHP-Parteiführung,ORG,0.0,0.0,de,1
-Türkischem Fußballverband,Türkischem Fußballverband,ORG,0.0,0.0,de,1
-Vatikan veröf…,Vatikan veröf…,ORG,0.0,0.0,de,1
-UN-Patrouille,UN-Patrouille,ORG,1.0,0.0,de,1
-Chicago Cubs,Chicago Cubs,ORG,0.0,0.0,de,1
-DUBAI,DUBAI,ORG,0.0,0.0,de,1
-Vatikanbank IOR,Vatikanbank IOR,ORG,-0.7,0.0,de,1
-Vatikanbank,Vatikanbank,ORG,0.0,0.0,de,1
-Storyblocks26.10.2025,Storyblocks26.10.2025,ORG,0.0,0.0,de,1
 Getty,Getty,ORG,0.0,0.0,de,1
-PKK ha,PKK ha,ORG,0.0,0.0,de,1
-Christ-Königs-Sonntag,Christ-Königs-Sonntag,ORG,0.7,0.0,de,1
-Piraten-Community,Piraten-Community,ORG,0.7,0.0,de,1
+CHP-Parteiführung,CHP-Parteiführung,ORG,0.0,0.0,de,1
+CHP-Spitze,CHP-Spitze,ORG,0.0,0.0,de,1
+Vorwü…,Vorwü…,ORG,0.0,0.0,de,1
+verhän…,verhän…,ORG,0.0,0.0,de,1
 All Inclusive &,All Inclusive &,ORG,0.0,0.0,de,1
-China,China,ORG,-0.7,0.0,de,1
-CHP,CHP,ORG,0.0,0.0,de,1
-deutschen Tennisspielerinnen,deutschen Tennisspielerinnen,ORG,0.0,0.0,de,1
+Piraten-Community,Piraten-Community,ORG,0.7,0.0,de,1
+Lithium-Gigant Australien,Lithium-Gigant Australien,ORG,-0.7,0.0,de,1
+Christ-Königs-Sonntag,Christ-Königs-Sonntag,ORG,0.7,0.0,de,1
+französische Polizei,französische Polizei,ORG,-0.7,0.0,de,1
+Vorwur…,Vorwur…,ORG,0.0,0.0,de,1
+I…,I…,ORG,0.0,0.0,de,1
+AfD,AfD,ORG,1.0,0.0,de,1
+Baseball-Team,Baseball-Team,ORG,-0.25,0.0,de,1
+Chicago White Sox,Chicago White Sox,ORG,-0.25,0.0,de,1
+MLB,MLB,ORG,-0.7,0.0,de,1
+Roc…,Roc…,ORG,0.0,0.0,de,1
+All Inclusive,All Inclusive,ORG,0.0,0.0,de,1
+MALEDIVEN,MALEDIVEN,ORG,0.0,0.0,de,1
+Vatikan…,Vatikan…,ORG,0.0,0.0,de,1
+Nord-Stream-Pipelines,Nord-Stream-Pipelines,ORG,0.13999999999999999,0.0,de,1
+Ukrai…,Ukrai…,ORG,0.0,0.0,de,1
+Sexleben der See-Elefanten,Sexleben der See-Elefanten,ORG,0.0,0.0,de,1
+MA…,MA…,ORG,-0.7,0.0,de,1
+RM Sotheby,RM Sotheby,ORG,0.0,0.0,de,1
+US-Angriff,US-Angriff,ORG,0.0,0.0,de,1
+Präside…,Präside…,ORG,-0.2333333333333333,0.0,de,1
+Bartolo Longo,Bartolo Longo,ORG,0.0,0.0,de,1
+Missionare der Hoffnung,Missionare der Hoffnung,ORG,-1.0,0.0,de,1
+katholische Kirche in der… Vatikanstadt,katholische Kirche in der… Vatikanstadt,ORG,-1.0,0.0,de,1
+PKK ha,PKK ha,ORG,0.0,0.0,de,1
+Storyblocks26.10.2025,Storyblocks26.10.2025,ORG,0.0,0.0,de,1
+EU-Beitrittsprozess,EU-Beitrittsprozess,ORG,0.0,0.0,de,1
+slapstickhafte Verfolgungsjagden …,slapstickhafte Verfolgungsjagden …,ORG,0.0,0.0,de,1
+deutsche Nationalmannschaft,deutsche Nationalmannschaft,ORG,0.0,0.0,de,1
+zw…,zw…,ORG,0.0,0.0,de,1
+SPD,SPD,ORG,-1.0,0.0,de,1
+Grüne,Grüne,ORG,-1.0,0.0,de,1
+Grünen,Grünen,ORG,0.0,0.0,de,1
+GEO,GEO,ORG,1.0,0.0,de,1
+sc…,sc…,ORG,0.0,0.0,de,1
+Stubenlicht,Stubenlicht,ORG,0.0,0.0,de,1
+UNRWA-Direktor,UNRWA-Direktor,ORG,0.0,0.0,de,1
+Vatikanbank,Vatikanbank,ORG,0.0,0.0,de,1
+Chicago Cubs,Chicago Cubs,ORG,0.0,0.0,de,1
+Universität Rotterdam,Universität Rotterdam,ORG,0.0,0.0,de,1
+Sudan,Sudan,ORG,0.0,0.0,de,1
+Sudanese Armed Forces,Sudanese Armed Forces,ORG,1.0,0.0,de,1
+SAF,SAF,ORG,1.0,0.0,de,1
+Rapid Support Forces,Rapid Support Forces,ORG,1.0,0.0,de,1
+Brasiliens Bundespolizei,Brasiliens Bundespolizei,ORG,0.0,0.0,de,1
+EU-Beitritt,EU-Beitritt,ORG,0.0,0.0,de,1
+TV-Übertragung,TV-Übertragung,ORG,0.0,0.0,de,1
+Ei…,Ei…,ORG,0.0,0.0,de,1
+NHC,NHC,ORG,-0.7,0.0,de,1
+Chase National Bank,Chase National Bank,ORG,0.7,0.0,de,1
+Vatikanbank IOR,Vatikanbank IOR,ORG,-0.7,0.0,de,1
+DUBAI,DUBAI,ORG,0.0,0.0,de,1
+UN-Friedenstruppe,UN-Friedenstruppe,ORG,0.0,0.0,de,1
+UN-Patrouille,UN-Patrouille,ORG,1.0,0.0,de,1
+Vatikan veröf…,Vatikan veröf…,ORG,0.0,0.0,de,1
+BVB-Quartett,BVB-Quartett,ORG,0.0,0.0,de,1
+türkischen Verbandes,türkischen Verbandes,ORG,0.0,0.0,de,1
+Türkischem Fußballverband,Türkischem Fußballverband,ORG,0.0,0.0,de,1
+Istanbuler Staatsanwaltschaft,Istanbuler Staatsanwaltschaft,ORG,0.0,0.0,de,1
+nationalen Fußballverbandes,nationalen Fußballverbandes,ORG,0.0,0.0,de,1
+TFF,TFF,ORG,0.0,0.0,de,1
+Türkei We…,Türkei We…,ORG,0.0,0.0,de,1
+US Geological Survey,US Geological Survey,ORG,0.0,0.0,de,1
+zule…,zule…,ORG,0.0,0.0,de,1
+Songtex…,Songtex…,ORG,0.0,0.0,de,1
+un…,un…,ORG,0.0,0.0,de,1
+Neue Freie Presse,Neue Freie Presse,ORG,0.7,0.0,de,1
+deutschen Nationalelf,deutschen Nationalelf,ORG,0.0,0.0,de,1

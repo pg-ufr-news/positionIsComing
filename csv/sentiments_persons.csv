@@ -1,64 +1,127 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Papst Leo XIV,Papst Leo XIV,PER,0.146,0.02,de,25
-Friedrich Merz,Friedrich Merz,PER,0.08499999999999999,0.1,de,10
+Donald Trump,Donald Trump,PER,-0.032499999999999994,0.0,de,20
+Rodrigo Paz,Rodrigo Paz,PER,-0.24916666666666668,0.0,de,20
+Friedrich Merz,Friedrich Merz,PER,-0.040625,0.09375,de,16
+Johann Wadephul,Johann Wadephul,PER,-0.043076923076923075,0.0,de,13
 König Charles III,König Charles III,PER,0.0,0.08888888888888889,de,9
 Leo XIV,Leo XIV,PER,0.09999999999999999,0.0,de,7
 Charles III,Charles III,PER,-0.3499999999999999,0.0,de,6
+Tayyip Erdogan,Tayyip Erdogan,PER,0.0,0.0,de,5
+Vera Kravtsova,Vera Kravtsova,PER,0.5,0.0,de,4
 John Henry Newman,John Henry Newman,PER,0.0,0.0,de,4
+Christdemokrat Paz,Christdemokrat Paz,PER,0.0,0.0,de,4
+Tayyip Erdoan,Tayyip Erdoan,PER,0.3333333333333333,0.0,de,3
+Benjamin Netanjahu ,Benjamin Netanjahu ,PER,0.0,0.0,de,3
+Eva Illouz,Eva Illouz,PER,-0.3333333333333333,0.0,de,3
+Marko Rupnik,Marko Rupnik,PER,0.6666666666666666,0.0,de,3
+Gustavo Petro,Gustavo Petro,PER,0.0,0.0,de,3
 Gene Simmons,Gene Simmons,PER,-0.5666666666666667,0.0,de,3
 Paul Stanley,Paul Stanley,PER,-0.5666666666666667,0.0,de,3
-Marko Rupnik,Marko Rupnik,PER,0.6666666666666666,0.0,de,3
-Hollywoodstar Robert De Niro,Hollywoodstar Robert De Niro,PER,0.0,0.0,de,2
-Marco Colombo,Marco Colombo,PER,0.0,0.0,de,2
-Xi Jinping,Xi Jinping,PER,0.0,0.0,de,2
-Jörg Echtermann,Jörg Echtermann,PER,0.0,0.0,de,2
+Verónica Alcocer,Verónica Alcocer,PER,0.0,0.0,de,2
 Leo der Große,Leo der Große,PER,0.7,0.0,de,2
-Abdullah II,Abdullah II,PER,-0.35,0.0,de,2
+Jörg Echtermann,Jörg Echtermann,PER,0.0,0.0,de,2
+Leo I,Leo I,PER,0.7,0.0,de,2
 Peter Kohlgraf,Peter Kohlgraf,PER,0.0,0.5,de,2
 Viktor Orbán,Viktor Orbán,PER,0.0,0.0,de,2
+Hollywoodstar Robert De Niro,Hollywoodstar Robert De Niro,PER,0.0,0.0,de,2
+Ära linksgerichteter,Ära linksgerichteter,PER,-0.35,0.0,de,2
+José Antonio Kast,José Antonio Kast,PER,0.15000000000000002,0.0,de,2
 Folk-Star Azis,Folk-Star Azis,PER,0.0,0.0,de,2
-Leo I,Leo I,PER,0.7,0.0,de,2
+Abdullah II,Abdullah II,PER,-0.35,0.0,de,2
+Constantin Schreiber,Constantin Schreiber,PER,0.0,0.0,de,2
+Hamburg au,Hamburg au,PER,0.0,0.0,de,2
+Merz Präsident Erdogan,Merz Präsident Erdogan,PER,0.0,0.0,de,2
+gewesenem Ausmaß,gewesenem Ausmaß,PER,-0.875,0.0,de,2
+Xi Jinping,Xi Jinping,PER,0.0,0.0,de,2
+Erdogans Schreckensregime,Erdogans Schreckensregime,PER,0.0,0.0,de,2
+Hakan Fidan,Hakan Fidan,PER,0.4666666666666666,0.0,de,2
+Außenminister Wadephul,Außenminister Wadephul,PER,0.0,0.0,de,2
+Marco Colombo,Marco Colombo,PER,0.0,0.0,de,2
+Liveblog USA,Liveblog USA,PER,-0.5,0.0,de,2
 Papst Johannes Paul II,Papst Johannes Paul II,PER,0.0,0.0,de,2
-Tayyip Erdoan,Tayyip Erdoan,PER,0.5,0.0,de,2
-Trump Selenskyj,Trump Selenskyj,PER,0.0,0.0,de,2
-Trump-Schwiegersohn Kushner,Trump-Schwiegersohn Kushner,PER,0.35,0.0,de,2
-Reinhold Messner,Reinhold Messner,PER,0.35,0.0,de,2
-Joseph Shenouda,Joseph Shenouda,PER,0.0,0.0,de,2
-Kiss-Mitgründer Ace Frehley,Kiss-Mitgründer Ace Frehley,PER,-0.35,0.0,de,2
+Elon Musk,Elon Musk,PER,-0.175,0.75,de,2
 Thérèse von Lisieux,Thérèse von Lisieux,PER,0.0,0.0,de,2
+Trump-Schwiegersohn Kushner,Trump-Schwiegersohn Kushner,PER,0.35,0.0,de,2
+Jorge Quiroga,Jorge Quiroga,PER,0.0,0.0,de,2
+Laure Beccuau,Laure Beccuau,PER,0.0,0.0,de,2
+Trump Selenskyj,Trump Selenskyj,PER,0.0,0.0,de,2
+Reinhold Messner,Reinhold Messner,PER,0.35,0.0,de,2
+Kiss-Mitgründer Ace Frehley,Kiss-Mitgründer Ace Frehley,PER,-0.35,0.0,de,2
 Markus Bugnyar,Markus Bugnyar,PER,0.0,0.0,de,2
-Nikos Christodoulides,Nikos Christodoulides,PER,0.0,0.0,de,1
-Martha Heizer,Martha Heizer,PER,0.0,0.0,de,1
-Recep Tayyip Erdoğan,Recep Tayyip Erdoğan,PER,0.0,0.0,de,1
-Antarktischer Krill,Antarktischer Krill,PER,0.0,0.0,de,1
+Gustavo Petro am Sonntag,Gustavo Petro am Sonntag,PER,0.0,0.0,de,2
+Joseph Shenouda,Joseph Shenouda,PER,0.0,0.0,de,2
+Evo Morales,Evo Morales,PER,0.0,0.0,de,2
+Deutschlands sicherheitspolitisches,Deutschlands sicherheitspolitisches,PER,0.0,0.0,de,1
 Zyperns Präsident Christodoulides,Zyperns Präsident Christodoulides,PER,1.0,0.0,de,1
-Schwester Scolastica,Schwester Scolastica,PER,0.0,0.0,de,1
-Naomi Ochwat,Naomi Ochwat,PER,1.0,0.0,de,1
-Erdogan-Gegner Imamoglu,Erdogan-Gegner Imamoglu,PER,0.0,0.0,de,1
-Ma Ying-jeou,Ma Ying-jeou,PER,0.0,0.0,de,1
-Ma Ying-jeou tref,Ma Ying-jeou tref,PER,0.0,0.0,de,1
-Robert De Niro,Robert De Niro,PER,0.0,0.0,de,1
+Israels Ministerp,Israels Ministerp,PER,0.0,0.0,de,1
 Ekrem Imamoglu,Ekrem Imamoglu,PER,0.0,0.0,de,1
+Jean King Cups,Jean King Cups,PER,0.0,0.0,de,1
+Ma Ying-jeou tref,Ma Ying-jeou tref,PER,0.0,0.0,de,1
+Ma Ying-jeou,Ma Ying-jeou,PER,0.0,0.0,de,1
+Nikos Christodoulides,Nikos Christodoulides,PER,0.0,0.0,de,1
+Baschar al-Assad,Baschar al-Assad,PER,0.0,0.0,de,1
+Jamil Kassas,Jamil Kassas,PER,0.0,0.0,de,1
+Chiles Sehnsucht,Chiles Sehnsucht,PER,0.0,0.0,de,1
+Sheikh Hasina,Sheikh Hasina,PER,0.7,0.0,de,1
+Robert De Niro,Robert De Niro,PER,0.0,0.0,de,1
+Carmen D,Carmen D,PER,-1.0,0.0,de,1
+Israels Schlägen,Israels Schlägen,PER,0.0,0.0,de,1
+entgrenzter Gewalt Skandalvideos,entgrenzter Gewalt Skandalvideos,PER,-0.7,0.0,de,1
+Zhimin Qian,Zhimin Qian,PER,0.35,0.5,de,1
+Israels Foltergefängnis,Israels Foltergefängnis,PER,0.0,0.0,de,1
+Sally Ann Hales,Sally Ann Hales,PER,-0.15000000000000002,0.0,de,1
+Jakob Mayr,Jakob Mayr,PER,0.0,0.0,de,1
+Küste Malaysias ,Küste Malaysias ,PER,-0.7,0.0,de,1
+Exportverbot von Halbleiter-Metallen,Exportverbot von Halbleiter-Metallen,PER,0.0,0.0,de,1
+Ungarns Premier,Ungarns Premier,PER,1.0,0.0,de,1
+Abdel Fattah al-Burh,Abdel Fattah al-Burh,PER,0.0,0.0,de,1
+Reformer Paz,Reformer Paz,PER,0.0,0.0,de,1
+Tufan Erhurman,Tufan Erhurman,PER,0.0,0.0,de,1
 Hospizrektor Bugnyar,Hospizrektor Bugnyar,PER,0.0,0.0,de,1
+Naomi Ochwat,Naomi Ochwat,PER,1.0,0.0,de,1
+Jamieson Greer,Jamieson Greer,PER,0.0,0.0,de,1
+Erdogan-Gegner Imamoglu,Erdogan-Gegner Imamoglu,PER,0.0,0.0,de,1
 König Abdullah II,König Abdullah II,PER,0.0,0.0,de,1
-Jahrhundertsturm Melissa,Jahrhundertsturm Melissa,PER,0.0,0.0,de,1
-King Charles betet,King Charles betet,PER,0.0,0.0,de,1
-Kiss-Gitarrist Ace Frehley,Kiss-Gitarrist Ace Frehley,PER,-1.0,0.0,de,1
-Johann Wadephul,Johann Wadephul,PER,0.0,0.0,de,1
-Anne Schneider,Anne Schneider,PER,0.0,0.0,de,1
-Peter Hacks,Peter Hacks,PER,0.0,0.0,de,1
-Zélie Martin,Zélie Martin,PER,0.0,0.0,de,1
-Donald Trump,Donald Trump,PER,0.0,0.0,de,1
-Johannes Paul,Johannes Paul,PER,0.0,0.0,de,1
-Matthias Alfredsson,Matthias Alfredsson,PER,0.0,0.0,de,1
+Trumps Militärdrohung,Trumps Militärdrohung,PER,-1.0,0.0,de,1
+Anne Herrberg,Anne Herrberg,PER,0.0,0.0,de,1
 Vatikan  ,Vatikan  ,PER,0.0,0.0,de,1
-Tayyip Erdogan,Tayyip Erdogan,PER,0.0,0.0,de,1
+King Charles betet,King Charles betet,PER,0.0,0.0,de,1
+James Monroe,James Monroe,PER,1.0,0.0,de,1
+Matthias Alfredsson,Matthias Alfredsson,PER,0.0,0.0,de,1
+Lauren Dreyer,Lauren Dreyer,PER,0.0,0.0,de,1
+Johannes Paul,Johannes Paul,PER,0.0,0.0,de,1
+CDU-Chef Merz,CDU-Chef Merz,PER,1.0,0.0,de,1
+Zélie Martin,Zélie Martin,PER,0.0,0.0,de,1
+Paz Paz,Paz Paz,PER,1.0,0.0,de,1
+Antarktischer Krill,Antarktischer Krill,PER,0.0,0.0,de,1
+Konservativer Paz,Konservativer Paz,PER,0.0,0.0,de,1
+Rodrigo Paz Pereira,Rodrigo Paz Pereira,PER,0.0,0.0,de,1
+Mitte-Rechts-Politiker Rodrigo Paz Pereira,Mitte-Rechts-Politiker Rodrigo Paz Pereira,PER,0.0,0.0,de,1
+"Jorge ""Tuto"" Quiroga","Jorge ""Tuto"" Quiroga",PER,0.0,0.0,de,1
+Peter Hacks,Peter Hacks,PER,0.0,0.0,de,1
+Benjamin Weber,Benjamin Weber,PER,0.0,0.0,de,1
+Anne Schneider,Anne Schneider,PER,0.0,0.0,de,1
+Kiss-Gitarrist Ace Frehley,Kiss-Gitarrist Ace Frehley,PER,-1.0,0.0,de,1
 Anna Giordano,Anna Giordano,PER,0.0,0.0,de,1
 Jahrestag von Gravissimum,Jahrestag von Gravissimum,PER,0.0,0.0,de,1
 Jahrestag von Gravissimum educationis,Jahrestag von Gravissimum educationis,PER,0.0,0.0,de,1
 Özgür Özel,Özgür Özel,PER,0.0,0.0,de,1
-Donald Trumps,Donald Trumps,PER,0.0,0.0,de,1
-Anahita Rehbein,Anahita Rehbein,PER,0.0,0.0,de,1
-Gioriga Meloni,Gioriga Meloni,PER,0.0,0.0,de,1
+Selahattin Demirtas,Selahattin Demirtas,PER,0.0,0.0,de,1
+Ciro Fiorillo,Ciro Fiorillo,PER,0.0,0.0,de,1
+Roland Friedrich,Roland Friedrich,PER,0.0,0.0,de,1
+Nicolás M,Nicolás M,PER,0.0,0.0,de,1
+Marc Meister,Marc Meister,PER,0.0,0.0,de,1
+Recep Tayyip Erdoğan,Recep Tayyip Erdoğan,PER,0.0,0.0,de,1
+Martha Heizer,Martha Heizer,PER,0.0,0.0,de,1
+Schwester Scolastica,Schwester Scolastica,PER,0.0,0.0,de,1
+Charlotte Merz,Charlotte Merz,PER,0.0,0.0,de,1
+Macit Karaahmetoğlu,Macit Karaahmetoğlu,PER,0.0,0.0,de,1
+Uwe Lueb,Uwe Lueb,PER,0.0,0.0,de,1
 brahim Hacosmanolu,brahim Hacosmanolu,PER,0.0,0.0,de,1
-Jean King Cups,Jean King Cups,PER,0.0,0.0,de,1
+Gioriga Meloni,Gioriga Meloni,PER,0.0,0.0,de,1
+Ibrahim Haciosmanoglu,Ibrahim Haciosmanoglu,PER,0.0,0.0,de,1
+Anahita Rehbein,Anahita Rehbein,PER,0.0,0.0,de,1
+Kriegsminister Pete Hegseth,Kriegsminister Pete Hegseth,PER,0.0,0.0,de,1
+Donald Trumps,Donald Trumps,PER,0.0,0.0,de,1
+Jahrhundertsturm Melissa,Jahrhundertsturm Melissa,PER,0.0,0.0,de,1
