@@ -16,7 +16,7 @@ jobs:
   docker-run-action:
     runs-on: ubuntu-latest
     container:
-      image: credocker/crecoding:2020.0
+      image: credocker/crepython:2020.0
       volumes:
         - ${{ github.workspace }}:/cre/python
     steps:
@@ -31,9 +31,15 @@ jobs:
         run: (cd /cre/python/)
       - name: Install spacy==3.6 textblob_de
         run: (pip3 install spacy==2.2.4 textblob==0.15.3 textblob_de==0.4.3 nltk==3.8)
+      - name: Install geocoder
+        run: (pip3 install geopandas==0.9 geocoder)
       - name: Install download de_core_news_md
         run: (python3 -m spacy download de_core_news_md)
+      - name: cp mysecrets.py
+        run: (cp mysecrets.orig.py mysecrets.py)
       - name: Run entities
+        env:
+            GEONAMES_KEY: ${{ secrets.GEONAMES_KEY }}
         run: (python3 entities.py)
       - name: Submit changes       
         uses: EndBug/add-and-commit@v9

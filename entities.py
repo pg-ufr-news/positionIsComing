@@ -28,6 +28,203 @@ DATA_PATH = Path.cwd()
 if(not os.path.exists(DATA_PATH / 'csv')):
     os.mkdir(DATA_PATH / 'csv')
 
+ipccRegions = geopandas.read_file('https://github.com/creDocker/creAssets/blob/main/cre/versions/u24.04/assets/public/ipcc/IPCC-WGI-reference-regions-v4.geojson?raw=true')
+
+countriesInfo = pd.read_csv("https://github.com/creDocker/creAssets/blob/main/cre/versions/u24.04/assets/public/geonames/countryInfo.csv?raw=true")
+countriesGeo = geopandas.read_file('https://raw.githubusercontent.com/creDocker/creAssets/refs/heads/main/cre/versions/u24.04/assets/public/geonames/shapes_countries.json')
+countriesGeo['geoNameId'] = countriesGeo['geoNameId'].astype(int)
+countriesInfo['geonameid'] = countriesInfo['geonameid'].astype(int)
+countriesDf = pd.merge(countriesGeo, countriesInfo, left_on='geoNameId', right_on='geonameid')
+
+geonamesKey = 'GEONAMES_KEY'
+geonamesKey = os.getenv('GEONAMES_KEY')
+if(geonamesKey == '1a2b3c4d5'): 
+    print('Please set geonames.org key in file: secrets.py');
+
+def searchGeonamesByNameAndLanguage(locationName, lang):
+    if(geonamesKey == '1a2b3c4d5'):
+      return None
+    gn = geocoder.geonames(locationName, lang=lang, key=geonamesKey)
+    #print([phrase,gn,gn.geonames_id]) 
+    result = None
+    if(gn.geonames_id):  
+       result = {'geonames':int(gn.geonames_id), 'geotype':gn.feature_class, 'latitude':float(gn.lat) , 'longitude':float(gn.lng)} 
+       (r, g, b) = colorsys.hls_to_rgb((float(gn.lng)+180)/360, (0.8*float(gn.lat)+90)/180, 0.8)
+       hexColor = "#{:02x}{:02x}{:02x}".format(int(255*r),int(255*g),int(255*b))
+       result['topicColor'] = hexColor
+       result['keywordColor'] = hexColor
+
+       # get country & ipcc
+       coordinates = geopandas.points_from_xy([float(gn.lng)], [float(gn.lat)])
+       Coords = geopandas.GeoDataFrame({
+         'geometry': coordinates,
+         'name': [locationName]
+        }, crs={'init': 'epsg:4326', 'no_defs': True})
+       whichIpcc = geopandas.sjoin(ipccRegions, Coords, how='inner', op='intersects')
+       #print(whichIpcc)
+       result['ipcc'] = None
+       result['continent'] = None
+       if(not whichIpcc.empty):
+           result['ipcc'] = list(whichIpcc['Acronym'])[0]
+           result['continent'] = list(whichIpcc['Continent'])[0]
+       whichCountry = geopandas.sjoin(countriesDf, Coords, how='inner', op='intersects')
+       #print(whichCountry)
+       result['country'] = None
+       if(not whichCountry.empty):
+          result['country'] = list(whichCountry['Country'])[0]
+       #get gnd
+       found = False 
+       result['gnd'] = None
+       gnd = searchGndByGeonamesId(result['geonames'])
+       if(gnd and 'gndId' in gnd):
+         result['gnd'] = gnd['gndId']
+         found = True
+       if(not found):
+         gnd = searchGndByNameAndGeo(locationName, result['latitude'], result['longitude'])
+         if(gnd and 'gndId' in gnd):
+           result['gnd'] = gnd['gndId']
+           found = True
+       if(not found):
+         gnd = searchGndByName(locationName)
+         if(gnd and 'gndId' in gnd):
+           result['gnd'] = gnd['gndId']
+           found = True
+    #print(result)
+    return result
+
+def searchGndByGeonamesId(geonamesId):
+    gndurl = 'https://lobid.org/gnd/search?q='+str(geonamesId)+'&filter=type%3APlaceOrGeographicName&format=json'   #hasGeometry
+    page = requests.get(gndurl, timeout=60)
+    if page.status_code == 200:
+      content = page.content
+      #print(content)
+      if(content):
+        #print(content)
+        jsonData = json.loads(content)
+        #print(jsonData)      #'variantName' !
+        if('member' in jsonData):
+          for member in jsonData['member']:
+           if('sameAs' in member):
+             for same in member['sameAs']:
+               #print(25*"##")
+               #print(same)
+               if('id' in same):
+                 if(same['id']=="https://sws.geonames.org/"+str(geonamesId)):
+                   if('gndIdentifier' in member):
+                     result = {'gndId':member['gndIdentifier']} 
+                     #print(member['gndIdentifier']) 
+                     #print(25*"=*")
+                     #print(member)  
+                     if('hasGeometry' in member):
+                       #print(member['hasGeometry']) 
+                       latitude = None
+                       longitude = None
+                       for geo in member['hasGeometry']:  
+                         if('asWKT' in geo and 'type' in geo and geo['type']=='Point'):
+                            point = geo['asWKT'][0]
+                            point = point.replace('Point ','').strip().strip('()').strip()
+                            #print(point)
+                            coords = point.split(" ")
+                            #print(coords)
+                            result['longitude'] = float(coords[0])
+                            result['latitude'] = float(coords[1])
+                     if('variantName' in member):
+                       #print(member['variantName']) 
+                       result['variantNames'] = member['variantName']  
+                     if('preferredName' in member):
+                       #print(member['preferredName'])
+                       result['preferredName'] = member['preferredName']
+                     return result
+    return None
+
+def searchGndByNameAndGeo(locationName, latitude, longitude, maxDistance=10):
+    gndUrl = 'https://explore.gnd.network/search?term='+locationName+'&f.satzart=Geografikum&rows=1'
+    gndurl = 'https://lobid.org/gnd/search?q='+locationName+'&filter=type%3APlaceOrGeographicName&format=json'   #hasGeometry
+    page = requests.get(gndurl, timeout=60)
+    if page.status_code == 200:
+      content = page.content
+      #print(content)
+      if(content):
+        #print(content)
+        jsonData = json.loads(content)
+        #print(jsonData)      #'variantName' !
+        if('member' in jsonData):
+          minDistance2 = 10E9
+          result = None
+          for member in jsonData['member']:
+           #print(25*"=*")
+           #print(member)  
+           if('hasGeometry' in member):
+            #print(member['hasGeometry']) 
+            for geo in member['hasGeometry']: 
+             if('asWKT' in geo and 'type' in geo and geo['type']=='Point'):
+               point = geo['asWKT'][0]
+               point = point.replace('Point ','').strip().strip('()').strip()
+               #print(point)
+               coords = point.split(" ")
+               #print(coords)
+               currLongitude = float(coords[0])
+               currLatitude = float(coords[1])
+               distance2 = (currLongitude-longitude)**2+(currLatitude-latitude)**2
+               #print(distance2)
+               if(distance2<minDistance2):
+                 minDistance = distance2 
+                 if('gndIdentifier' in member):
+                   #print(member['gndIdentifier']) 
+                   result = {'longitude':currLongitude, 'latitude':currLatitude, 'distance':distance2**0.5}
+                   result['gndId'] = member['gndIdentifier']
+                   if('preferredName' in member):
+                     #print(member['preferredName']) 
+                     result['preferredName'] = member['preferredName']
+          #print(result)
+          if(distance2<maxDistance**2):
+            return result
+        return None                   
+
+def searchGndByName(locationName):
+    gndUrl = 'https://explore.gnd.network/search?term='+locationName+'&f.satzart=Geografikum&rows=1'
+    gndurl = 'https://lobid.org/gnd/search?q='+locationName+'&filter=type%3APlaceOrGeographicName&format=json'   #hasGeometry
+    page = requests.get(gndurl, timeout=60)
+    if page.status_code == 200:
+      content = page.content
+      #print(content)
+      if(content):
+        #print(content)
+        jsonData = json.loads(content)
+        #print(jsonData)      #'variantName' !
+        if('member' in jsonData):
+          for member in jsonData['member']:
+           #print(25*"=*")
+           #print(member)  
+           if('gndIdentifier' in member):
+             #print(member['gndIdentifier']) 
+             result = {'gndId':member['gndIdentifier']} 
+             if('hasGeometry' in member):
+               #print(member['hasGeometry']) 
+               latitude = None
+               longitude = None
+               for geo in member['hasGeometry']:  
+                 if('asWKT' in geo and 'type' in geo and geo['type']=='Point'):
+                    point = geo['asWKT'][0]
+                    point = point.replace('Point ','').strip().strip('()').strip()
+                    #print(point)
+                    coords = point.split(" ")
+                    #print(coords)
+                    result['longitude'] = float(coords[0])
+                    result['latitude'] = float(coords[1])
+             found = False
+             if('variantName' in member):
+               #print(member['variantName']) 
+               result['variantNames'] = member['variantName']  
+               found = locationName in member['variantName'] 
+             if('preferredName' in member):
+               #print(member['preferredName'])
+               result['preferredName'] = member['preferredName']
+               found = found or (member['preferredName'] == locationName)
+             if(found): 
+               return result
+    return None
+
 def getAge(dateString):
     today = datetime.now(timezone.utc)
     timeDate = -1
@@ -258,7 +455,24 @@ indexPersonsDF['subjectivity'] = indexPersonsDF['subjectivity']/indexPersonsDF['
 indexPersonsDF = indexPersonsDF.sort_values(by=['count'], ascending=False)
 indexPersonsDF.to_csv(DATA_PATH / 'csv' / "sentiments_persons.csv", index=True)
 
-indexNewLocationsDF = pd.DataFrame.from_dict(indexNewLocations, orient='index', columns=colSent)
+colNewLocations =  ['phrase', 'label', 'sentiment', 'subjectivity', 'language', 'count', 'topicColor', 'keywordColor', 'continent', 'gnd', 'geonames', 'latitude', 'longitude', 'geotype', 'country', 'ipcc']
+for location in indexNewLocations:
+   if( indexNewLocations[location]['count'] > 9): 
+      lang = indexNewLocations[location]['language']
+      moreData = searchGeonamesByNameAndLanguage(location, lang)  
+      if(moreData):
+         print(moreData)
+         indexNewLocations[location]['topicColor'] = moreData['topicColor'] 
+         indexNewLocations[location]['keywordColor'] = moreData['keywordColor']
+         indexNewLocations[location]['continent'] = moreData['continent']  
+         indexNewLocations[location]['gnd'] = str(moreData['gnd'])
+         indexNewLocations[location]['geonames'] = str(int(moreData['geonames']))
+         indexNewLocations[location]['latitude'] = moreData['latitude']
+         indexNewLocations[location]['longitude'] = moreData['longitude']
+         indexNewLocations[location]['geotype'] = moreData['geotype']
+         indexNewLocations[location]['country'] = moreData['country']
+         indexNewLocations[location]['ipcc'] = moreData['ipcc']
+indexNewLocationsDF = pd.DataFrame.from_dict(indexNewLocations, orient='index', columns=colNewLocations)
 indexNewLocationsDF['sentiment'] = indexNewLocationsDF['sentiment']/indexNewLocationsDF['count']
 indexNewLocationsDF['subjectivity'] = indexNewLocationsDF['subjectivity']/indexNewLocationsDF['count']
 indexNewLocationsDF = indexNewLocationsDF.sort_values(by=['count'], ascending=False)
