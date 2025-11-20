@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'Nay Pyi Taw',de,Myanmar,#00E52D,#00E52D,1,0.735632538250,ASIA,4069500-1,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
 'Ostjerusalem',de,Palestinian Territory,#5a96ec,#5a96ec,2,0.723935799804,EUROPE-AFRICA,4485908-9,7303419,31.783360000000,35.233880000000,P,Palestinian Territory,MED
 'Westinsel',de,Cocos Islands,#bae7f7,#bae7f7,1,0.722500000000,ARCTIC,,2728573,78.750000000000,16.000000000000,T,Spitzbergen und Jan Mayen,ARO
 'Bouvetinsel',de,Bouvet Island,#0d7076,#0d7076,1,0.722500000000,SOUTHERN,4450775-6,3371123,-54.433330000000,3.400000000000,A,Bouvet Island,SOO
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,1,0.643025000000,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,Britische Jungferninseln,CAR
 'McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.643025000000,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Naypyidaw',de,Myanmar,#00E52D,#00E52D,1,0.625670240762,ASIA,4069500-1,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
+'Nay Pyi Taw',de,Myanmar,#00E52D,#00E52D,1,0.625287657512,ASIA,4069500-1,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
 'Alofi',de,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4290878-4,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
 'Niue',de,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4293521-0,4036232,-19.033330000000,-169.866670000000,A,Niue,SPO
 'Gaza',de,Palestinian Territory,#5998ec,#5998ec,2,0.515274513696,EUROPE-AFRICA,4092680-1,281133,31.501610000000,34.466720000000,P,Palestinian Territory,MED
