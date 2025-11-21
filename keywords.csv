@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'Flying Fish Cove',de,Christmas Island,#a417d0,#a417d0,2,0.651816681667,INDIAN,,2078127,-10.421720000000,105.679120000000,P,Christmas Island,SIO
 'Weihnachtsinsel',de,Christmas Island,#a317d0,#a317d0,1,0.651666726667,INDIAN,4219436-2,2078138,-10.500000000000,105.666670000000,A,Christmas Island,SIO
 'Road Town',de,British Virgin Islands,#59BF10,#59BF10,1,0.650700070500,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,British Virgin Islands,CAR
 'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.650671826014,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Tokelau',de,Tokelau,#d23017,#d23017,1,0.565087653479,PACIFIC,4236941-1,4031074,-9.167000000000,-171.830000000000,A,Tokelau,EPO
 'Niue',de,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4293521-0,4036232,-19.033330000000,-169.866670000000,A,Niue,SPO
 'Alofi',de,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4290878-4,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
+'Flying Fish Cove',de,Christmas Island,#a417d0,#a417d0,1,0.554044194417,INDIAN,,2078127,-10.421720000000,105.679120000000,P,Christmas Island,SIO
 'Gaza',de,Palestinian Territory,#5998ec,#5998ec,2,0.516484260464,EUROPE-AFRICA,4092680-1,281133,31.501610000000,34.466720000000,P,Palestinian Territory,MED
 'Spitzbergen und Jan Mayen',de,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,2,0.492156862745,ARCTIC,4056316-9,2729907,78.223340000000,15.646890000000,P,Spitzbergen und Jan Mayen,ARO
 'Longyearbyen',de,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,2,0.492156862745,ARCTIC,4099794-7,2729907,78.223340000000,15.646890000000,P,Spitzbergen und Jan Mayen,ARO
