@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,1,0.643025000000,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,Britische Jungferninseln,CAR
 'Naypyidaw',de,Myanmar,#00E52D,#00E52D,1,0.625670240762,ASIA,4069500-1,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
 'Nay Pyi Taw',de,Myanmar,#00E52D,#00E52D,1,0.625287657512,ASIA,4069500-1,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
 'Palästinensisches Gebiet',de,Palestinian Territory,#BC87DE,#BC87DE,1,0.621313237287,EUROPE-AFRICA,,7303419,31.783360000000,35.233880000000,P,Palestinian Territory,MED
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Heard-Insel',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.547752096434,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Port-aux-Francais',de,French Southern Territories,#210e80,#210e80,1,0.546571250000,SOUTHERN,,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
 'McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.546571250000,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
+'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,1,0.546571250000,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,Britische Jungferninseln,CAR
 'Gaza',de,Palestinian Territory,#5998ec,#5998ec,2,0.516484260464,EUROPE-AFRICA,4092680-1,281133,31.501610000000,34.466720000000,P,Palestinian Territory,MED
 'Weihnachtsinsel',de,Christmas Island,#a317d0,#a317d0,2,0.508205761855,INDIAN,4219436-2,2078138,-10.500000000000,105.666670000000,A,Christmas Island,SIO
 'Vatikanstadt',de,Vatican,#6ed4ee,#6ed4ee,2,0.506423305890,EUROPE-AFRICA,4062404-3,3164670,41.902250000000,12.453300000000,A,Vatican,MED
