@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'Weihnachtsinsel',de,Christmas Island,#a317d0,#a317d0,2,0.683538251238,INDIAN,4219436-2,2078138,-10.500000000000,105.666670000000,A,Christmas Island,SIO
 'Road Town',de,British Virgin Islands,#59BF10,#59BF10,1,0.650700070500,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,British Virgin Islands,CAR
 'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.650671826014,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.650250000000,SOUTHERN,4510620-4,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Grytviken',de,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.614125000000,SOUTHERN,1174011807,3426466,-54.281110000000,-36.509200000000,P,South Georgia and the South Sandwich Islands,SOO
 'Bouvetinsel',de,Bouvet Island,#0d7076,#0d7076,1,0.614125000000,SOUTHERN,4450775-6,3371123,-54.433330000000,3.400000000000,A,Bouvet Island,SOO
 'Adamstown',de,Pitcairn,#b29713,#b29713,1,0.614125000000,PACIFIC,,4030723,-25.065970000000,-130.101470000000,P,Pitcairn,SPO
+'Weihnachtsinsel',de,Christmas Island,#a317d0,#a317d0,2,0.582057618552,INDIAN,4219436-2,2078138,-10.500000000000,105.666670000000,A,Christmas Island,SIO
 'Tokelau',de,Tokelau,#d23017,#d23017,1,0.565087653479,PACIFIC,4236941-1,4031074,-9.167000000000,-171.830000000000,A,Tokelau,EPO
 'Niue',de,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4293521-0,4036232,-19.033330000000,-169.866670000000,A,Niue,SPO
 'Alofi',de,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4290878-4,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
